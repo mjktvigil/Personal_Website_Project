@@ -68,6 +68,8 @@ h2 {
 	color: darkgray;
 	font-size: 33px;
 	margin-left:377px;
+
+/* note to self—research other way to align items withou using negative margin cheat */
 	margin-top: -20px;
 
 }
@@ -99,6 +101,8 @@ h2 {
 	width: auto;
 	height: auto;
 	padding-bottom: 30px;
+
+	/* note to self—research other way to align items withou using negative margin cheat */
 	margin-top: -27px;
 
 }
