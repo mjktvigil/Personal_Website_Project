@@ -1,0 +1,207 @@
+/* CSS Styles for data-design_linkedin_endorsements*/
+
+
+/* Main Content */
+
+body {
+	font-family: sans-serif;
+	color: gray;
+
+}
+
+h1, h2{
+	color: rgb(65,184,241);
+	margin-top: 50px;
+	margin-left: 25px;
+	margin-bottom: 5px;
+	padding-left: 5px;
+
+}
+
+
+
+/* Top Banner
+- logo
+- background color behind logo
+- headline
+- black band
+- profile name
+*/
+
+.topBanner {
+	background-color: gray;
+	width: auto;
+	height: 87px;
+	/*
+	opacity: .5;
+	filter: alpha(opacity=50); /* For IE8 and earlier */;
+}
+
+.logo {
+	width:80px;
+	height:72px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+	padding: 0px;
+	vertical-align: middle;
+	clear: both;
+}
+
+.topBannerHeadline {
+	color: white;
+	font-size: 25px;
+}
+
+.blackBand {
+	background-color: black;
+	margin-top: -20px;
+	width: auto;
+	height: 35px;
+}
+
+/* Profile Photo*/
+
+.flexItemA {
+	background: white;
+	margin-left:20px;
+	margin-bottom: 10px;
+	padding:10px;
+	width: 148px;
+	height: 181px;
+	text-align: left;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	clear: both;
+}
+
+.flexItemB {
+	background: white;
+	margin-top: -215px;
+	margin-left: 190px;
+	padding-top: 20px;
+	padding-left:29px;
+	padding-right:30px;
+	width: 353px;
+	height: 181px;
+	text-align: left;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+
+}
+
+.profileImage {
+	border-radius: 50% 50% 50% 50%;
+	width: 138px;
+	height: 138px;
+	margin-top: 4px;
+	margin-left: 4px;
+	margin-bottom: 4px;
+	background-color: white;
+
+}
+
+.profileName {
+	color: black;
+	font-size: 20px;
+	margin-left: 12px;
+	margin-top: -.1px;
+
+
+}
+
+
+
+
+/* Section Background*/
+
+.main-container{
+	background-color: rgb(4, 52, 83) ;
+	/*
+	opacity: .5;
+	filter: alpha(opacity=50); /* For IE8 and earlier */;
+	width: auto;
+	height: auto;
+	padding-bottom: 30px;
+
+}
+
+/* Description blocks*/
+
+
+.flexItem1 {
+	background: white;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	padding-top: 5px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+	width: 70%;
+	height: auto;
+	text-align: left;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+
+/* Entity–Relationship Models */
+
+.flexItem2 {
+
+	background: white;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	padding-top: 5px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+	width: 610px;
+	height: 370px;
+	text-align: left;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+.imageERM {
+	padding: 10px;
+	width: 600px;
+	height: 267px;
+
+}
+
+
+/* Linkedin_PHP for mySQL */
+
+.flexItem3 {
+
+	background: white;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	padding-top: 5px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+	width: 610px;
+	height: 1525px;
+	text-align: left;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+
+}
+
+.imagePHP {
+	padding: 10px;
+	width: 500px;
+	height: 1439px;
+
+}
+
