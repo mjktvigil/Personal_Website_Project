@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 
+<!-- add IE8 and IE9 statements here??? Ask rlewis for advice -->
 
-
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 	<head>
 		<meta charset="utf-8"/>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -14,9 +14,11 @@
 		<!-- Optional Bootstrap theme -->
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 
-		<!-- Custom CSS Files here -->
+		<!-- start Custom CSS Files -->
 
 		<link href="css/style_ms2.css" rel="stylesheet" type="text/css"  media="all">
+
+		<!-- end Custom CSS Files-->
 
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -33,11 +35,82 @@
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-		<title>Bootstrap 101 Template (DDC Version!)</title>
+
+<!-- adding viewport tag here for mobile–Is this the correct place to add it? rlewis -->
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Marie's Bootstrap page—milestone-2</title>
 	</head>
-	<body>
-		<div class="container">
+
+		<body>
+
+			<!-- Full Body Container -->
+			<div id="container-fluid">
+
+
+				<!-- Start Logo & Naviagtion  -->
+
+
+
+				<nav>
+				<ul class="navbar">
+
+<!--  REMINDER—img src for logo and redirect to home page from other pages -->
+
+					<span a class="navbar-brand" href="   ">
+
+						<img src="   " alt="  "  title="  " />
+					</span>
+
+
+						<ul class="nav navbar-nav navbar-right">
+
+<!--  REMINDER—make home page link to logo here -->
+
+						<li><a  href="   " class="active">home</a>
+						</li>
+						<li><a href="about.html">about us</a>
+						</li>
+						<li><a href="services.html">services</a>
+						</li>
+						<li><a href="project.html">portfolio</a>
+						</li>
+						<li><a href="contact.html">contact</a>
+						</li>
+					</ul>
+
+					<!-- End Navigation List -->
+
+
+							<!-- Start Search
+
+							<div class="search-side">
+								<a href="#" class="show-search"><i class="fa fa-search"></i></a>
+								<div class="search-form">
+									<form autocomplete="off" role="search" method="get" class="searchform" action="#">
+										<input type="text" value="" name="s" id="s" placeholder="Search the site...">
+									</form>
+								</div>
+							</div>
+
+							 End Search -->
+
+			</nav>
+
+				<!-- End Header Logo & Naviagtion -->
+
+
+
+
+		<div class="container-fluid">
+
+
 			<h1>Marie's Bootstrap page</h1>
 		</div>
+
+
 	</body>
+
+
 </html>
