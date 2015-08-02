@@ -9,6 +9,7 @@
 /* ------------------------------------------ */
 /*             TABLE OF CONTENTS
 /* ------------------------------------------ */
+/*   00 - @media                   */
 /*   01 - Linked Fonts             */
 /*   02 - General & Basic Styles   */
 /*   03 - Header & Navigation      */
@@ -17,7 +18,13 @@
 
 
 
+/*   00 - @media                   */
 
+@media (max-width:800px) {
+	#featured {
+		display:none !important;
+	}
+}
 
 
 /*   01 - Linked Fonts             */
@@ -77,6 +84,7 @@ header .navbar {
 /*   04 - Carousel   */
 
 .carousel slide {
+
 	height: 40px;
 	margin-bottom: 30px;
 
