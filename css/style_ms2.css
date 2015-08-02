@@ -132,7 +132,32 @@ and (max-width: 768px) {
 
 	/*   07 - Page    */
 
+.section 1 {
+	margin: 20px 0;
+	text-align: center;
+}
 
+section 1 img {
+		display: block;
+		width: 80px;
+		margin: 0 auto;
+		margin-bottom: 5px;
+	}
+
+.section 2 {
+
+}
+
+section 2 img {
+		display: block;
+		width: 80px;
+		margin: 0 auto;
+		margin-bottom: 5px;
+ }
+
+.section 3 {
+
+}
 
 
 /*   08 - Footer Navigation   */
