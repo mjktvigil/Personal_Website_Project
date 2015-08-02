@@ -12,6 +12,7 @@
 /*   01 - Linked Fonts             */
 /*   02 - General & Basic Styles   */
 /*   03 - Header & Navigation      */
+/*   04 - Footer Navigation   */
 
 
 
@@ -71,3 +72,14 @@ h2 {
 
 }
 
+
+
+
+
+/*   04 - Footer Navigation   */
+
+footer .navbar {
+background-color: transparent;
+
+
+}
