@@ -27,6 +27,7 @@
 
 
 body {
+	padding-top: 30px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	line-height: 21px;
@@ -64,4 +65,9 @@ h2 {
  bootstrap nav set-up
 
   */
+.navbar {
+	margin-bottom: 10px;
+	background-color: #ffffff;
+
+}
 
