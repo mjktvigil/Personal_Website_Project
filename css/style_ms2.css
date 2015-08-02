@@ -13,9 +13,10 @@
 /*   01 - Linked Fonts             */
 /*   02 - General & Basic Styles   */
 /*   03 - Header & Navigation      */
-/**  04 navbar-brand —logo area **/
-/*   05 - Carousel                 */
-/*   06 - Footer Navigation        */
+/**  04 navbar-brand —logo area   **/
+/**  05 Navbar Toggle            **/
+/*   06 - Carousel                 */
+/*   07 - Footer Navigation        */
 
 
 
@@ -97,10 +98,15 @@ background: url(../images/???);
 }
 */
 
+/**   05 Navbar Toggle    **/
+header .navbar-toggle {
+	background-color: #279182;
+}
 
 
 
-/*   05 - Carousel   */
+
+/*   06 - Carousel   */
 
 .carousel slide {
 
@@ -112,7 +118,7 @@ background: url(../images/???);
 
 
 
-/*   06 - Footer Navigation   */
+/*   07 - Footer Navigation   */
 
 footer .navbar {
 background-color: transparent;
