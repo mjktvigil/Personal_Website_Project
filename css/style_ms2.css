@@ -1,6 +1,6 @@
 /* CSS Document */
 
-/*
+/* Hello: This is a pick up css file that I will be using to create next steps in project. This css sheet was created while I was practicing Bootstrap.
 	Description: personal website project—milestone-2
 	Author: mariejtvigil
 	Website: http://jtdesignsolutions.com
@@ -13,20 +13,21 @@
 /*   01 - Linked Fonts             */
 /*   02 - General & Basic Styles   */
 /*   03 - Header & Navigation      */
-/**  04 navbar-brand —logo area   **/
-/**  05 Navbar Toggle             **/
+/**  04 - navbar-brand —logo area **/
+/**  05 - Navbar Toggle           **/
 /*   06 - Carousel                 */
-/*   07 - Page                     */
-/*   08 - Footer Navigation        */
+/*   07 - Image                     */
+/*   08 - Page                     */
+/*   09 - Footer Navigation        */
 
 
 
-/*   00 - @media                   */
+/*   00 - @media
 
 @media (max-width:800px) {
 	#featured {
 		display:none !important;
-	}
+	}   */
 }
 
 
@@ -104,7 +105,7 @@ background: url(../images/???);
 }
 */
 
-/**   05 Navbar Toggle    **/
+/**   05 Navbar Toggle
 header .navbar-toggle {
 	background-color: #279182;
 }
@@ -117,20 +118,26 @@ header .navbar-default .navbar-toggle .icon-bar {
 and (max-width: 768px) {
 	header .navbar-collapse.in {
 		background-color: rgba(0,0,0, .5);
-	}
+	}    **/
 
 
-/*   06 - Carousel   */
+/*   06 - Carousel
 
 .carousel slide {
 
 	height: 120px;
 	margin-bottom: 30px;
+}   */
 
 
+	/*   07 - Image   */
+
+.flow chart {
+	width: 432px;
+	height: auto;
 }
 
-	/*   07 - Page    */
+	/*   08 - Page
 
 #persona {
 
@@ -179,12 +186,12 @@ section 2 img {
 		.section1 .section2 .section3 p {
 			padding: 0 20%;
 		}
-	}
+	}    */
 
-/*   08 - Footer Navigation   */
+/*   09 - Footer Navigation
 
 footer .navbar {
 background-color: transparent;
 
 
-}
+}   */
