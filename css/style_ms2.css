@@ -67,8 +67,8 @@ h2 {
  bootstrap nav set-up
 
   */
-.navbar {
-	margin-bottom: 10px;
+header .navbar {
+	margin-bottom: 30px;
 	background-color: #ffffff;
 
 }
@@ -78,6 +78,7 @@ h2 {
 
 .carousel slide {
 	height: 40px;
+	margin-bottom: 30px;
 
 
 }
