@@ -103,8 +103,13 @@ header .navbar-toggle {
 	background-color: #279182;
 }
 
+header .navbar-default .navbar-toggle .icon-bar {
+	background-color: white;
+}
 
-
+header .navbar-collapse {
+	background-color: rgba(0,0,0, .5)
+}
 
 /*   06 - Carousel   */
 
