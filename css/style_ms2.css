@@ -16,7 +16,8 @@
 /**  04 navbar-brand —logo area   **/
 /**  05 Navbar Toggle             **/
 /*   06 - Carousel                 */
-/*   07 - Footer Navigation        */
+/*   07 - Page                     */
+/*   08 - Footer Navigation        */
 
 
 
@@ -48,13 +49,18 @@ h1 h2 {
 	font-family: 'Open Sans', sans-serif;
 	margin: 0;
 	color: #444;
+	text-align: center;
 }
 
 h1, h2, h3 {
 	font-family: "Open Sans", sans-serif;
 	font-weight: 100;
 	margin: 0;
-	text-align: center;
+
+}
+
+h3 {
+	text-align: left;
 }
 
 
@@ -124,9 +130,12 @@ and (max-width: 768px) {
 
 }
 
+	/*   07 - Page    */
 
 
-/*   07 - Footer Navigation   */
+
+
+/*   08 - Footer Navigation   */
 
 footer .navbar {
 background-color: transparent;
