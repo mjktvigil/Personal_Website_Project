@@ -29,20 +29,18 @@
 
 /*   01 - Linked Fonts             */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800|Roboto+Slab:400,100,300,700);
 
 
 /*   02 - General & Basic Styles   */
 
 
-body {
+body{
 	padding-top: 50px;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 13px;
-	line-height: 21px;
+	font-family: "Roboto Slab", sans-serif;
 	font-weight: 300;
-	color: #666;
-	background: url(    ) fixed repeat;
+	font-size: 2em;
+	/*position: relative;*/
 }
 
 h1 h2 {
@@ -51,16 +49,10 @@ h1 h2 {
 	color: #444;
 }
 
-h1 {
-	font-weight: 400;
-	font-size: 24px;
-	line-height: 30px;
-}
-
-h2 {
-	font-weight: 400;
-	font-size: 14px;
-	line-height: 30px;
+h1, h2, h3 {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 100;
+	margin: 0;
 }
 
 
