@@ -36,7 +36,6 @@
 
 
 body{
-	padding-top: 50px;
 	font-family: "Roboto Slab", sans-serif;
 	font-weight: 300;
 	font-size: 2em;
@@ -53,6 +52,7 @@ h1, h2, h3 {
 	font-family: "Open Sans", sans-serif;
 	font-weight: 100;
 	margin: 0;
+	alignment: center;
 }
 
 
@@ -66,15 +66,13 @@ img {
 
 
 
-/*   03 - Header & Navigation
- bootstrap nav set-up
+/*   03 - Header & Navigation   */
 
-  */
+
 header .navbar {
-	margin-bottom: 30px;
-	background-color: #ffffff;
-
+	padding: 30px 0;
 }
+
 
 
 /*   04 - Carousel   */
