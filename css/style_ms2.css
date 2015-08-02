@@ -75,6 +75,16 @@ header .navbar {
 	color: black;
 }
 
+.nav .navbar-nav .navbar-right a:hover {
+	color: #EEC856;
+}
+
+.nav .navbar-nav .navbar-right .active a:hover {
+	font-weight: 700;
+	color: #EEC856;
+
+}
+}
 
 /*   04 - Carousel   */
 
