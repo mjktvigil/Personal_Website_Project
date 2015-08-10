@@ -1,0 +1,188 @@
+/* CSS Document */
+
+/* Hello: This is a pick up css file that I will be using to create next steps in project. This css sheet was created while I was practicing Bootstrap.
+	Description: personal website project—milestone-2
+	Author: mariejtvigil
+	Website: http://jtdesignsolutions.com
+*/
+
+/* ------------------------------------------ */
+/*             TABLE OF CONTENTS
+/* ------------------------------------------ */
+/*   00 - @media                   */
+/*   01 - Linked Fonts             */
+/*   02 - General & Basic Styles   */
+/*   03 - Header & Navigation      */
+/*   04 - navbar-brand —logo area  */
+/*   05 - Navbar Toggle            */
+/*   06 - Image                    */
+/*   07 - Page                     */
+/*   08 - Footer                   */
+
+
+
+/*   00 - @media
+
+@media (max-width:800px) {
+	#featured {
+		display:none !important;
+	}   */
+
+
+
+/*   01 - Linked Fonts             */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800|Roboto+Slab:400,100,300,700);
+
+
+/*   02 - General & Basic Styles   */
+
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 2em;
+	/*position: relative;*/
+}
+
+h1 h2 {
+	font-family: 'Open Sans', sans-serif;
+	color: 1990ab;
+}
+
+h1, h2, h3 {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 100;
+	margin: 0;
+
+}
+
+
+
+.container {
+	background-color: #fff;
+}
+
+img {
+	max-width: 200px;
+}
+
+
+
+/*   03 - Header & Navigation   */
+
+
+header .navbar {
+	padding: 30px 0;
+	border: none;
+	color: black;
+}
+
+.nav .navbar-nav .navbar-right a:hover {
+	color: #EEC856;
+}
+
+.nav .navbar-nav .navbar-right .active a:hover {
+	font-weight: 700;
+	color: #EEC858;
+
+}
+
+
+/*   04 navbar-brand —logo area  */
+
+/* 	header .navbar-brand {
+background: url(../images/???);
+	background-repeat: no-repeat;
+	background-position: 15px 0;
+	height: auto;
+}
+*/
+
+/*    05 Navbar Toggle     */
+
+header .navbar-toggle {
+	background-color: #279182;
+}
+
+header .navbar-default .navbar-toggle .icon-bar {
+	background-color: white;
+}
+
+@media only screen
+and (max-width: 768px) {
+	header .navbar-collapse.in {
+		background-color: rgba(0,0,0, .5);
+	}
+
+
+/*    06 - Image     */
+
+.flowchart {
+	width: 432px;
+	height: auto;
+	margin-bottom: 30px;
+}
+
+/*    07 - Page
+
+#persona {
+
+}
+
+.persona2 {
+
+
+}
+
+.section 1 {
+margin: 20px 0;
+text-align: center;
+}
+
+section 1 img {
+	display: block;
+	width: 80px;
+	margin: 0 auto;
+	margin-bottom: 5px;
+}
+
+.section 2 {
+
+}
+
+section 2 img {
+	display: block;
+	width: 80px;
+	margin: 0 auto;
+	margin-bottom: 5px;
+}
+
+.section 3 {
+
+}
+
+.section1 .section2 .section3 h3 {
+	margin-bottom: 10px;
+}
+
+
+@media only screen
+and (min-width: 450px)
+and (max-width: 768px) {
+	.section1 .section2 .section3 p {
+		padding: 0 20%;
+	}
+}    */
+
+/*    08 - Footer   */
+
+footer .navbar {
+	background-color: transparent;
+
+}
+.footer .navbar {
+	background-color: transparent;
+	margin-top: 40px;
+
+	}
