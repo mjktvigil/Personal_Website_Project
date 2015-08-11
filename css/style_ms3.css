@@ -16,7 +16,7 @@
 /*   04 - navbar-brand —logo area  */
 /*   05 - Navbar Toggle            */
 /*   06 - Image                    */
-/*   07 - Footer                   */
+
 
 
 
@@ -147,17 +147,5 @@ header .navbar-default .navbar-toggle .icon-bar {
 }
 
 
-
-/*    07 - Footer   */
-
-
-footer .navbar {
-	background-color: transparent;
-}
-
-.footer .navbar {
-	background-color: transparent;
-	margin-top: 40px;
-}
 
 
