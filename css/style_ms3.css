@@ -16,7 +16,8 @@
 /*   04 - navbar-brand —logo area  */
 /*   05 - Navbar Toggle            */
 /*   06 - Image                    */
-/*   07 - Footer                   */
+/*   07 - Scroller                 */
+/*   08 - Footer                   */
 
 
 
@@ -125,37 +126,68 @@ header .navbar-default .navbar-toggle .icon-bar {
 .ourStory {
 	width: 1000px;
 	height: auto;
-	margin-top: 120px;
+	margin-top: 50px;
 }
 
 .portfolio {
 	width: 1000px;
 	height: auto;
-	margin-top: 120px;
+	margin-top: 50px;
 }
 
 .home {
 	width: 1000px;
 	height: auto;
-	margin-top: 120px;
+	margin-top: 50px;
 }
-
-.homeMobile {
-	border:1px solid black;
-	width:auto;
-	height:150px;
-	overflow:scroll;
-}
-
 
 .chat-with-us {
-	width: 1000px;
+	width: 2000px;
 	height: auto;
-	margin-top: 120px;
+	margin-top: 50px;
 }
 
 
-/*    07 - Footer   */
+/*    07 - Scroller     */
+
+
+
+/* relative positioning—allows the option of adding an edge overlays later */
+#scroller {
+	position: relative;
+}
+
+
+/* clip anything that runs over—"overflow: hidden"—position the holder to fully fill its parent, the #scroller div */
+#scroller .innerScrollArea {
+	overflow: hidden;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+
+/* remove the default margin and padding—"position: relative" so the list items can be laid out in a horizontal row. */
+#scroller ul {
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+
+
+/* remove the default padding, margin and list bullets—position is set to absolute—JavaScript to set the precise left positioning value. */
+#scroller li {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	position: absolute;
+}
+
+
+
+
+/*    08 - Footer   */
 
 
 footer .navbar {
@@ -166,3 +198,5 @@ footer .navbar {
 	background-color: transparent;
 	margin-top: 40px;
 }
+
+
