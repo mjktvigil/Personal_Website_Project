@@ -16,8 +16,7 @@
 /*   04 - navbar-brand —logo area  */
 /*   05 - Navbar Toggle            */
 /*   06 - Image                    */
-/*   07 - Page                     */
-/*   08 - Footer                   */
+/*   07 - Footer                   */
 
 
 
@@ -47,7 +46,7 @@ body{
 
 h1 h2 {
 	font-family: 'Open Sans', sans-serif;
-	color: 1990ab;
+	color: #1990ab;
 }
 
 h1, h2, h3 {
@@ -109,80 +108,31 @@ header .navbar-default .navbar-toggle .icon-bar {
 	background-color: white;
 }
 
-@media only screen
-and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
+
 	header .navbar-collapse.in {
-		background-color: rgba(0,0,0, .5);
+		background-color: rgba(0, 0, 0, .5);
 	}
+
+}
 
 
 /*    06 - Image     */
 
-.flowchart {
-	width: 432px;
+.about {
+	width: 1404px;
 	height: auto;
 	margin-bottom: 30px;
 }
 
-/*    07 - Page
 
-#persona {
-
-}
-
-.persona2 {
-
-
-}
-
-.section 1 {
-margin: 20px 0;
-text-align: center;
-}
-
-section 1 img {
-	display: block;
-	width: 80px;
-	margin: 0 auto;
-	margin-bottom: 5px;
-}
-
-.section 2 {
-
-}
-
-section 2 img {
-	display: block;
-	width: 80px;
-	margin: 0 auto;
-	margin-bottom: 5px;
-}
-
-.section 3 {
-
-}
-
-.section1 .section2 .section3 h3 {
-	margin-bottom: 10px;
-}
-
-
-@media only screen
-and (min-width: 450px)
-and (max-width: 768px) {
-	.section1 .section2 .section3 p {
-		padding: 0 20%;
-	}
-}    */
-
-/*    08 - Footer   */
+/*    07 - Footer   */
 
 footer .navbar {
 	background-color: transparent;
-
 }
+
 .footer .navbar {
 	background-color: transparent;
 	margin-top: 40px;
-
-	}
+}
