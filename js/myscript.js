@@ -2,6 +2,24 @@
  * Created by Marie on 8/1/15.
  */
 
-$('.carousel').carousel({
-	interval: 5000
+
+
+x = 0;
+$(document).ready(function(){
+
+	// scroll
+	$("blockquote").scroll(function(){
+	});
+
+	// carousel
+	$('.carousel').carousel({
+		interval: 5000
+	});
+
+
+
+
+
+
+
 });

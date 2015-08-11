@@ -1,10 +1,10 @@
 /* CSS Document */
 
-/* Hello: This is a pick up css file that I will be using to create next steps in project. This css sheet was created while I was practicing Bootstrap.
-	Description: personal website project—milestone-2
-	Author: mariejtvigil
-	Website: http://jtdesignsolutions.com
-*/
+/**
+*
+* @author Marie Vigil <marie@jtdesignsolutions>
+*
+**/
 
 /* ------------------------------------------ */
 /*             TABLE OF CONTENTS
@@ -90,6 +90,7 @@ header .navbar {
 
 /*   04 navbar-brand —logo area  */
 
+
 /* 	header .navbar-brand {
 background: url(../images/???);
 	background-repeat: no-repeat;
@@ -99,6 +100,7 @@ background: url(../images/???);
 */
 
 /*    05 Navbar Toggle     */
+
 
 header .navbar-toggle {
 	background-color: #279182;
@@ -119,14 +121,42 @@ header .navbar-default .navbar-toggle .icon-bar {
 
 /*    06 - Image     */
 
+
 .ourStory {
-	width: 500px;
+	width: 1000px;
 	height: auto;
-	margin-top: 50px;
+	margin-top: 120px;
+}
+
+.portfolio {
+	width: 1000px;
+	height: auto;
+	margin-top: 120px;
+}
+
+.home {
+	width: 1000px;
+	height: auto;
+	margin-top: 120px;
+}
+
+.homeMobile {
+	border:1px solid black;
+	width:auto;
+	height:150px;
+	overflow:scroll;
+}
+
+
+.chat-with-us {
+	width: 1000px;
+	height: auto;
+	margin-top: 120px;
 }
 
 
 /*    07 - Footer   */
+
 
 footer .navbar {
 	background-color: transparent;
