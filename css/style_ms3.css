@@ -119,10 +119,10 @@ header .navbar-default .navbar-toggle .icon-bar {
 
 /*    06 - Image     */
 
-.about {
-	width: 1404px;
+.ourStory {
+	width: 500px;
 	height: auto;
-	margin-bottom: 30px;
+	margin-top: 50px;
 }
 
 
