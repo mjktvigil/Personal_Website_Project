@@ -33,3 +33,10 @@ Overall your code is looking good - you're on the right track. Here are some poi
 - Place the IE Conditional Comment in the &lt;head&gt; tag.
 - jQuery and Bootstrap JavaScript have been loaded twice. Remove lines 259 and 260.
 - Your custom JS (on line 261), should be placed after the Bootstrap JS on line 264.
+
+###Milestone 3 Feedback
+Awesome job on the wireframes. This layout should work really well using Bootstrap, but think of streamlining your galleries and features for the sake of MVP. Time is the largest constraint for this project. Your code is looking good. Deploy your PWP to your A Small Orange host. Your Milestone 3 passes at Tier IV.
+ 
+##Suggestions
+- Take a look at the [Swipebox](http://brutaldesign.github.io/swipebox) plugin for your gallery
+- Familiarize yourself with [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), and learn the [Boostrap grid system](http://getbootstrap.com/css/#grid-example-basic) well.
