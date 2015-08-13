@@ -11,10 +11,11 @@
     <!-- Optional Bootstrap theme -->
     <link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 
-    <!-- ////////////////////////////////////////////////
-    //// LINK TO YOUR CUSTOM CSS FILES HERE
-    //// <link type="text/css" href="css/style.css" rel="stylesheet"/>
-    ///////////////////////////////////////////////////// -->
+	  <!-- start Custom CSS Files -->
+
+	  <link href="/css/style.css" rel="stylesheet" type="text/css"  media="all">
+
+	  <!-- end Custom CSS Files-->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
