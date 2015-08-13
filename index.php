@@ -1,4 +1,4 @@
-<?php require_once(dirname dirname(__DIR__) . "/required-once-project/lib/head-utils.php"); ?>
+<?php require_once(dirname(__DIR__) . "/personal_website_project/lib/head-utils.php"); ?>
 
 
 	<!-------- HEADER -------->
@@ -7,7 +7,7 @@
 
 	<header>
 
-		<?php require_once(dirname(__DIR__) . "/required-once-project/lib/header.php"); ?>
+		<?php require_once(dirname(__DIR__) . "/personal_website_project/lib/header.php"); ?>
 
 	</header>
 
@@ -37,7 +37,7 @@
 
 	<footer class="footer">
 
-		<?php require_once(dirname(__DIR__) . "/required-once-project/lib/footer.php"); ?>
+		<?php require_once(dirname(__DIR__) . "/personal_website_project/lib/footer.php"); ?>
 
 	</footer>
 
