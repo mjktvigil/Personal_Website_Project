@@ -1,9 +1,9 @@
-<?php require_once(dirname(dirname(__DIR__)) . "/lib/head-utils.php"); ?>
+<?php require_once('lib/head-utils.php'); ?>
 <body>
 	<div class="container">
 		<!-------- HEADER -------->
 		<header>
-			<?php require_once(dirname(dirname(__DIR__)) . "/lib/header.php"); ?>
+			<?php require_once('lib/header.php'); ?>
 		</header>
 		<div class="row">
 			<section class="side-panel col-md-3">
@@ -15,7 +15,7 @@
 		</div><!-- row -->
 		<!-------- Footer -------->
 		<footer class="footer">
-			<?php require_once(dirname(dirname(__DIR__)) . "/lib/footer.php"); ?>
+			<?php require_once('lib/footer.php'); ?>
 		</footer>
 	</div><!-- .container -->
 </body>
