@@ -36,6 +36,6 @@
     <!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
     <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
-    <title>require-once-project </title>
+    <title>jtdesignsolutions</title>
 
   </head>
