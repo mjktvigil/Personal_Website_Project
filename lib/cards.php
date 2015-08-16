@@ -1,20 +1,21 @@
 <?php require_once('../lib/head-utils.php'); ?>
-<link href="../css/card-styles.css" rel="stylesheet" type="text/css" media="all">
+<link href="../css/card-styles.css" rel="stylesheet" type="text/css" media="all" xmlns="http://www.w3.org/1999/html">
 
 	<!-------- HEADER -------->
 	<header>
 		<?php require_once('../lib/header.php'); ?>
 	</header>
 	<body>
-<!-- Banner image -->
+		<!-- Banner image -->
 		<div class="masthead">
 <!--		<a href="#">
 				<h1 class="site-title">jtdesignsolutions-Card Layout</h1>-->
 <!--		</a>-->
 		</div><!-- .masthead -->
-		<div class="container-fluid">
-			<!-- Main -->
+		<!-- Main -->
 		<main class="main">
+		<div class="container-fluid">
+
 			<div class="centered">
 <!-- Start Cards -->
 				<section class="cards">
@@ -63,8 +64,8 @@
 <!-- End Card Three -->
 					</section><!-- .cards -->
 				</div><!-- .centered -->
-		</main>
 		</div><!-- .container-fluid -->
+		</main>
 <!-- bottom-line -->
 		<section class="bottom-line">
 			<div class="container-fluid">

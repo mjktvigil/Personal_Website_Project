@@ -23,13 +23,13 @@ body {
 }
 
 .masthead {
-	background: hsl(0, 0%, 20%);
+	background-color: hsl(50%,50%, 90%);
 	display: block;
 	height: 180px;
 }
 
 .masthead a {
-	color: hsl(5, 45%, 95%);
+	color: white;
 	text-decoration: none;
 }
 
@@ -112,7 +112,13 @@ figure {
 	font-size: 95%;
 }
 
-/* Flexbox Card layout */
+/* START Flexbox Card layout */
+
+
+.main {
+	display: flex;
+	flex: 0 1 calc(50% - .5em);
+}
 
 
 .card {
@@ -121,6 +127,7 @@ figure {
 	margin-bottom: 1em;
 	}
 
+/* END Flexbox Card layout */
 
 .bottom-line {
 	height: 30px;
@@ -132,7 +139,7 @@ figure {
 .footer-area {
 	padding: .4em 1em;
 	text-align: center;
-	background: hsl(0, 0%, 75%);
+	background: black;
 }
 
 
