@@ -26,7 +26,7 @@
 			</div><!-- .centered -->
 		</header><!-- .masthead -->
 <!-- Main -->
-		<main class="main-area">
+		<main class="main">
 			<div class="centered">
 <!-- Start Cards -->
 <!-- Card One -->

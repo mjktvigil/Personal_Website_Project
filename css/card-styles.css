@@ -19,7 +19,25 @@ jtdesignsolutions-Card Layout
 
 
 body {
+	margin: 0;
 	background: hsl(0, 0%, 90%);
+}
+
+.centered {
+	margin: 0 auto;
+	padding: 0 1em;
+}
+
+main,
+section,
+article,
+figure {
+	display: block;
+}
+
+h1,
+h2 {
+	clear: both;
 }
 
 .masthead {
