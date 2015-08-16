@@ -19,8 +19,16 @@ jtdesignsolutions-Card Layout
 
 
 body {
+	color: #404040;
+	font-family: 'Helvetica', Arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
 	margin: 0;
 	background: hsl(0, 0%, 90%);
+}
+
+.masthead {
+	background: hsl(0, 0%, 20%);
 }
 
 .centered {
@@ -28,24 +36,17 @@ body {
 	padding: 0 1em;
 }
 
-main,
-section,
-article,
-figure {
-	display: block;
+.site-branding {
+
 }
 
-h1,
-h2 {
-	clear: both;
+.site-branding a {
+	color: hsl(5, 45%, 95%);
+	text-decoration: none;
 }
 
-.masthead {
-	background: hsl(0, 0%, 20%);
-}
-
-.branding image {
-
+.site-branding a:hover {
+	text-decoration: none;
 }
 
 .site-title {
@@ -57,11 +58,14 @@ h2 {
 	color: black;
 }
 
-.site-title a {
+/** .site-title a {
 	color: hsl(5, 45%, 95%);
 	text-decoration: none;
 }
 
+.site-title a:hover {
+    text-decoration: underline;
+} **/
 
 img {
 	display: block;
@@ -69,6 +73,30 @@ img {
 	width: 100%;
 	height: auto;
 }
+
+h1,
+h2 {
+	color: #404040;
+	font-family: 'Helvetica', Arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+	clear: both;
+	text-align: center;
+}
+
+p {
+	margin-bottom: 1.5em;
+}
+
+main,
+section,
+article,
+figure {
+	display: block;
+}
+
+
+/* Card Classes */
 
 .card {
 	background: white;
@@ -100,18 +128,41 @@ img {
 
 /* Flexbox Card layout */
 
+
+.card {
+		display: flex;
+		flex: 0 1 calc(50% - .5em);
+		margin-bottom: 1em;
+	}
+
+
+
+/* Media Screens */
+
+@media screen and (min-width: 52em) {
+	.centered {
+		max-width: 52em;
+	}
+}
+
+@media screen and (min-width: 44.44em) {
+	.site-title {
+		font-size: 2em;
+	}
+}
+
+@media screen and (min-width: 50em) {
+	.site-title {
+		font-size: 2.5em;
+	}
+}
+
 @media screen and (min-width: 40em) {
 	.cards {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-between;
 		margin-top: -1em;
-	}
-
-	.card {
-		display: flex;
-		flex: 0 1 calc(50% - .5em);
-		margin-bottom: 1em;
 	}
 }
 
