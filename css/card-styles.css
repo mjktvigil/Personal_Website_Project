@@ -61,3 +61,15 @@ body {
 .card-content p {
 	font-size: 95%;
 }
+
+/* Flexbox Card layout */
+
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.card {
+	flex: 0 1 calc(33% - 1em);
+}

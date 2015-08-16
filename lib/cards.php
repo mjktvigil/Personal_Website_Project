@@ -46,7 +46,7 @@
 					<section class="cards">
 						<article class="card">
 							<a href="#">
-								<h2>Outbound Marketing</h2>
+								<h2>Inbound Marketing</h2>
 								<figure class="thumbnail">
 									<img src="?" alt="?" title="?">
 								</figure>
@@ -59,7 +59,7 @@
 						<section class="cards">
 							<article class="card">
 								<a href="#">
-									<h2>Outbound Marketing</h2>
+									<h2>Marketing Resources</h2>
 									<figure class="thumbnail">
 										<img src="?" alt="?" title="?">
 									</figure>
