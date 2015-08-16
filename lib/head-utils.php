@@ -36,6 +36,10 @@
     <!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
     <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
+	  <!-- Load angular and angular route via CDN -->
+	  <script type="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+	  <script type="text/javascript"  src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+
 	  <script type="text/javascript"  href="js/myscript.js"></script>
 
     <title>jtdesignsolutions</title>

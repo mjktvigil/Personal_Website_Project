@@ -21,17 +21,18 @@
 
 /*   00 - Navigation   */
 
-.navbar ul li {
-	color: darkblue;
-	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-weight: 300;
-	letter-spacing: 1px;
-	font-size:20px;
-	border-radius: 4px 4px 0 0;
+.navbar {
+	margin-top: 5px;
+	margin-bottom: 0px;
 }
 
-.nav .navbar-nav .navbar-right a:hover {
-	color: #EEC856;
+.navbar ul li {
+	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: darkblue;
+	font-weight: 300;
+	letter-spacing: 1px;
+	font-size:22px;
+	margin-bottom: 0;
 }
 
 .nav a {
@@ -39,9 +40,10 @@
 	text-decoration: none;
 }
 
-.nav a:hover {
-	font-weight:600;
+.nav > li > a:hover {
+	font-weight:400;
 	color: white;
+	background-color: #ef5e29;
 	text-decoration: none;
 }
 
@@ -50,6 +52,16 @@
 
 /*   00 - General   */
 
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	justify-content: space-around;
+	align-items:         stretch;
+
+}
+
 body{
 	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: 300;
@@ -57,27 +69,35 @@ body{
 	/*position: relative;*/
 }
 
-h1 h2 {
-	font-family: "Sentinel SSm A","Sentinel SSm B",serif;
-	color: black;
+h1 {
+
+}
+
+h2 {
+	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	height: 50px;
+	background-color: #ef5e29;
+	padding: 5px;
+	margin-bottom: 15px;
 }
 
 
-
-.click-able-header {
-	font-family: "Sentinel SSm A","Sentinel SSm B",serif;
+.click-header {
+	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: white;/*headline color*/
-	text-align: center;
-	padding: 10px 0 5px 15px;
+
 	font-size: 22px;
 	font-weight: 300;
 	letter-spacing: 1px;
-	display: block;
-	background: #ef5e29;
+	display: flex;
+	flex-flow: wrap;
+	flex-direction: column;
+	justify-content: space-around;
 }
 
 
-.click-able-header a {
+.click-header a {
 	color: white;
 	text-decoration: none;
 }
@@ -85,26 +105,60 @@ h1 h2 {
 
 /*   0) - Images   */
 
-.banner-image {
-
-}
-
-
-.banner {
+.flex-container {
 	background: lightblue;
 	position: relative;
 	width: auto;
-	height: 265px;
+	height:215px;
+	display: flex;
+	flex-flow: wrap;
+	flex-direction: row;
 }
 
 .thumbnails {
-
+	width: auto;
+	height: 100px;
+	clear: both;
 }
 
 .bottom-line {
-	border-bottom: solid;
-	border-bottom: #ef5e29;
+	height: 50px;
+	width: auto;
+	background-color: #ef5e29;
+	margin-top: 15px;
+	display: flex;
+	flex-flow: wrap;
+	flex-direction: row;
+	align-self: flex-end;
 }
 
+.footer .flex-item p {
+	height: 50px;
+	width: auto;
+	background-color: black;
+	margin-top: 15px;
+	display: flex;
+	flex-flow: wrap;
+	flex-direction: row;
+	align-self: flex-end;
+}
+
+.footer .flex-item p {
+	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: white;
+	font-weight: 300;
+	text-align: center;
+}
+
+/* Large screens */
+@media all and (min-width: 800px) {
+
+	.banner { flex: 2 0px; }
+
+	.Box1 { order: 1; }
+	.Box2 { order: 2; }
+	.Box3 { order: 3; }
+	.footer { order: 4; }
+}
 
 

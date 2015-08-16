@@ -4,9 +4,9 @@
 
 
 
-x = 0;
+/*x = 0;
 $(document).ready(function() {
-	$('.nav .navbar-nav .navbar-right').bind("mouseover", function(){
+	$('.orange-hover').bind("mouseover", function(){
 		var color  = $(this).css("background-color");
 
 		$(this).css("background", "#380606");
@@ -15,4 +15,4 @@ $(document).ready(function() {
 			$(this).css("background", color);
 		})
 	})
-});
+}); */
