@@ -19,16 +19,13 @@ jtdesignsolutions-Card Layout
 
 
 body {
-	color: #404040;
-	font-family: 'Helvetica', Arial, sans-serif;
-	font-size: 18px;
-	line-height: 1.5;
-	margin: 0;
 	background: hsl(0, 0%, 90%);
 }
 
 .masthead {
 	background: hsl(0, 0%, 20%);
+	display: block;
+	height: 180px;
 }
 
 .centered {
@@ -36,16 +33,12 @@ body {
 	padding: 0 1em;
 }
 
-.site-branding {
-
-}
-
-.site-branding a {
+.masthead a {
 	color: hsl(5, 45%, 95%);
 	text-decoration: none;
 }
 
-.site-branding a:hover {
+.masthead a:hover {
 	text-decoration: none;
 }
 
@@ -67,17 +60,19 @@ body {
     text-decoration: underline;
 } **/
 
-img {
+.thumbnail {
 	display: block;
-	border: 0;
 	width: 100%;
 	height: auto;
+	border: none;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 h1,
 h2 {
 	color: #404040;
-	font-family: 'Helvetica', Arial, sans-serif;
+	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	line-height: 1.5;
 	clear: both;
@@ -100,7 +95,7 @@ figure {
 
 .card {
 	background: white;
-	margin-bottom: 2em;
+	margin-bottom: 5em;
 }
 
 .card a {
@@ -116,9 +111,8 @@ figure {
 	padding: 1.4em;
 }
 
-.card-content h2 {
+.card-content p {
 	margin-top: 0;
-	margin-bottom: .5em;
 	font-weight: normal;
 }
 
@@ -138,7 +132,7 @@ figure {
 
 .orange-area {
 	height: 30px;
-	background-color: #ef5e29;
+	background-color: #1990ab;
 	margin-top: 15px;
 	display: flex;
 	flex-flow: wrap;

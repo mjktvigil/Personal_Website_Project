@@ -16,8 +16,7 @@
 
 	  <!-- start Custom CSS Files -->
 
-	  <link href="css/styles.css" rel="stylesheet" type="text/css"  media="all">
-	  <link href="css/card-styles.css" rel="stylesheet" type="text/css" media="all">
+	  <link href="../css/styles.css" rel="stylesheet" type="text/css"  media="all">
 
 	  <!-- end Custom CSS Files-->
 
