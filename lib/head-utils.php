@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
   <head>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -8,12 +8,16 @@
     <!-- Bootstrap Latest compiled and minified CSS -->
     <link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
 
+	  <!-- Bootstrap and Font-awesome -->
+	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
     <!-- Optional Bootstrap theme -->
     <link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 
 	  <!-- start Custom CSS Files -->
 
 	  <link href="css/styles.css" rel="stylesheet" type="text/css"  media="all">
+	  <link href="css/card-styles.css" rel="stylesheet" type="text/css" media="all">
 
 	  <!-- end Custom CSS Files-->
 

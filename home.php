@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en-US">
 <?php require_once('lib/head-utils.php'); ?>
 	<body>
 		<!-------- HEADER -------->

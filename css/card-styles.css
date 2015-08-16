@@ -136,6 +136,24 @@ figure {
 	}
 
 
+.orange-area {
+	height: 30px;
+	background-color: #ef5e29;
+	margin-top: 15px;
+	display: flex;
+	flex-flow: wrap;
+	flex-direction: row;
+	align-self: flex-end;
+}
+
+
+.footer-area {
+	padding: .4em 1em;
+	text-align: center;
+	background: hsl(0, 0%, 75%);
+}
+
+
 
 /* Media Screens */
 

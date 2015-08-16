@@ -13,7 +13,7 @@
 	</head>
 
 	<body>
-		<div class="outer-wrap">
+		<div class="container-fluid">
 <!-- Masthead -->
 		<header class="masthead">
 			<div class="centered">
@@ -34,7 +34,7 @@
 <!-- Card One -->
 					<article class="card">
 						<a href="#">
-							<h2>Marketing Resources</h2>
+							<h2>Outbound Marketing</h2>
 							<figure class="thumbnail">
 								<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
 							</figure>
@@ -46,7 +46,7 @@
 <!-- Card Two -->
 					<article class="card">
 						<a href="#">
-							<h2>Marketing Resources</h2>
+							<h2>Inbound Marketing</h2>
 							<figure class="thumbnail">
 								<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
 							</figure>
@@ -70,10 +70,16 @@
 <!-- End Card Three -->
 					</section><!-- .cards -->
 <!-- End Cards -->
+					<section class="orange-area">
+						<div class="container-fluid">
+							<div class="row-fluid">
+							</div>
+						</div>
+					</section><!-- .orange-area -->
 				</div><!-- .centered -->
 		</main>
 			<footer class="footer-area">
-				<p>The footer usually appears on the bottom of the page. That's why it's called the "footer".</p>
+				<p></p>
 			</footer>
 		</div><!-- .outer-wrap -->
 	</body>
