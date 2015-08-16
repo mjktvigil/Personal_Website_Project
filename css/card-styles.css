@@ -49,8 +49,19 @@ h2 {
 }
 
 .site-title {
-	color: white;
+	margin: 0 0 1em;
+	padding: 1em 0;
+	font-size: 2em;
+	font-weight: 300;
+	text-align: center;
+	color: black;
 }
+
+.site-title a {
+	color: hsl(5, 45%, 95%);
+	text-decoration: none;
+}
+
 
 img {
 	display: block;
