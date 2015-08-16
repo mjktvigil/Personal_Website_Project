@@ -13,7 +13,7 @@
 
 	  <!-- start Custom CSS Files -->
 
-	  <link href="/css/style.css" rel="stylesheet" type="text/css"  media="all">
+	  <link href="css/styles.css" rel="stylesheet" type="text/css"  media="all">
 
 	  <!-- end Custom CSS Files-->
 
@@ -35,6 +35,8 @@
 
     <!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
     <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+	  <script type="text/javascript"  href="js/myscript.js"></script>
 
     <title>jtdesignsolutions</title>
 

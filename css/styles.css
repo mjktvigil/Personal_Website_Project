@@ -1,0 +1,110 @@
+/* CSS Document */
+
+/**
+*
+* @author Marie Vigil <marie@jtdesignsolutions>
+*
+**/
+
+/* ------------------------------------------ */
+/*             TABLE OF CONTENTS
+/* ------------------------------------------ */
+/*   00 -                     */
+/*   01 -               */
+/*   02 -     */
+/*   03 -        */
+/*   04 -    */
+/*   05 -              */
+/*   06 -                      */
+
+
+
+/*   00 - Navigation   */
+
+.navbar ul li {
+	color: darkblue;
+	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	letter-spacing: 1px;
+	font-size:20px;
+	border-radius: 4px 4px 0 0;
+}
+
+.nav .navbar-nav .navbar-right a:hover {
+	color: #EEC856;
+}
+
+.nav a {
+	color: black;
+	text-decoration: none;
+}
+
+.nav a:hover {
+	font-weight:600;
+	color: white;
+	text-decoration: none;
+}
+
+
+
+
+/*   00 - General   */
+
+body{
+	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	font-size: 2em;
+	/*position: relative;*/
+}
+
+h1 h2 {
+	font-family: "Sentinel SSm A","Sentinel SSm B",serif;
+	color: black;
+}
+
+
+
+.click-able-header {
+	font-family: "Sentinel SSm A","Sentinel SSm B",serif;
+	color: white;/*headline color*/
+	text-align: center;
+	padding: 10px 0 5px 15px;
+	font-size: 22px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	display: block;
+	background: #ef5e29;
+}
+
+
+.click-able-header a {
+	color: white;
+	text-decoration: none;
+}
+
+
+/*   0) - Images   */
+
+.banner-image {
+
+}
+
+
+.banner {
+	background: lightblue;
+	position: relative;
+	width: auto;
+	height: 265px;
+}
+
+.thumbnails {
+
+}
+
+.bottom-line {
+	border-bottom: solid;
+	border-bottom: #ef5e29;
+}
+
+
+

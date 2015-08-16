@@ -1,27 +1,22 @@
-
-	<!-- Start Logo & Naviagtion  -->
-
+<!-- Start Logo & Naviagtion  -->
 	<nav class="navbar" role="navigation">
 		<div class="container">
 			<div class="navbar-header">
-				<!-- Collapse button  -->
+			<!-- Collapse button  -->
 				<button type="button" class="navbar-default navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse" aria-expanded="false">
 					<span class="sr-only">Toggle navigation</span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
 				</button>
-					<!--  REMINDER—make home page link to logo here -->
-					<a class="navbar-brand" href="  ">jtdesignsolutions<span class="subhead"> personal website</span></a>
+					<!--  home page link to logo here -->
+					<a class="navbar-brand" href="../pages/home.php">jtdesignsolutions<span class="subhead"> xxx</span></a>
 			</div> <!-- navbar-header -->
 			<div class="collapse navbar-collapse" id="collapse">
 				<ul class="nav navbar-nav navbar-right">
-					<li class="active"><a href="about.html">about us</a></li>
-					<li><a href="services.html">services</a></li>
-					<li><a href="project.html">portfolio</a></li>
-					<li><a href="contact.html">contact</a></li>
+					<li class="active"><a href="pages/our-story.php">Our story</a></li>
+					<li><a href="pages/chat-with-us.php">Chat with us</a></li>
 				</ul>
-			</div> <!-- collapse navbar-collapse -->
-		</div> <!-- navbar-header -->
-	</nav>
+			</div> <!-- navbar-header -->
+		</div> <!-- container -->
+	</nav><!--"navbar" role="navigation" -->
 <!-- End Header Logo & Naviagtion -->

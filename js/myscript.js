@@ -5,17 +5,14 @@
 
 
 x = 0;
-$(document).ready(function(){
+$(document).ready(function() {
+	$('.nav .navbar-nav .navbar-right').bind("mouseover", function(){
+		var color  = $(this).css("background-color");
 
-	// scroll
-	$("chat-with-us").scroll(function(){
-	});
+		$(this).css("background", "#380606");
 
-	/** carousel
-	$('.carousel').carousel({
-		interval: 5000
-	}); **/
-
-
-
+		$(this).bind("mouseout", function(){
+			$(this).css("background", color);
+		})
+	})
 });
