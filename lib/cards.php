@@ -35,7 +35,7 @@
 						<a href="#">
 							<h2>Outbound Marketing</h2>
 								<figure class="thumbnail">
-								<img src="?" alt="?" title="?">
+								<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
 								</figure>
 								<div class="card-content">
 									<p>???</p>
@@ -48,7 +48,7 @@
 							<a href="#">
 								<h2>Inbound Marketing</h2>
 								<figure class="thumbnail">
-									<img src="?" alt="?" title="?">
+									<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
 								</figure>
 								<div class="card-content">
 									<p>???</p>
@@ -61,7 +61,7 @@
 								<a href="#">
 									<h2>Marketing Resources</h2>
 									<figure class="thumbnail">
-										<img src="?" alt="?" title="?">
+										<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
 									</figure>
 									<div class="card-content">
 										<p>???</p>
