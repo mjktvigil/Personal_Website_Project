@@ -29,7 +29,7 @@
 .navbar ul li {
 	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: darkblue;
-	font-weight: 300;
+	font-weight: 200;
 	letter-spacing: 1px;
 	font-size:22px;
 	margin-bottom: 0;
@@ -41,7 +41,7 @@
 }
 
 .nav > li > a:hover {
-	font-weight:400;
+	font-weight:200;
 	color: white;
 	background-color: #1990ab;
 	text-decoration: none;
@@ -52,42 +52,51 @@
 
 /*   00 - General   */
 
-.flex-container {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: center;
-	justify-content: space-around;
-	align-items:         stretch;
-
-}
-
 body{
 	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 1.5;
-	font-weight: 300;
 	font-size: 2em;
 	color: black;
 }
 
-h2 {
+.click-header1 {
 	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #ffffff;
+	font-size: 22px;
+	letter-spacing: 2px;
 	text-align: center;
+	text-decoration: none;
+	background-color: #f7751f;
+}
+
+.click-header2 {
+	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #ffffff;
+	font-size: 22px;
+	letter-spacing: 2px;
+	text-align: center;
+	text-decoration: none;
 	background-color: #1990ab;
 }
 
-
-.click-header {
+.click-header3 {
 	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: white;/*headline color*/
+	color: #ffffff;
 	font-size: 22px;
-	font-weight: 300;
-	letter-spacing: 1.5px;
-	display: block;
+	letter-spacing: 2px;
+	text-align: center;
+	text-decoration: none;
+	background: #527e38;
 }
 
+.card-line1 {
+	border-bottom: 5px solid #f7751f;
+}
 
-.click-header a {
-	color: white;
-	text-decoration: none;
+.card-line2 {
+	border-bottom: 5px solid #1990ab;
+}
+
+.card-line3 {
+	border-bottom: 5px solid #527e38;
 }

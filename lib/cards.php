@@ -21,52 +21,59 @@
 <!-- Card One -->
 					<article class="card">
 						<a href="../pages/outbound-marketing.php">
-							<h2 class="click-header">Outbound Marketing</h2>
+							<h2 class="click-header1">Outbound Marketing</h2>
 							<figure class="thumbnail">
 								<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
 							</figure>
 							<div class="card-content">
 								<p>???</p>
 							</div><!-- .card-content -->
+							<div class="card-line1">
+							</div>
 						</a>
 					</article><!-- .card -->
 <!-- Card Two -->
 					<article class="card">
 						<a href="../pages/inbound-marketing.php">
-							<h2 class="click-header">Inbound Marketing</h2>
+							<h2 class="click-header2">Inbound Marketing</h2>
 							<figure class="thumbnail">
 								<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
 							</figure>
 							<div class="card-content">
 								<p>???</p>
 							</div><!-- .card-content -->
+							<div class="card-line2">
+							</div>
 						</a>
 					</article><!-- .card -->
 <!-- Card Three -->
-						<article class="card">
-							<a href="../pages/resources.php">
-								<h2 class="click-header">Marketing Resources</h2>
-									<figure class="thumbnail">
-										<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
-									</figure>
-									<div class="card-content">
+					<article class="card">
+						<a href="../pages/resources.php">
+							<h2 class="click-header3">Marketing Resources</h2>
+								<figure class="thumbnail">
+									<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
+								</figure>
+								<div class="card-content">
 										<p>???</p>
-									</div><!-- .card-content -->
-							</a>
+								</div><!-- .card-content -->
+							<div class="card-line3">
+							</div>
+						</a>
 						</article><!-- .card -->
 <!-- End Card Three -->
 					</section><!-- .cards -->
 				</div><!-- .centered -->
-				<section class="orange-area">
-					<div class="container-fluid">
-						<div class="row-fluid">
-						</div>
-					</div>
-				</section><!-- .orange-area -->
 		</main>
-			<footer class="footer-area">
+		</div><!-- .container-fluid -->
+<!-- bottom-line -->
+		<section class="bottom-line">
+			<div class="container-fluid">
+				<div class="row-fluid">
+				</div>
+			</div>
+		</section><!-- .orange-area -->
+		<footer class="footer-area">
 				<p></p>
-			</footer>
-		</div><!-- .outer-wrap -->
+		</footer>
 	</body>
 </html>

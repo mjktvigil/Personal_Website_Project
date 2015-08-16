@@ -28,11 +28,6 @@ body {
 	height: 180px;
 }
 
-.centered {
-	margin: 0 auto;
-	padding: 0 1em;
-}
-
 .masthead a {
 	color: hsl(5, 45%, 95%);
 	text-decoration: none;
@@ -40,6 +35,11 @@ body {
 
 .masthead a:hover {
 	text-decoration: none;
+}
+
+.centered {
+	margin: 0 auto;
+	padding: 0 1em;
 }
 
 .site-title {
@@ -69,15 +69,6 @@ body {
 	margin-bottom: 0px;
 }
 
-h1,
-h2 {
-	color: #404040;
-	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 18px;
-	line-height: 1.5;
-	clear: both;
-	text-align: center;
-}
 
 p {
 	margin-bottom: 1.5em;
@@ -114,6 +105,7 @@ figure {
 .card-content p {
 	margin-top: 0;
 	font-weight: normal;
+	margin-bottom: 5em;
 }
 
 .card-content p {
@@ -124,20 +116,16 @@ figure {
 
 
 .card {
-		display: flex;
-		flex: 0 1 calc(50% - .5em);
-		margin-bottom: 1em;
+	display: flex;
+	flex: 0 1 calc(50% - .5em);
+	margin-bottom: 1em;
 	}
 
 
-.orange-area {
+.bottom-line {
 	height: 30px;
 	background-color: #1990ab;
 	margin-top: 15px;
-	display: flex;
-	flex-flow: wrap;
-	flex-direction: row;
-	align-self: flex-end;
 }
 
 
