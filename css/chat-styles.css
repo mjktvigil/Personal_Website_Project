@@ -150,6 +150,7 @@ h2 {
 	font-family: 'Raleway', sans-serif;
 	color: #1990ab;
 	font-size: 20px;
+	font-weight: 600;
 	letter-spacing: 2px;
 	text-align: center;
 	text-decoration: none;
@@ -253,12 +254,6 @@ h2 {
 
 }
 
-.footer-area {
-	padding: .4em 1em;
-	text-align: center;
-	background: hsl(0, 0%, 75%);
-}
-
 /* Sidebar switcher buttons */
 
 @media screen and (max-width: 50em) {
@@ -277,7 +272,9 @@ h2 {
 .footer-area {
 	width: auto;
 	height: 30px;
-	background:  #3b3f3f;
+	padding: .4em 1em;
+	text-align: center;
+	background: #454949;
 }
 
 .footer-toggle {
