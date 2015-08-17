@@ -14,7 +14,7 @@
 		</div><!-- .masthead -->
 		<!-- Main -->
 		<main class="main">
-		<div class="container-fluid">
+		<div class="container">
 
 			<div class="centered">
 <!-- Start Cards -->
@@ -78,12 +78,12 @@
 				<div class="row">
 					<div class="col-md-3">
 						<a href="../pages/home.php"><img src="?" alt="?" title="?" /></a>
-						<ul class="social-media">
+						<ul>
 							<li>
-								<a href="?"><img src="?" alt="Twitter" title="Twitter" /></a>
+								<a class="social-media" href="?"><img src="?" alt="Twitter" title="Twitter" /></a>
 							</li>
 							<li>
-								<a href="?"><img src="?" alt="LinkedIn" title="LinkedIn" /></a>
+								<a class="social-media" href="?"><img src="?" alt="LinkedIn" title="LinkedIn" /></a>
 							</li>
 						<!--<li>
 								<a href="?"><img src="?" alt="Instagram" title="Instagram" /></a>
@@ -93,15 +93,21 @@
 							</li> -->
 						</ul>
 					</div>
-					<div class="row">
 						<div class="col-md-3">
-							<ul class="footer-links">
-								<li class="active"><a class="footer-links" href="../pages/our-story.php">Our story</a></li>
-								<li><a class="footer-links" href="../pages/chat-with-us.php">Chat with us</a></li>
+							<ul>
+								<li><a class="footer-links" href="../pages/our-story.php">Our Story</a></li>
+								<li><a class="footer-links" href="../pages/chat-with-us.php">Chat with Us</a></li>
+							</ul>
+						</div>
+						<div class="col-md-3">
+							<ul>
+								<li><a class="footer-links" href="../pages/outbound-marketing.php">OutBound Marketing</a></li>
+								<li><a class="footer-links" href="../pages/inbound-marketing.php">InBound Marketing</a></li>
+								<li><a class="footer-links" href="../pages/resources.php">Marketing Resources</a></li>
 							</ul>
 						</div>
 				</div>
-			</div>
+		</div><!-- .container -->
 		</footer>
 	</body>
 </html>
