@@ -91,10 +91,24 @@ h2 {
 	transition: all 0.5s ease;
 }
 
-.example-menu a:hover,
+.example-menu1 a:hover,
 .example-menu a:focus {
 	padding: .4em 1em;
-	background: hsl(0, 0%, 20%);
+	background: #f7751f;
+	color: white;
+}
+
+.example-menu2 a:hover,
+.example-menu a:focus {
+	padding: .4em 1em;
+	background: #1990ab;
+	color: white;
+}
+
+.example-menu3 a:hover,
+.example-menu a:focus {
+	padding: .4em 1em;
+	background: #527e38;
 	color: white;
 }
 
@@ -106,8 +120,9 @@ h2 {
 
 .form {
 	border: solid lightgrey;
-	border-width: thick;
-	padding: 5px;
+	border-width: thin;
+	padding: 20px;
+	margin-left: -20px;
 }
 
 .form-group h2 {

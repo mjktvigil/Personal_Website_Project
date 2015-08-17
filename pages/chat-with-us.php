@@ -30,7 +30,7 @@
 						</div><!-- full-width-text -->
 					</div><!-- row-fluid -->
 <!-- Start Side Navigation -->
-					<div class="column-fluid">
+					<div class="column">
 						<div class="col-md-4 image-service-box">
 							<div class="sidebar">
 								<div class="squish-container">
@@ -43,8 +43,8 @@
 									</nav><!-- .example-menu -->
 <!-- Start Form -->
 									<div class="bootstrap-iso">
-										<div class="container-fluid">
-											<div class="row">
+										<div class="">
+											<div class="column-fluid">
 												<div class="col-md-12 image-service-box">
 													<form class="form" action="https://formden.com/post/ususo0qE/" method="post">
 														<div class="form-group">
@@ -108,7 +108,7 @@
 														</div>
 													</form>
 												</div>
-											</div>
+											</div><!-- column-fluid-->
 										</div>
 									</div>
 <!-- End Form -->
