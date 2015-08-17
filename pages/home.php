@@ -78,21 +78,28 @@
 				<div class="row">
 					<div class="col-md-3">
 						<a href="../pages/home.php"><img src="?" alt="?" title="?" /></a>
-						<ul class="social media">
+						<ul class="social-media">
 							<li>
 								<a href="?"><img src="?" alt="Twitter" title="Twitter" /></a>
 							</li>
 							<li>
 								<a href="?"><img src="?" alt="LinkedIn" title="LinkedIn" /></a>
 							</li>
-							<li>
-					<!--			<a href="?"><img src="?" alt="Instagram" title="Instagram" /></a>
+						<!--<li>
+								<a href="?"><img src="?" alt="Instagram" title="Instagram" /></a>
 							</li>
 							<li>
-					<!--			<a href="?"><img src="?" alt="Facebook" title="Facebook" /></a>
+						<!--	<a href="?"><img src="?" alt="Facebook" title="Facebook" /></a>
 							</li> -->
 						</ul>
 					</div>
+					<div class="row">
+						<div class="col-md-3">
+							<ul class="footer-links">
+								<li class="active"><a class="footer-links" href="../pages/our-story.php">Our story</a></li>
+								<li><a class="footer-links" href="../pages/chat-with-us.php">Chat with us</a></li>
+							</ul>
+						</div>
 				</div>
 			</div>
 		</footer>
