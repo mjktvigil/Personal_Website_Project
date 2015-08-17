@@ -23,7 +23,7 @@
 					<div class="row-fluid">
 						<div class="full-width-text">
 							<div class="col-md-12 image-service-box">
-								<h1>Headline headline headline headline headline headline headline</h1>
+								<h1>What Headline headline headline headline headline headline headline</h1>
 									<h2>Sub-headline headline headline headline headline headline headline</h2>
 								<div class="white-space"></div>
 							</div><!-- col-md-12 image-service-box -->
