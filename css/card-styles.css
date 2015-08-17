@@ -129,8 +129,8 @@ figure {
 	margin-bottom: 0;
 }
 
-.footer-links ul {
-	list-style: none;
+.footer-links-list li {
+	list-style-type: none;
 }
 
 .footer-links a {
@@ -141,8 +141,8 @@ figure {
 	display: block;
 }
 
-.social-media ul {
-	list-style: none;
+.social-media-list li {
+	list-style-type: none;
 }
 
 .social-media a {

@@ -76,9 +76,9 @@
 		<footer class="footer-area">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-md-1">
 						<a href="../pages/home.php"><img src="?" alt="?" title="?" /></a>
-						<ul>
+						<ul class="social-media-list">
 							<li>
 								<a class="social-media" href="?"><img src="?" alt="Twitter" title="Twitter" /></a>
 							</li>
@@ -94,16 +94,22 @@
 						</ul>
 					</div>
 						<div class="col-md-3">
-							<ul>
+							<ul class="footer-links-list">
 								<li><a class="footer-links" href="../pages/our-story.php">Our Story</a></li>
 								<li><a class="footer-links" href="../pages/chat-with-us.php">Chat with Us</a></li>
 							</ul>
 						</div>
 						<div class="col-md-3">
-							<ul>
+							<ul class="footer-links-list">
 								<li><a class="footer-links" href="../pages/outbound-marketing.php">OutBound Marketing</a></li>
 								<li><a class="footer-links" href="../pages/inbound-marketing.php">InBound Marketing</a></li>
 								<li><a class="footer-links" href="../pages/resources.php">Marketing Resources</a></li>
+							</ul>
+						</div>
+						<div class="col-md-3">
+							<ul class="footer-links-list">
+								<li class="footer-links">&copy; mariejtvigil 2015</li>
+								<li class="footer-links">All Rights Reserved</li>
 							</ul>
 						</div>
 				</div>
