@@ -14,8 +14,8 @@
 				</div> <!-- navbar-header -->
 				<div class="collapse navbar-collapse" id="collapse">
 					<ul class="nav navbar-nav navbar-right">
-						<li class="active"><a class="navBackground" href="pages/our-story.php">Our story</a></li>
-						<li><a class="navBackground" href="pages/chat-with-us.php">Chat with us</a></li>
+						<li class="active"><a class="navBackground" href="../pages/our-story.php">Our story</a></li>
+						<li><a class="navBackground" href="../pages/chat-with-us.php">Chat with us</a></li>
 					</ul>
 				</div> <!-- navbar-header -->
 			</div> <!-- menu -->
