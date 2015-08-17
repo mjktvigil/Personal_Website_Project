@@ -88,7 +88,7 @@ h2 {
 	padding: .4em 0;
 	color: inherit;
 	text-decoration: none;
-	transition: all 0.5s ease;
+/**	transition: all 0.2s ease;**/
 }
 
 .example-menu1 a:hover,
@@ -121,7 +121,10 @@ h2 {
 .form {
 	border: solid lightgrey;
 	border-width: thin;
-	padding: 20px;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-left: 20px;
 	margin-left: -20px;
 }
 
@@ -132,6 +135,20 @@ h2 {
 	letter-spacing: 2px;
 	text-align: center;
 	text-decoration: none;
+}
+
+.bootstrap-iso p {
+	text-align: center;
+	color: #1990ab;
+	width: 284px;
+	height: 748px;
+	border: solid lightgrey;
+	border-width: thin;
+	padding-top: 375px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	margin-left: -20px;
 }
 
 .bootstrap-iso form button, .bootstrap-iso form button:hover {
