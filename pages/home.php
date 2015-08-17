@@ -52,7 +52,7 @@
 						<a href="resources.php">
 							<h2 class="click-header3">Marketing Resources</h2>
 								<figure class="thumbnail">
-									<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
+									<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?" />
 								</figure>
 								<div class="card-content">
 										<p>???</p>
@@ -74,13 +74,24 @@
 			</div>
 		</section><!-- .bottom-line -->
 		<footer class="footer-area">
-			<div class="container-fluid">
-				<div class="row-fluid">
-				</div>
-			</div>
-			<div class="footer-toggle">
-				<div class="container-fluid">
-					<div class="row-fluid">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<a href="../pages/home.php"><img src="?" alt="?" title="?" /></a>
+						<ul class="social media">
+							<li>
+								<a href="?"><img src="?" alt="Twitter" title="Twitter" /></a>
+							</li>
+							<li>
+								<a href="?"><img src="?" alt="LinkedIn" title="LinkedIn" /></a>
+							</li>
+							<li>
+					<!--			<a href="?"><img src="?" alt="Instagram" title="Instagram" /></a>
+							</li>
+							<li>
+					<!--			<a href="?"><img src="?" alt="Facebook" title="Facebook" /></a>
+							</li> -->
+						</ul>
 					</div>
 				</div>
 			</div>

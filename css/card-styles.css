@@ -42,26 +42,6 @@ body {
 	padding: 0 1em;
 }
 
-/**
-.site-title {
-	margin: 0 0 1em;
-	padding: 1em 0;
-	font-size: 2em;
-	font-weight: 300;
-	text-align: center;
-	color: black;
-}
-
- .site-title a {
-	color: hsl(5, 45%, 95%);
-	text-decoration: none;
-}
-
-.site-title a:hover {
-    text-decoration: none;
-}
- **/
-
 .thumbnail {
 	display: block;
 	width: 100%;
@@ -128,9 +108,11 @@ figure {
 	margin-top: 15px;
 }
 
+/* Footer */
+
 .footer-area {
  	width: auto;
-	height: 30px;
+	height: 236px;
 	background:  #3b3f3f;
 }
 
