@@ -35,7 +35,7 @@ h1 {
 
 h2 {
 	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #1990ab;
+	color: hsl(0, 0%, 50%);
 	font-size: 20px;
 	letter-spacing: 2px;
 	text-align: center;
@@ -83,18 +83,33 @@ h2 {
 	padding: 0;
 }
 
-.example-menu a {
+
+.example-menu1 a {
 	display: block;
 	padding: .4em 0;
-	color: inherit;
-	text-decoration: none;
+	color: #f7751f;
 /**	transition: all 0.2s ease;**/
+}
+
+.example-menu2 a {
+	display: block;
+	padding: .4em 0;
+	color: #1990ab;
+	/**	transition: all 0.2s ease;**/
+}
+
+.example-menu3 a {
+	display: block;
+	padding: .4em 0;
+	color: #527e38;
+	/**	transition: all 0.2s ease;**/
 }
 
 .example-menu1 a:hover,
 .example-menu a:focus {
 	padding: .4em 1em;
 	background: #f7751f;
+	text-decoration: none;
 	color: white;
 }
 
@@ -102,6 +117,7 @@ h2 {
 .example-menu a:focus {
 	padding: .4em 1em;
 	background: #1990ab;
+	text-decoration: none;
 	color: white;
 }
 
@@ -109,6 +125,7 @@ h2 {
 .example-menu a:focus {
 	padding: .4em 1em;
 	background: #527e38;
+	text-decoration: none;
 	color: white;
 }
 
@@ -250,7 +267,23 @@ h2 {
 	}
 }
 
-/* Flexbox stuff */
+.bottom-line {
+	height: 30px;
+	background-color: #1990ab;
+	margin-top: 15px;
+}
+
+.footer-area {
+	width: auto;
+	height: 30px;
+	background:  #3b3f3f;
+}
+
+.footer-toggle {
+
+}
+
+/* @media stuff */
 
 @media screen and (min-width: 50em) {
 
@@ -294,21 +327,5 @@ h2 {
 	.hide a {
 		color: hsla(0, 0%, 0%, 0);
 	}
-
-}
-
-.bottom-line {
-	height: 30px;
-	background-color: #1990ab;
-	margin-top: 15px;
-}
-
-.footer-area {
-	width: auto;
-	height: 30px;
-	background:  #3b3f3f;
-}
-
-.footer-toggle {
 
 }
