@@ -19,11 +19,11 @@ jtdesignsolutions-Card Layout
 
 
 body {
-	background: hsl(0, 0%, 90%);
+	background-color: white;
 }
 
 .masthead {
-	background-color: hsl(50%,50%, 90%);
+	background-color: hsl(50, 50%, 90%);
 	display: block;
 	height: 180px;
 }
@@ -42,6 +42,7 @@ body {
 	padding: 0 1em;
 }
 
+/**
 .site-title {
 	margin: 0 0 1em;
 	padding: 1em 0;
@@ -51,20 +52,21 @@ body {
 	color: black;
 }
 
-/** .site-title a {
+ .site-title a {
 	color: hsl(5, 45%, 95%);
 	text-decoration: none;
 }
 
 .site-title a:hover {
-    text-decoration: underline;
-} **/
+    text-decoration: none;
+}
+ **/
 
 .thumbnail {
 	display: block;
 	width: 100%;
 	height: auto;
-	border: none;
+	border: none !important;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
@@ -82,11 +84,12 @@ figure {
 }
 
 
-/* Card Classes */
+/* Start Card Classes */
 
 .card {
-	background: white;
+	background-color: whitesmoke;
 	margin-bottom: 5em;
+	height: auto;
 }
 
 .card a {
@@ -112,6 +115,30 @@ figure {
 	font-size: 95%;
 }
 
+.card > img {
+	border: none !important;
+}
+
+/* End Card Classes */
+
+
+.bottom-line {
+	height: 30px;
+	background-color: #1990ab;
+	margin-top: 15px;
+}
+
+.footer-area {
+ 	width: auto;
+	height: 30px;
+	background:  #3b3f3f;
+}
+
+.footer-toggle {
+
+}
+
+
 /* START Flexbox Card layout */
 
 
@@ -128,20 +155,6 @@ figure {
 	}
 
 /* END Flexbox Card layout */
-
-.bottom-line {
-	height: 30px;
-	background-color: #1990ab;
-	margin-top: 15px;
-}
-
-
-.footer-area {
-	padding: .4em 1em;
-	text-align: center;
-	background: black;
-}
-
 
 
 /* Media Screens */

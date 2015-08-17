@@ -1,5 +1,5 @@
 <?php require_once('../lib/head-utils.php'); ?>
-<link href="../css/card-styles.css" rel="stylesheet" type="text/css" media="all" xmlns="http://www.w3.org/1999/html">
+<link href="../css/card-styles.css" rel="stylesheet" type="text/css" media="all">
 
 	<!-------- HEADER -------->
 	<header>
@@ -72,9 +72,18 @@
 				<div class="row-fluid">
 				</div>
 			</div>
-		</section><!-- .orange-area -->
+		</section><!-- .bottom-line -->
 		<footer class="footer-area">
-				<p></p>
+			<div class="container-fluid">
+				<div class="row-fluid">
+				</div>
+			</div>
+			<div class="footer-toggle">
+				<div class="container-fluid">
+					<div class="row-fluid">
+					</div>
+				</div>
+			</div>
 		</footer>
 	</body>
 </html>

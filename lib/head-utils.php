@@ -13,6 +13,7 @@
 
     <!-- Optional Bootstrap theme -->
     <link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
+	 <link rel="stylesheet" href="https://formden.com/static/cdn/bootstrap-iso.css" />
 
 	  <!-- start Custom CSS Files -->
 
@@ -43,7 +44,14 @@
 	  <script type="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
 	  <script type="text/javascript"  src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
 
+	  <!-- start Custom JavaScript File -->
+
+	  <script type="text/javascript" src="https://formden.com/static/cdn/formden.js"></script>
 	  <script type="text/javascript"  href="js/myscript.js"></script>
+
+	  <!-- end Custom JavaScript File -->
+
+	  <!--JavaScript and CSS -->
 
     <title>jtdesignsolutions</title>
 
