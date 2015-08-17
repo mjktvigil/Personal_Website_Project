@@ -18,6 +18,7 @@
 	  <!-- start Custom CSS Files -->
 
 	  <link href="../css/styles.css" rel="stylesheet" type="text/css"  media="all">
+	  <link href='http://fonts.googleapis.com/css?family=Roboto|Montserrat|Raleway' rel='stylesheet' type='text/css'>
 
 	  <!-- end Custom CSS Files-->
 
@@ -26,7 +27,6 @@
     <!--[if lt IE 9]>
       <script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-		<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
     <![endif]-->
 
     <!-- js-cookie -->

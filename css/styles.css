@@ -27,7 +27,7 @@
 }
 
 .navbar ul li {
-	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color: darkblue;
 	font-weight: 200;
 	letter-spacing: 1px;
@@ -53,14 +53,14 @@
 /*   00 - General   */
 
 body{
-	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Raleway', sans-serif;
 	line-height: 1.5;
 	font-size: 2em;
 	color: black;
 }
 
 .click-header1 {
-	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color: #ffffff;
 	font-size: 22px;
 	letter-spacing: 2px;
@@ -70,7 +70,7 @@ body{
 }
 
 .click-header2 {
-	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color: #ffffff;
 	font-size: 22px;
 	letter-spacing: 2px;
@@ -80,7 +80,7 @@ body{
 }
 
 .click-header3 {
-	font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color: #ffffff;
 	font-size: 22px;
 	letter-spacing: 2px;
