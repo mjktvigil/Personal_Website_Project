@@ -16,6 +16,26 @@ jtdesignsolutions-Card Layout
 /*   06 -                      */
 
 
+.under-constructionA {
+	font-family: Roboto, sans-serif;
+	color: #454949;
+	font-size: 24px;
+	letter-spacing: 2px;
+	text-align: left;
+	text-decoration: none;
+	margin-left: 20px;
+}
+
+
+.under-constructionB {
+	font-family: 'Raleway', sans-serif;
+	color: #6b6e6f;
+	font-size: 45px;
+	letter-spacing: 2px;
+	text-align: left;
+	text-decoration: none;
+	margin-left: 20px;
+}
 
 
 body {
@@ -35,7 +55,7 @@ h1 {
 
 h2 {
 	font-family: 'Raleway', sans-serif;
-	color: 6b6e6f;
+	color: #6b6e6f;
 	font-size: 20px;
 	letter-spacing: 2px;
 	text-align: center;
@@ -266,6 +286,11 @@ h2 {
 	height: 30px;
 	background-color: #1990ab;
 	margin-top: 15px;
+}
+
+.top-line {
+	height: 30px;
+	background-color: #1990ab;
 }
 
 .footer-area {

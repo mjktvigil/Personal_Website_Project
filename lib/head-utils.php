@@ -17,8 +17,8 @@
 
 	  <!-- start Custom CSS Files -->
 
-	  <link href="../css/styles.css" rel="stylesheet" type="text/css"  media="all">
-	  <link href='http://fonts.googleapis.com/css?family=Roboto|Montserrat|Raleway' rel='stylesheet' type='text/css'>
+	  <link href="../css/styles.css" rel="stylesheet" type="text/css"  media="all" />
+	  <link href='http://fonts.googleapis.com/css?family=Roboto|Montserrat|Raleway' rel='stylesheet' type='text/css' />
 
 	  <!-- end Custom CSS Files-->
 
@@ -48,7 +48,7 @@
 	  <!-- start Custom JavaScript File -->
 
 	  <script type="text/javascript" src="https://formden.com/static/cdn/formden.js"></script>
-	  <script type="text/javascript"  href="js/myscript.js"></script>
+	  <script type="text/javascript" href="js/myscript.js"></script>
 
 	  <!-- end Custom JavaScript File -->
 
