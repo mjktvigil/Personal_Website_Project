@@ -54,6 +54,6 @@
 
 	  <!--JavaScript and CSS -->
 
-    <title>jtdesignsolutions</title>
+	  <title>marie j.t. vigil |jtdesignsolutions | production coordinator • interaction designer • production artist</title>
 
   </head>

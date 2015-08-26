@@ -97,6 +97,7 @@
 							<ul class="footer-links-list">
 								<li><a class="footer-links" href="../pages/our-story.php">Our Story</a></li>
 								<li><a class="footer-links" href="../pages/chat-with-us.php">Chat with Us</a></li>
+								<li><a class="footer-links" href="mailto:marie@jtdesignsolutions.com">Email Us</a></li>
 							</ul>
 						</div>
 						<div class="col-md-3">
@@ -108,7 +109,7 @@
 						</div>
 						<div class="col-md-3">
 							<ul class="footer-links-list">
-								<li class="footer-links">&copy; mariejtvigil 2015</li>
+								<li class="footer-links">&copy; marie jt vigil 2015</li>
 								<li class="footer-links">All Rights Reserved</li>
 							</ul>
 						</div>
