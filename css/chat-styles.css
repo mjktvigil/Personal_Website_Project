@@ -121,14 +121,14 @@ h2 {
 .example-menu3 a {
 	display: block;
 	padding: .4em 0;
-	color: #527e38;
+	color: #0FB112;
 	/**	transition: all 0.2s ease;**/
 }
 
 .example-menu1 a:hover,
 .example-menu a:focus {
 	padding: .4em 1em;
-	background: #f7751f;
+	background: #83d684;
 	text-decoration: none;
 	color: white;
 }
@@ -136,7 +136,7 @@ h2 {
 .example-menu2 a:hover,
 .example-menu a:focus {
 	padding: .4em 1em;
-	background: #1990ab;
+	background: #46b8da;
 	text-decoration: none;
 	color: white;
 }
@@ -144,7 +144,7 @@ h2 {
 .example-menu3 a:hover,
 .example-menu a:focus {
 	padding: .4em 1em;
-	background: #527e38;
+	background: #45fa48;
 	text-decoration: none;
 	color: white;
 }
@@ -282,15 +282,15 @@ h2 {
 	}
 }
 
-.bottom-line {
-	height: 30px;
-	background-color: #1990ab;
-	margin-top: 15px;
-}
-
 .top-line {
 	height: 30px;
-	background-color: #1990ab;
+	background-color: #46b8da;
+}
+
+.bottom-line {
+	height: 30px;
+	background-color: #46b8da;
+	margin-top: 15px;
 }
 
 .footer-area {

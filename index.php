@@ -43,7 +43,7 @@
 									<nav class="example-menu">
 										<ul>
 											<li class="example-menu1"><a href="mailto:marie@jtdesignsolutions.com">Email me.</a></li>
-											<li class="example-menu2"><a href="https://www.linkedin.com/in/mariejtvigil">Visit me on LinkedIn</a></li>
+											<li class="example-menu3"><a href="https://www.linkedin.com/in/mariejtvigil">Visit me on LinkedIn</a></li>
 										</ul>
 									</nav><!-- .example-menu -->
 								</div><!-- .squish-container -->
