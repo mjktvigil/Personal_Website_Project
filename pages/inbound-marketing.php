@@ -15,18 +15,28 @@
 			<h1>Portfolio</h1>
 <!-- start gallery image rows -->
 			<div class="row">
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 1" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 2" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 3" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 4" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 8" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 9" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 10" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 11" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 12" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 13" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 1" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 2" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 3" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 4" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+			</div>
+			<div class="row">
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 7" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 8" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 9" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 10" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 11" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 12" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+			</div>
+			<div class="row">
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 13" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 14" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 15" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 16" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 17" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
+				<div class="col-md-1 col-sm-4 col-xs-6"><a title="Image 18" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-150x250.jpg"></a></div>
 			</div>
 <!-- end gallery image rows -->
 			<hr> <!-- divider line -->
@@ -39,7 +49,6 @@
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
-					<button class="close" type="button" data-dismiss="thumbnail-modal">×</button>
 					<h3 class="modal-title"></h3>
 				</div><!-- .modal-header -->
 				<div class="modal-body">

@@ -11,6 +11,8 @@
 /* portfolio thumbnail images */
 .thumbnail {
 	margin-bottom:6px;
+	width: 150px;
+	height: 250px;
 }
 
 /* carousel-controls */
