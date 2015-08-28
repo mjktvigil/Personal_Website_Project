@@ -128,7 +128,7 @@ h2 {
 .example-menu1 a:hover,
 .example-menu a:focus {
 	padding: .4em 1em;
-	background: #83d684;
+	background: #ffb505;
 	text-decoration: none;
 	color: white;
 }
@@ -144,7 +144,7 @@ h2 {
 .example-menu3 a:hover,
 .example-menu a:focus {
 	padding: .4em 1em;
-	background: #45fa48;
+	background: #83d684;
 	text-decoration: none;
 	color: white;
 }

@@ -1,0 +1,21 @@
+/**
+* portfolio.css
+* Css Styles for Portfolio Pages for jtdesignsolutions.com website
+**/
+
+/* model dialog */
+.modal-dialog {
+	/* placeholder—empty on purpose */
+}
+
+/* portfolio thumbnail images */
+.thumbnail {
+	margin-bottom:6px;
+}
+
+/* carousel-controls */
+.carousel-control.left,.carousel-control.right {
+	background-image:none;
+	margin-top:10%;
+	width:5%;
+}
