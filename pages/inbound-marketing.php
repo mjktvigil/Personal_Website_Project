@@ -35,7 +35,7 @@
 		</div><!-- .row -->
 	</div><!-- .container -->
 <!-- start carousel -->
-	<div class="thumbnail-modal" id="thumbnail-modal-id" role="dialog">
+	<div class="modal" id="thumbnail-modal-id" role="dialog">
 		<div class="modal-dialog">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -52,6 +52,7 @@
 					</div> <!-- #modalCarousel .carousel -->
 				</div> <!-- .modal-body -->
 				<div class="modal-footer">
+					<p>Hello. I'm a description block</p>
 					<button class="btn btn-default" data-dismiss="modal">Close</button>
 				</div><!-- .modal-footer -->
 			</div><!-- .modal-content -->

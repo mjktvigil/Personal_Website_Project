@@ -1,6 +1,7 @@
 /**
  * portfolio.js
  * javaScript for Portfolio Pages for jtdesignsolutions.com website
+ * LightBox function
  **/
 
 /* thumbnail carousel */
