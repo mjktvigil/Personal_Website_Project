@@ -15,18 +15,18 @@
 			<h1>Portfolio</h1>
 <!-- start gallery image rows -->
 			<div class="row">
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 1" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 2" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 3" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 4" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 8" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 9" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 10" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 11" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 12" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
-				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 13" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 1" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 2" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 3" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 4" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 8" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 9" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 10" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 11" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 12" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
+				<div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 13" href="#"><img class="thumbnail img-responsive" src="..//gallery/img/placeholder-350x500.jpg"></a></div>
 			</div>
 <!-- end gallery image rows -->
 			<hr> <!-- divider line -->
