@@ -25,7 +25,7 @@
 								<div class="squish-container">
 									<nav class="example-menu">
 										<ul>
-											<li class="example-menu1"><a href="../pages/portfolio.php">OutBound Marketing</a></li>
+											<li class="example-menu1"><a href="outbound-marketing.php">OutBound Marketing</a></li>
 											<li class="example-menu2"><a href="../pages/inbound-marketing.php">InBound Marketing</a></li>
 											<li class="example-menu3"><a href="../pages/resources.php">Marketing Resources</a></li>
 										</ul>

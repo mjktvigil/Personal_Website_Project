@@ -46,11 +46,11 @@
 
 /***** Top Banner *****/
 
-.main-menu {
+.top-line {
 	width: auto;
-	height: 20px;
+	height: 30px;
 	color: white;
-	background-color: #514B45;
+	background-color: #152f44;
 	margin-bottom: 30px;
 }
 
@@ -122,9 +122,9 @@
 /***** General *****/
 
 body {
-	background: #fff;
+	background: #f0ece8;
 	font-family: 'Open Sans', sans-serif;
-	color:#4e4e4e;
+	color: #2C2420;
 	line-height: 22px;
 }
 
@@ -146,6 +146,7 @@ h1{
 
 h2{
 	font-size: 20px;
+	color: #31407e;
 }
 
 h3{
@@ -759,8 +760,8 @@ textarea#message{
 /***** Bottom-Line *****/
 
 .bottom-line {
-	height: 20px;
-	background-color: #514B45;
+	height: 30px;
+	background-color: ##152f44;
 	margin-top: 15px;
 }
 

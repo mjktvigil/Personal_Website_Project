@@ -21,7 +21,7 @@
 				<section class="cards">
 <!-- Card One -->
 					<article class="card">
-						<a href="../pages/portfolio.php">
+						<a href="outbound-marketing.php">
 							<h2 class="click-header1">Outbound Marketing</h2>
 							<figure class="thumbnail">
 								<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
@@ -35,7 +35,7 @@
 					</article><!-- .card -->
 <!-- Card Two -->
 					<article class="card">
-						<a href="portfolio.php">
+						<a href="outbound-marketing.php">
 							<h2 class="click-header2">Inbound Marketing</h2>
 							<figure class="thumbnail">
 								<img src="../gallery/img/fpo-gray-box.jpg" alt="?" title="?">
@@ -102,7 +102,7 @@
 						</div>
 						<div class="col-md-3">
 							<ul class="footer-links-list">
-								<li><a class="footer-links" href="../pages/portfolio.php">OutBound Marketing</a></li>
+								<li><a class="footer-links" href="outbound-marketing.php">OutBound Marketing</a></li>
 								<li><a class="footer-links" href="../pages/inbound-marketing.php">InBound Marketing</a></li>
 								<li><a class="footer-links" href="../pages/resources.php">Marketing Resources</a></li>
 							</ul>
