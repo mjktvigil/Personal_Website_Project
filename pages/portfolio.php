@@ -21,10 +21,10 @@
 		<!-- start Custom CSS Files -->
 
 		<link href="../css/myportfolio.css" rel="stylesheet">
-		<link href="../css/prettyPhoto.css" rel="stylesheet">
+		<link href="../css/pretty-photo.css" rel="stylesheet">
 
 		<!-- social media icons -->
-		<link rel="shortcut icon" href="images/ico/favicon.ico">
+		<link rel="shortcut icon" href="../img/ico/favicon.ico">
 
 		<!-- fa fa-share icon -->
 		<link href="css/font-awesome.min.css" rel="stylesheet">
@@ -60,8 +60,11 @@
 
 		<!-- start Custom JavaScript File -->
 
-
-		<script type="text/javascript" href="js/myscript.js"></script>
+		<script type="text/javascript" href="../js/jquery.isotope.min.js"></script>
+		<script type="text/javascript" href="../js/jquery.prettyPhoto.js"></script>
+		<script type="text/javascript" href="../js/portfolio2"></script>
+		<script type="text/javascript" href="../js/jquery.respond.min.js"></script>
+		<script type="text/javascript" href="../js/jquery.wow.min.js"></script>
 
 		<!-- end Custom JavaScript File -->
 
@@ -345,26 +348,8 @@
 					  </div> row -->
 		<!--  End Content Wrapper -->
 		</div><!-- #wrapper -->
-		<!-- ===============  javascript  ================================================== -->
-		<!-- Placed at the end of the document so the pages load faster -->
-		<script src="js/jquery.js"></script>
-		<script src="js/jquery.easing.1.3.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/jquery.fancybox.pack.js"></script>
-		<script src="js/jquery.fancybox-media.js"></script>
-		<script src="js/google-code-prettify/prettify.js"></script>
-		<script src="js/portfolio/jquery.quicksand.js"></script>
-		<script src="js/portfolio/setting.js"></script>
-		<script src="js/jquery.flexslider.js"></script>
-		<script src="js/animate.js"></script>
-		<script src="js/custom.js"></script>
-		<!-- ===============  portfolio_corlate javascript  ================================================== -->
-		<script src="js/jquery.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/jquery.prettyPhoto.js"></script>
-		<script src="js/jquery.isotope.min.js"></script>
-		<script src="js/main.js"></script>
-		<script src="js/wow.min.js"></script>
-		<script src="js/collapsible.js"></script>
+
+
+
 	</body>
 </html>
