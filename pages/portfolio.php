@@ -60,10 +60,12 @@
 
 		<!-- start Custom JavaScript File -->
 
-		<script type="text/javascript" href="../js/jquery-isotope.js"></script>
+		<script type="text/javascript" href="../js/html5shiv.js"></script>
 		<script type="text/javascript" href="../js/jquery.js"></script>
+		<script type="text/javascript" href="../js/jquery-isotope-min.js"></script>
 		<script type="text/javascript" href="../js/jquery-pretty-photo.js"></script>
 		<script type="text/javascript" href="../js/portfolio2.js"></script>
+		<script type="text/javascript" href="../js/respond.min.js"></script>
 		<script type="text/javascript" href="../js/wow.min.js"></script>
 
 		<!-- end Custom JavaScript File -->
