@@ -149,7 +149,7 @@ and (max-width: 768px) {
 	text-align: center;
 }
 
-section 1 img {
+section 1 images {
 		display: block;
 		width: 80px;
 		margin: 0 auto;
@@ -160,7 +160,7 @@ section 1 img {
 
 }
 
-section 2 img {
+section 2 images {
 		display: block;
 		width: 80px;
 		margin: 0 auto;
