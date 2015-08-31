@@ -308,13 +308,11 @@
 							</div><!-- recent-work-wrap -->
 						</div><!--.portfolio-item-->
 						<!-- End ITEM TWELVE Project -->
-					</div>
-					<!-- .portfolio-items -->
+					</div><!-- .portfolio-items -->
 				</div><!-- .row -->
-				<!-- End Project Items -->
 			</div><!-- .container -->
 		</section><!-- #portfolio -->
-		<!--</div><!-- #wrapper.container -->
+		<!-- End Project Items -->
 		<!-- Start bottom-line -->
 		<div class="bottom-line container-fluid">
 			<div class="row-fluid">
@@ -338,7 +336,7 @@
 							</ul>
 						</div><!-- col-sm-6 -->
 						<div class="white-space col-sm-6">
-						</div>
+						</div><!--.white-space -->
 					</div><!--.row -->
 				</div><!--.container -->
 				<!-- End Footer Navigation-->
@@ -386,4 +384,3 @@
 		</div><!-- #wrapper -->
 	</body>
 </html>
-
