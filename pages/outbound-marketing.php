@@ -98,12 +98,14 @@
 							</ul>
 						</div><!-- .navbar-collapse -->
 					</div><!-- .container -->
-					<div class="container-fluid">
-						<div class="row-fluid">
+					<!-- Start Top Line -->
+					<div class="container">
+						<div class="row">
 							<div class="top-line">
 							</div><!-- .top-line -->
-						</div><!-- .row-fluid -->
-					</div><!-- .container-fuild main-menu -->
+						</div><!-- .row -->
+					</div><!-- .container .top-line -->
+					<!-- Start Top Line -->
 				</div><!-- .nav -->
 				<!-- End Navbar -->
 			</header>
@@ -162,12 +164,12 @@
 							<!-- Start End ITEM ONE Project -->
 							<div class="portfolio-item apps col-xs-12 col-sm-4 col-md-3">
 								<div class="recent-work-wrap">
-									<img class="img-responsive" src="../img/portfolio/item1B.png" alt="???" title="???" />
+									<img class="img-responsive" src="../img/portfolio/full-item1.png" alt="???" title="???" />
 									<div class="overlay">
 										<div class="recent-work-inner">
 											<h3><a href="#">Project Title</a></h3>
 											<p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-											<a class="preview" href="../img/portfolio/item1A.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
+											<a class="preview" href="../img/portfolio/recent-item1.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
 										</div><!-- recent-work-inner -->
 									</div><!-- overlay -->
 								</div><!-- recent-work-wrap -->
@@ -176,12 +178,12 @@
 							<!-- Start ITEM TWO Project -->
 							<div class="portfolio-item joomla bootstrap col-xs-12 col-sm-4 col-md-3">
 								<div class="recent-work-wrap">
-									<img class="img-responsive" src="../img/portfolio/item1B.png" alt="???" title="???" />
+									<img class="img-responsive" src="../img/portfolio/full-item1.png" alt="???" title="???" />
 									<div class="overlay">
 										<div class="recent-work-inner">
 											<h3><a href="#">Project Title</a></h3>
 											<p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-											<a class="preview" href="../img/portfolio/item1A.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
+											<a class="preview" href="../img/portfolio/recent-item1.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
 										</div><!-- recent-work-inner -->
 									</div><!-- overlay -->
 								</div><!-- recent-work-wrap -->
@@ -190,12 +192,12 @@
 							<!-- Start ITEM THREE Project -->
 							<div class="portfolio-item bootstrap wordpress col-xs-12 col-sm-4 col-md-3">
 								<div class="recent-work-wrap">
-									<img class="img-responsive" src="../img/portfolio/item1B.png" alt="???" title="???" />
+									<img class="img-responsive" src="../img/portfolio/full-item1.png" alt="???" title="???" />
 									<div class="overlay">
 										<div class="recent-work-inner">
 											<h3><a href="#">Project Title</a></h3>
 											<p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-											<a class="preview" href="../img/portfolio/item1A.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
+											<a class="preview" href="../img/portfolio/recent-item1.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
 										</div><!-- recent-work-inner -->
 									</div><!-- overlay -->
 								</div><!-- recent-work-wrap -->
@@ -204,12 +206,12 @@
 							<!-- Start ITEM FOUR Project -->
 							<div class="portfolio-item joomla wordpress apps col-xs-12 col-sm-4 col-md-3">
 								<div class="recent-work-wrap">
-									<img class="img-responsive" src="../img/portfolio/item1B.png" alt="???" title="???" />
+									<img class="img-responsive" src="../img/portfolio/full-item1.png" alt="???" title="???" />
 									<div class="overlay">
 										<div class="recent-work-inner">
 											<h3><a href="#">Project Title</a></h3>
 											<p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-											<a class="preview" href="../img/portfolio/item1A.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
+											<a class="preview" href="../img/portfolio/recent-item1.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
 										</div><!-- recent-work-inner -->
 									</div><!-- overlay -->
 								</div><!-- recent-work-wrap -->
@@ -218,12 +220,12 @@
 							<!-- Start ITEM FIVE Project -->
 							<div class="portfolio-item joomla html bootstrap col-xs-12 col-sm-4 col-md-3">
 								<div class="recent-work-wrap">
-									<img class="img-responsive" src="../img/portfolio/item1B.png" alt="???" title="???" />
+									<img class="img-responsive" src="../img/portfolio/full-item1.png" alt="???" title="???" />
 									<div class="overlay">
 										<div class="recent-work-inner">
 											<h3><a href="#">Project Title</a></h3>
 											<p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-											<a class="preview" href="../img/portfolio/item1A.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
+											<a class="preview" href="../img/portfolio/recent-item1.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
 										</div><!-- recent-work-inner -->
 									</div><!-- overlay -->
 								</div><!-- recent-work-wrap -->
@@ -232,12 +234,12 @@
 							<!-- Start ITEM SIX Project -->
 							<div class="portfolio-item wordpress html apps col-xs-12 col-sm-4 col-md-3">
 								<div class="recent-work-wrap">
-									<img class="img-responsive" src="../img/portfolio/item1B.png" alt="???" title="???" />
+									<img class="img-responsive" src="../img/portfolio/full-item1.png" alt="???" title="???" />
 									<div class="overlay">
 										<div class="recent-work-inner">
 											<h3><a href="#">Project Title</a></h3>
 											<p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-											<a class="preview" href="../img/portfolio/item1A.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
+											<a class="preview" href="../img/portfolio/recent-item1.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
 										</div><!-- recent-work-inner -->
 									</div><!-- overlay -->
 								</div><!-- recent-work-wrap -->
@@ -246,12 +248,12 @@
 							<!-- Start ITEM SEVEN Project -->
 							<div class="portfolio-item wordpress html col-xs-12 col-sm-4 col-md-3">
 								<div class="recent-work-wrap">
-									<img class="img-responsive" src="../img/portfolio/item1B.png" alt="???" title="???" />
+									<img class="img-responsive" src="../img/portfolio/full-item1.png" alt="???" title="???" />
 									<div class="overlay">
 										<div class="recent-work-inner">
 											<h3><a href="#">Project Title</a></h3>
 											<p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-											<a class="preview" href="../img/portfolio/item1A.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
+											<a class="preview" href="../img/portfolio/recent-item1.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
 										</div><!-- recent-work-inner -->
 									</div><!-- overlay -->
 								</div><!-- recent-work-wrap -->
@@ -260,12 +262,12 @@
 							<!-- Start ITEM EIGHT Project -->
 							<div class="portfolio-item wordpress html bootstrap col-xs-12 col-sm-4 col-md-3">
 								<div class="recent-work-wrap">
-									<img class="img-responsive" src="../img/portfolio/item1B.png" alt="???" title="???" />
+									<img class="img-responsive" src="../img/portfolio/full-item1.png" alt="???" title="???" />
 									<div class="overlay">
 										<div class="recent-work-inner">
 											<h3><a href="#">Project Title</a></h3>
 											<p>There are many variations of passages of Lorem Ipsum available, but the majority</p>
-											<a class="preview" href="../img/portfolio/item1A.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
+											<a class="preview" href="../img/portfolio/recent-item1.png" rel="prettyPhoto" alt="???" title="???"><i class="fa fa-share"></i> View</a>
 										</div><!-- .recent-work-inner -->
 									</div><!-- .overlay -->
 								</div><!-- recent-work-wrap -->
@@ -279,16 +281,16 @@
 		</div><!-- .container -->
 		<!-- Start bottom-line -->
 		<section class="bottom-line">
-			<div class="container-fluid">
-				<div class="row-fluid">
-				</div><!--.row-fluid -->
-			</div><!--.container-fluide -->
+			<div class="container">
+				<div class="row">
+				</div><!--.row -->
+			</div><!--.container -->
 		</section><!-- .bottom-line -->
 		<!-- End bottom-line -->
 		<!-- Start Footer-->
 		<footer id="footer">
-			<div class="container-fluid">
-				<div class="row-fluid">
+			<div class="container">
+				<div class="row">
 					<!-- Start Footer Navigation-->
 					<div class="container">
 						<div class="row">
@@ -317,7 +319,7 @@
 									<div class="col-sm-6 col-xs-4">
 										<div class="">
 											<p>
-												<span><a class="" href="mailto:marie@jtdesignsolutions.com">email me: marie@jtdesignsolutions.com </a></span>
+												<span><a class="" href="mailto:marie@jtdesignsolutions.com" title="Email"><i class="fa-envelope-square"></i>  marie@jtdesignsolutions.com </a></span>
 											</p>
 										</div><!-- ."" -->
 									</div><!-- .col-sm-6 col-xs-4 -->
@@ -325,9 +327,10 @@
 										<div class="social">
 											<ul class="social-share">
 												<!--<li><a href="#"><i class="fa fa-facebook"></i></a></li>-->
-												<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-												<li><a href="https://www.linkedin.com/in/mariejtvigil"><i class="fa fa-linkedin"></i></a></li>
-												<li><a href="https://github.com/mjktvigil"><i class="fa fa-github"></i></a></li>
+												<li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+												<li><a href="https://www.linkedin.com/in/mariejtvigil" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+												<li><a href="https://plus.google.com/u/0/111062279938596830993/posts" title="Google Plus" target="_blank"><i class="fa-google-plus-square"></i></a></li>
+												<li><a href="https://github.com/mjktvigil" alt="Git Hub" title="Git Hub"  target="_blank"><i class="fa fa-github"></i></a></li>
 											</ul>
 										</div><!-- .social -->
 									</div><!-- .col-sm-6 col-xs-8 -->
@@ -339,8 +342,8 @@
 					<!-- End Sub-Footer -->
 		</footer><!-- #footer -->
 		</div><!-- .col-md-12 -->
-		</div><!-- .row-fluid -->
-		</div><!-- .container-fluid -->
+		</div><!-- .row -->
+		</div><!-- .container -->
 		<!-- End Footer -->
 		<!-- End Portfolio Section-->
 		<!-- Up Arrow to top of page
@@ -350,8 +353,5 @@
 					  </div> row -->
 		<!--  End Content Wrapper -->
 		</div><!-- #wrapper -->
-
-
-
 	</body>
 </html>
