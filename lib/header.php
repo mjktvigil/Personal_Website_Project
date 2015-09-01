@@ -1,25 +1,32 @@
-<!-- Start Logo & Naviagtion  -->
-	<nav class="navbar" role="navigation">
+<!-- Start Header -->
+<header>
+	<!-- Start Navbar -->
+	<!-- START Dark on Light Navigation-->
+	<nav class="navbar navbar" role="banner">
 		<div class="container">
-			<div id="menu">
-				<div class="navbar-header">
-				<!-- Collapse button  -->
-					<button type="button" class="navbar-default navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse" aria-expanded="false">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-						<!--  home page link to logo here -->
-						<a class="navbar-brand" href="../pages/home.php">jtdesignsolutions<span class="subhead"></span></a>
-				</div> <!-- navbar-header -->
-				<div class="collapse navbar-collapse" id="collapse">
-					<ul class="nav navbar-nav navbar-right">
-						<li class="active"><a class="navBackground" href="../pages/home.php">Home</a></li>
-						<li class="active"><a class="navBackground" href="../pages/our-story.php">Our story</a></li>
-						<li><a class="navBackground" href="../pages/chat-with-us.php">Chat with us</a></li>
-					</ul>
-				</div> <!-- navbar-header -->
-			</div> <!-- menu -->
-		</div> <!-- navbar navbar-default navbar-fnt navbar-backgrnd -->
-	</nav><!--"navbar" role="navigation" -->
-<!-- End Header Logo & Naviagtion -->
+			<div class="navbar- navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="" href="../pages/home.php"><img class="logo" src="../images/logos/jt-symbol-logo.png" alt="???" title="???" /></a>
+			</div>
+			<!--.navbar-header-->
+			<div class="collapse navbar-collapse navbar-right">
+				<ul class="nav navbar-nav">
+					<li><a href="../pages/home.php">Home</a></li>
+					<li><a href="../pages/our-story.php">Our Story</a></li>
+					<li><a href="../pages/chat-with-us.php">Chat with us</a></li>
+				</ul>
+			</div>
+			<!--.collapse navbar-collapse-->
+		</div>
+		<!--.container-->
+	</nav>
+	<!--.nav-->
+	<!-- END Dark on Light Navigation-->
+	<!-- End Navbar -->
+</header>
+<!-- End Header -->
