@@ -72,13 +72,13 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <a class="" href="../pages/home.php"><img class="logo" src="../images/logos/jt-symbol-logo.png" alt="???" title="???" /></a>
+            <a class="" href="../home/home.php"><img class="logo" src="../images/logos/jt-symbol-logo.png" alt="???" title="???" /></a>
           </div><!--.navbar-header-->
           <div class="collapse navbar-collapse navbar-right">
             <ul class="nav navbar-nav">
-              <li><a href="../pages/home.php">Home</a></li>
-              <li><a href="../pages/our-story.php">Our Story</a></li>
-              <li><a href="../pages/chat-with-us.php">Chat with us</a></li>
+              <li><a href="../home/home.php">Home</a></li>
+              <li><a href="index.php">Our Story</a></li>
+              <li><a href="../chat-with-us/index.php">Chat with us</a></li>
             </ul>
           </div><!--.collapse navbar-collapse-->
         </div><!--.container-->
@@ -105,9 +105,9 @@
             <div class="squish-container">
               <nav class="example-menu">
                 <ul>
-                  <li class="example-menu1"><a href="../pages/inbound-marketing.php"><strong>InBound Marketing</strong></a> </li>
-                  <li class="example-menu2"><a href="../pages/outbound-marketing.php"><strong>OutBound Marketing</strong></a></li>
-                  <li class="example-menu3"><a href="cognitive-marketing.php"><strong>Cognitive Marketing </strong></a></li>
+                  <li class="example-menu1"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+                  <li class="example-menu2"><a href="../outbound-marketing/outbound-marketing.php"><strong>OutBound Marketing</strong></a></li>
+                  <li class="example-menu3"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
                 </ul>
               </nav><!-- .example-menu -->
             </div><!-- .squish-container -->
@@ -162,9 +162,9 @@
             <!-- col-sm-6 -->
             <div class="col-sm-6">
               <ul class="pull-right">
-                <li><a href="../pages/home.php">Home</a></li>
-                <li><a href="../pages/our-story.php">Our Story</a></li>
-                <li><a href="../pages/chat-with-us.php">Chat with us</a></li>
+                <li><a href="../home/home.php">Home</a></li>
+                <li><a href="index.php">Our Story</a></li>
+                <li><a href="../chat-with-us/index.php">Chat with us</a></li>
               </ul>
             </div><!-- col-sm-6 -->
             <div class="white-space col-sm-6">

@@ -11,14 +11,14 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="" href="../pages/home.php"><img class="logo" src="../images/logos/jt-symbol-logo.png" alt="???" title="???" /></a>
+				<a class="" href="../home/home.php"><img class="logo" src="../images/logos/jt-symbol-logo.png" alt="???" title="???" /></a>
 			</div>
 			<!--.navbar-header-->
 			<div class="collapse navbar-collapse navbar-right">
 				<ul class="nav navbar-nav">
-					<li><a href="../pages/home.php">Home</a></li>
-					<li><a href="../pages/our-story.php">Our Story</a></li>
-					<li><a href="../pages/chat-with-us.php">Chat with us</a></li>
+					<li><a href="../home/home.php">Home</a></li>
+					<li><a href="../our-story/index.php">Our Story</a></li>
+					<li><a href="../chat-with-us/index.php">Chat with us</a></li>
 				</ul>
 			</div>
 			<!--.collapse navbar-collapse-->

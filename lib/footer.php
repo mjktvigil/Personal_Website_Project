@@ -15,9 +15,9 @@
 				</div><!-- col-sm-6 -->
 				<div class="col-sm-6">
 					<ul class="pull-right">
-						<li><a href="../pages/home.php">Home</a></li>
-						<li><a href="../pages/our-story.php">Our Story</a></li>
-						<li><a href="../pages/chat-with-us.php">Chat with us</a></li>
+						<li><a href="../home/home.php">Home</a></li>
+						<li><a href="../our-story/index.php">Our Story</a></li>
+						<li><a href="../chat-with-us/index.php">Chat with us</a></li>
 					</ul>
 				</div><!-- col-sm-6 -->
 				<div class="white-space col-sm-6">

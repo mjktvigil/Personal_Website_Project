@@ -72,14 +72,14 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="" href="../pages/home.php"><img class="logo" src="../images/logos/jt-symbol-logo.png" alt="???" title="???" /></a>
+						<a class="" href="home.php"><img class="logo" src="../images/logos/jt-symbol-logo.png" alt="???" title="???" /></a>
 					</div>
 					<!--.navbar-header-->
 					<div class="collapse navbar-collapse navbar-right">
 						<ul class="nav navbar-nav">
-							<li><a href="../pages/home.php">Home</a></li>
-							<li><a href="../pages/our-story.php">Our Story</a></li>
-							<li><a href="../pages/chat-with-us.php">Chat with us</a></li>
+							<li><a href="home.php">Home</a></li>
+							<li><a href="../our-story/index.php">Our Story</a></li>
+							<li><a href="../chat-with-us/index.php">Chat with us</a></li>
 						</ul>
 					</div>
 					<!--.collapse navbar-collapse-->
@@ -121,7 +121,7 @@
 						<div class="column whitecard">
 							<div class="col-sm-4 plan card-one">
 								<div class="heading-one">
-									<h2><a href="../pages/inbound-marketing.php">InBound Marketing</a></h2>
+									<h2><a href="../inbound-marketing/index.php">InBound Marketing</a></h2>
 								</div>
 								<div class="col-sm-4"><img class="column-image"
 																	src="../images/home/column-image1.jpg" alt="???" title="???" />
@@ -143,7 +143,7 @@
 						<div class="column whitecard">
 							<div class="col-sm-4 plan card-two">
 								<div class="heading-two">
-									<h2><a href="../pages/outbound-marketing.php">OutBound Marketing</a></h2>
+									<h2><a href="../outbound-marketing/outbound-marketing.php">OutBound Marketing</a></h2>
 								</div>
 								<div class="col-sm-4"><img class="column-image"
 																	src="../images/home/column-image1.jpg" alt="???" title="???" />
@@ -164,7 +164,7 @@
 						<div class="column whitecard">
 							<div class="col-sm-4 plan card-three">
 								<div class="heading-three">
-									<h2><a href="cognitive-marketing.php">Cognitive Marketing</a></h2>
+									<h2><a href="../cognitive-marketing/index.php">Cognitive Marketing</a></h2>
 								</div>
 								<div class="col-sm-4"><img class="column-image"
 																	src="../images/home/column-image1.jpg" alt="???" title="???" />
@@ -202,9 +202,9 @@
 						</div><!-- col-sm-6 -->
 						<div class="col-sm-6">
 							<ul class="pull-right">
-								<li><a href="../pages/home.php">Home</a></li>
-								<li><a href="../pages/our-story.php">Our Story</a></li>
-								<li><a href="../pages/chat-with-us.php">Chat with us</a></li>
+								<li><a href="home.php">Home</a></li>
+								<li><a href="../our-story/index.php">Our Story</a></li>
+								<li><a href="../chat-with-us/index.php">Chat with us</a></li>
 							</ul>
 						</div><!-- col-sm-6 -->
 						<div class="white-space col-sm-6">
