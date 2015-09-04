@@ -164,7 +164,7 @@
 						<div class="column whitecard">
 							<div class="col-sm-4 plan card-three">
 								<div class="heading-three">
-									<h2><a href="../pages/resources.php">Cognitive Marketing</a></h2>
+									<h2><a href="cognitive-marketing.php">Cognitive Marketing</a></h2>
 								</div>
 								<div class="col-sm-4"><img class="column-image"
 																	src="../images/home/column-image1.jpg" alt="???" title="???" />
@@ -255,3 +255,7 @@
 		<!--  End Content Wrapper -->
 	</body>
 </html>
+
+
+
+

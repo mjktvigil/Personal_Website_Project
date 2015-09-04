@@ -110,7 +110,7 @@
                 <ul>
                   <li class="example-menu1"><a href="../pages/inbound-marketing.php"><strong>InBound Marketing</strong></a> </li>
                   <li class="example-menu2"><a href="../pages/outbound-marketing.php"><strong>OutBound Marketing</strong></a></li>
-                  <li class="example-menu3"><a href="../pages/resources.php"><strong>Cognitive Marketing </strong></a></li>
+                  <li class="example-menu3"><a href="cognitive-marketing.php"><strong>Cognitive Marketing </strong></a></li>
                 </ul>
               </nav><!-- .example-menu -->
             </div><!-- .squish-container -->
