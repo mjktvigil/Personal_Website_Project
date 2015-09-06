@@ -32,10 +32,10 @@
         <!-- End Side Navigation -->
         <!-- Start Poem -->
         <div class="col-med-7">
-          <div class="testimonial">
+          <div class="poem">
             <h2>If</h2>
             <br>
-            <div class="testimonial-inner">
+            <div class="poem-inner">
               <div class="media-body">
                 <p><strong>by Rudyard Kipling&#44; 1865 - 1936</p>
                 <div class="white-space">
