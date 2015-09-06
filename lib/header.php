@@ -1,32 +1,33 @@
-<!-- Start Header -->
-<header>
-	<!-- Start Navbar -->
-	<!-- START Dark on Light Navigation-->
-	<nav class="navbar navbar" role="banner">
-		<div class="container">
-			<div class="navbar- navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-				<a class="" href="../home/index.php"><img class="logo" src="../images/logos/jt-symbol-logo.png" alt="???" title="???" /></a>
+<body>
+	<div id="wrapper">
+		<!-- Start header -->
+		<header>
+			<div class="navbar navbar-default navbar-static-top">
+				<div class="container">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="../home/index.php"><span><img class="logo" src="../img/logos/jt-design-solutions-logo-tag.png" alt="jt design solutions" title="jt design solutions" /></span></a>
+					</div>
+					<div class="navbar-collapse collapse ">
+						<ul class="nav navbar-nav">
+							<li class="active"><a href="index.php">Home</a></li>
+							</li>
+							<li><a href="../our-story/index.php">Our story</a></li>
+							<li><a href="../chat-with-us/index.php">Chat with us</a></li>
+						</ul>
+					</div>
+				</div>
 			</div>
-			<!--.navbar-header-->
-			<div class="collapse navbar-collapse navbar-right">
-				<ul class="nav navbar-nav">
-					<li><a href="../home/index.php">Home</a></li>
-					<li><a href="../our-story/index.php">Our Story</a></li>
-					<li><a href="../chat-with-us/index.php">Chat with us</a></li>
-				</ul>
+		</header>
+		<!-- End header -->
+		<!-- Start top-line -->
+		<div class="top-line container-fluid">
+			<div class="row">
 			</div>
-			<!--.collapse navbar-collapse-->
 		</div>
-		<!--.container-->
-	</nav>
-	<!--.nav-->
-	<!-- END Dark on Light Navigation-->
-	<!-- End Navbar -->
-</header>
-<!-- End Header -->
+		<!-- .bottom-line .container-fluid -->
+		<!-- End top-line -->
