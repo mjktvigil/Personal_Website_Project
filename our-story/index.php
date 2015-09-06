@@ -57,8 +57,8 @@
                 <div>
                  <ul class="social-network">
                  <h3>marie jt vigil</h3>
-                <li><a href="#" data-placement="top" alt="Twitter"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="https://www.linkedin.com/in/mariejtvigil" data-placement="top" alt="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="https://twitter.com/mariejtvigil" data-placement="top" alt="Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/mariejtvigil" data-placement="top" alt="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                   </ul>  
                 </div>
             </div><!-- profile -->
