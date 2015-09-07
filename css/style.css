@@ -391,7 +391,7 @@ header ul.nav li a {
 ul.profile-network {
 	list-style:none;
 	margin-left:43px;
-	margin-bottom: 30px;
+	margin-bottom: 60px;
 }
 .profile-network li {
 	display:inline;
@@ -585,6 +585,7 @@ textarea#message{
 ================================ */
 
 /* Bottom-Line */
+
 .bottom-line {
 	width: auto;
 	height: 10px;
@@ -601,6 +602,7 @@ textarea#message{
 .widgetheading {
 	font-size: 18px;
 	font-weight: 700;
+	padding-top: 15px;
 	padding-bottom: 3px;
 }
 footer{

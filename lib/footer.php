@@ -18,7 +18,7 @@
 			</div>
 			<div class="col-lg-3">
 				<div class="widget">
-					<h5 class="widgetheading"><strong>Pages</strong></h5>
+					<h5 class="widgetheading"><strong>Pages&hellip;</strong></h5>
 					<ul class="link-list">
 						<li><a href="../home/index.php">Home</a></li>
 						<li><a href="../our-story/index.php">Our Story</a></li>
@@ -28,7 +28,7 @@
 			</div>
 			<div class="col-lg-3">
 				<div class="widget">
-					<h5 class="widgetheading"><strong>Portfolios</strong></h5>
+					<h5 class="widgetheading"><strong>Portfolios&hellip;</strong></h5>
 					<ul class="link-list">
 						<li><a href="../inbound-marketing/index.php">Inbound Marketing</a></li>
 						<li><a href="../outbound-marketing/index.php">Outbound Marketing</a></li>
