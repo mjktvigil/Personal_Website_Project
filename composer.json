@@ -1,0 +1,5 @@
+{
+  "required": {
+            "swiftmailer/swiftmailer": "@stable"
+  }
+}
