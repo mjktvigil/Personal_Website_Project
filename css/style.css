@@ -373,11 +373,12 @@ header ul.nav li a {
 7. profile photo
 ==================================== */
 
-.profile-network > h3 {
+.profile-name > h3 {
 	font-size: 35px;
 	font-weight: 700;
 	color: #31407e;
 	letter-spacing: 1px;
+	margin-left: 40px;
 }
 .profile-network li a {
 	text-decoration: none;
@@ -389,7 +390,7 @@ header ul.nav li a {
 }
 ul.profile-network {
 	list-style:none;
-	margin-left:40px;
+	margin-left:43px;
 	margin-bottom: 30px;
 }
 .profile-network li {

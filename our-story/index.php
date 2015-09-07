@@ -67,9 +67,9 @@
 			<div class="col-md-4">
 				<div class="profile">
 					<a href="https://www.linkedin.com/in/mariejtvigil" alt="marie jt vigil" target="_blank"><img class="media-object" src="../img/mariejtvigil.jpg" alt=""></a>
-					<div>
+					<div class="profile-name">
+						<h3>marie jt vigil</h3>
 						<ul class="profile-network">
-							<h3>marie jt vigil</h3>
 							<span><li><a href="https://twitter.com/mariejtvigil" data-placement="top" alt="Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li></span>
 							<span><li><a href="https://www.linkedin.com/in/mariejtvigil" data-placement="top" alt="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li></span>
 						</ul>
