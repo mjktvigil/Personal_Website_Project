@@ -456,21 +456,7 @@ textarea#message{
 	text-align: center;
 	padding-bottom: 55px;
 }
-.btn-primary {
-	padding: 8px 20px;
-	background-color: #31407e;
-	color: #ffffff;
-	border-radius: 4px;
-	border:none;
-	margin-top: 10px;
-	margin-right: 20px;
-}
-.btn-primary:hover,
-.btn-primary:focus{
-	background-color: #46bd00;
-	outline: none;
-	box-shadow: none;
-}
+
 /* ===============================
 10. Portfolio
 ================================ */
@@ -580,6 +566,24 @@ textarea#message{
 	background: #46bd00;
 	text-decoration: none
 }
+
+.btn-primary {
+	padding: 8px 20px;
+	background-color: #31407e;
+	color: #ffffff;
+	border-radius: 4px;
+	border:none;
+	margin-top: 7px;
+	margin-right: 20px;
+}
+
+.btn-primary:hover,
+.btn-primary:focus{
+	background-color: #46bd00;
+	outline: none;
+	box-shadow: none;
+}
+
 /* ===============================
 12. Footer
 ================================ */
@@ -605,6 +609,11 @@ textarea#message{
 	padding-top: 15px;
 	padding-bottom: 3px;
 }
+
+.widgetheading-note {
+	line-height: 1.3em;
+}
+
 footer{
 	padding:30px 0 0 0;
 	color:#ffffff;
@@ -635,7 +644,7 @@ footer a:hover {
 	font-size: 35px;
 	text-align: left;
 	margin: 0;
-	padding-right: 23px;
+	padding-right: 12px;
 }
 ul.social-network {
 	list-style: none;
@@ -723,26 +732,26 @@ a.scrollup i:hover {
 		float: none;
 		width: 100%;
 	}
-	header .navbar-nav > li  {
+	header .navbar-nav > li {
 		padding-bottom: 0;
 		padding-top: 0;
 	}
 	header .nav li {
 		margin-top: 0;
 	}
-	.navbar-collapse.collapse  {
+	.navbar-collapse.collapse {
 		border: none;
 		overflow: hidden;
 	}
 	.box {
 		padding-bottom:20px;
 	}
-	footer .col-lg-3, footer .col-lg-4, footer .col-lg-5, footer .col-lg-7, footer .col-lg-8, footer .col-lg-12{
+	footer .col-lg-3, footer .col-lg-4, footer .col-lg-5, footer .col-lg-7, footer .col-lg-8, footer .col-lg-12 {
 		margin-bottom:20px;
 	}
 }
 @media (max-width: 480px) {
-	ul.portfolio li article a i{
+	ul.portfolio li article a i {
 		width:20px;
 		height:20px;
 		font-size:14px;

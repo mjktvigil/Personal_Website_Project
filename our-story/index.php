@@ -66,12 +66,12 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="profile">
-					<a href="https://www.linkedin.com/in/mariejtvigil" alt="marie jt vigil" target="_blank"><img class="media-object" src="../img/mariejtvigil.jpg" alt=""></a>
+					<a href="https://www.linkedin.com/in/mariejtvigil" alt="marie jt vigil" title="link to LinkedIn profile" target="_blank"><img class="media-object" src="../img/mariejtvigil.jpg" alt=""></a>
 					<div class="profile-name">
 						<h3>marie jt vigil</h3>
 						<ul class="profile-network">
-							<span><li><a href="https://twitter.com/mariejtvigil" data-placement="top" alt="Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li></span>
-							<span><li><a href="https://www.linkedin.com/in/mariejtvigil" data-placement="top" alt="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li></span>
+							<span><li><a href="https://twitter.com/mariejtvigil" data-placement="top" alt="Twitter" title="link to Twitter profile" target="_blank"><i class="fa fa-twitter"></i></a></li></span>
+							<span><li><a href="https://www.linkedin.com/in/mariejtvigil" data-placement="top" alt="Linkedin" title="link to LinkedIn profile" target="_blank"><i class="fa fa-linkedin"></i></a></li></span>
 						</ul>
 					</div>
 				</div>
@@ -84,7 +84,7 @@
 					<h2>Title</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam.</p>
 				</artilce>
-				<a class="btn-theme" alt="Truchas, New Mexico" href="https://en.wikipedia.org/wiki/Truchas,_New_Mexico" target="_blank">Read More</a>
+				<a class="btn-theme" alt="Truchas, New Mexico" href="https://en.wikipedia.org/wiki/Truchas,_New_Mexico" title="click to Read More" target="_blank">Read More</a>
 			</div>
 			<!--.col-md-8 -->
 			<!-- End Family History -->

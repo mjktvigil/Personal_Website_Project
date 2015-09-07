@@ -31,7 +31,7 @@
 						<div class="col-lg-4">
 							<div class="box">
 								<div class="box-top box-one-top">
-									<a href="../inbound-marketing/index.php">InBound Marketing</a>
+									<a href="../inbound-marketing/index.php" title="click to Read More">InBound Marketing</a>
 								</div>
 								<div class="">
 									<img src="../img/works/1.jpg" alt="???" title="???" />
@@ -53,7 +53,7 @@
 						<div class="col-lg-4">
 							<div class="box">
 								<div class="box-top box-two-top">
-									<a href="../outbound-marketing/index.php">OutBound Marketing</a>
+									<a href="../outbound-marketing/index.php" title="click to Read More">OutBound Marketing</a>
 								</div>
 								<div class="">
 									<img src="../img/works/2.jpg" alt="???" title="???" />
@@ -75,7 +75,7 @@
 						<div class="col-lg-4">
 							<div class="box">
 								<div class="box-top box-three-top">
-									<a href="../cognitive-marketing/index.php">Cognitive Marketing</a>
+									<a href="../cognitive-marketing/index.php" title="click to Read More">Cognitive Marketing</a>
 								</div>
 								<div class="">
 									<img src="../img/works/3.jpg" alt="???" title="???" />
