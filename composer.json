@@ -1,5 +1,6 @@
 {
-  "required": {
-            "swiftmailer/swiftmailer": "@stable"
+  "require": {
+    "guzzlehttp/guzzle":"@stable",
+    "swiftmailer/swiftmailer":"@stable"
   }
 }
