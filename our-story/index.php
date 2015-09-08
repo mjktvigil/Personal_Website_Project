@@ -48,12 +48,15 @@
 		<!-- column-fluid -->
 		<!-- End Side Navigation -->
 		<!-- Start Portfolio Intoduction Article -->
-		<div class="col-md-8">
-			<article class="post-content4">
-				<h2>Our Mission</h2>
-				<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
-				<div class="white-space"></div>
-			</article>
+		<div class="container read-more">
+			<div class="col-md-8">
+				<article class="post-content4">
+					<h2>Our Story<h2>
+					<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
+					<div class="white-space"></div>
+				</article>
+				<a class="btn-theme" alt="Truchas, New Mexico" href="https://en.wikipedia.org/wiki/Truchas,_New_Mexico" title="click to Read More" target="_blank">Read More</a>
+			</div>
 		</div>
 		<!-- .post-content4 -->
 		<!-- End Portfolio Intoduction Article -->
@@ -81,10 +84,18 @@
 			<!-- Start Family History -->
 			<div class="col-md-8">
 				<artilce class="post-content3">
-					<h2>Title</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam.</p>
+					<h2>Principles:</h2>
+						<h3>for promoting myself with confidence</h3>
+						<p class="promote-paragraph">
+							<ul>
+								<li><strong>Promote my value</strong>&mdash;reframe my experience and expertise in terms of the value I have to contribute.</li>
+								<li><strong>Share examples, not ego</strong>&mdash;share examples of something I’ve done that conveys my accomplishments, capabilities and aspirations.</li>
+								<li><strong>Be strategic</strong>&mdash;be relevant in what I share, whom I share it with and how I communicate my experience.</li>
+								<li><strong>Publicly recognizing the accomplishments of others</strong>&mdash;self-promotion is not just about me. It’s about me, my team, and our organization.</li>
+								<li><strong>Be a risk-taker</strong>&mdash;letting fear of failure determine what I say or do is a sure-fire way to never achieve the success I want in life.</li>
+							</ul>
+						</p>
 				</artilce>
-				<a class="btn-theme" alt="Truchas, New Mexico" href="https://en.wikipedia.org/wiki/Truchas,_New_Mexico" title="click to Read More" target="_blank">Read More</a>
 			</div>
 			<!--.col-md-8 -->
 			<!-- End Family History -->

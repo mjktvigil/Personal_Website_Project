@@ -36,6 +36,7 @@ body {
 	letter-spacing: 1px;
 	color: #000000;
 }
+
 h1,h2, h3, h4, h5, h6 {
 	font-family: 'Questrial', sans-serif;
 	font-weight:700;
@@ -43,15 +44,21 @@ h1,h2, h3, h4, h5, h6 {
 	color: #000000;
 	margin-bottom: 20px;
 }
+
 .paragraph {
+	font-family: 'Questrial', sans-serif;
 	font-size: 22px;
 	line-height: 32px;
 	font-weight: 400;
 	color: #000000;
 }
+
 a {
 	color: #ffffff;
 }
+
+
+
 /* ===================================
 2. Header
 ==================================== */
@@ -59,6 +66,7 @@ a {
 header .navbar {
 	margin-bottom: 0;
 }
+
 .navbar-brand {
 	margin-top: 30px;
 	padding: 0 0 0 15px;
@@ -71,24 +79,28 @@ header .navbar {
 .navbar-default {
 	background: #ffffff;
 }
+
 .navbar-nav>.active>a {
 	color: #46bd00;
 }
-
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover{
 	color: #46bd00;
 	background-color: #ffffff;
 }
+
 .navbar .nav > .active > a,.navbar .nav > .active > a {
 	color: #000000;
 }
+
 .navbar .nav > li > a:hover,.navbar .nav > li > a:focus,.navbar .nav > .active > a:focus {
 	color: #46bd00;
 }
+
 header .navbar {
 	min-height: 107px;
 }
+
 header .navbar-nav > li  {
 	margin-top: 36px;
 	margin-bottom: 0;
@@ -96,22 +108,27 @@ header .navbar-nav > li  {
 	padding-right: 17px;
 	padding-top: 17px;
 }
+
 header ul.nav li a {
 	font-size: 21px;
 	font-weight: 700;
 	letter-spacing: 2px;
 }
+
 .navbar .nav > li > a {
 	color: #000000;
 }
+
 .navbar .nav a:hover {
 	background:none;
 }
+
 .navbar .nav > .active > a:active,.navbar .nav > .active > a:focus {
 	background:none;
 	outline:0;
 	font-weight:700;
 }
+
 .navbar-toggle {
 	position: relative;
 	float: right;
@@ -121,6 +138,7 @@ header ul.nav li a {
 	margin-bottom: 8px;
 	border-radius: 4px;
 }
+
 /* Top-Line */
 .top-line {
 	width: auto;
@@ -139,23 +157,27 @@ header ul.nav li a {
 	padding-bottom: 1em;
 	margin-right: 80px;
 }
+
 .example-menu ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 }
+
 .example-menu1 a {
 	display: block;
 	padding: .4em 0;
 	color: #0088cc;
 	/** transition: all 0.2s ease;**/
 }
+
 .example-menu2 a {
 	display: block;
 	padding: .4em 0;
 	color: #c909a5;
 	/**	transition: all 0.2s ease;**/
 }
+
 .example-menu3 a {
 	display: block;
 	padding: .4em 0;
@@ -163,18 +185,21 @@ header ul.nav li a {
 	/**	transition: all 0.2s ease;**/
 	margin-bottom: 30px;
 }
+
 .example-menu1 a:hover {
 	padding: .4em 1em;
 	background-color: #0088cc;
 	text-decoration: none;
 	color: white;
 }
+
 .example-menu2 a:hover {
 	padding: .4em 1em;
 	background-color: #c909a5;
 	text-decoration: none;
 	color: white;
 }
+
 .example-menu3 a:hover {
 	padding: .4em 1em;
 	background-color: #f28814;
@@ -198,6 +223,7 @@ header ul.nav li a {
 	font-weight: 400;
 	text-align: center;
 }
+
 .post-content2 h2 {
 	font-family: 'Special Elite', cursive;
 	font-size: 50px;
@@ -205,41 +231,66 @@ header ul.nav li a {
 	text-align: center;
 	margin-top: 80px;
 }
+
 .post-content3 h2 {
 	font-family: 'Special Elite', cursive;
 	font-size: 40px;
 	font-weight: 400;
 	text-align: center;
 }
+
 .post-content4 h2 {
 	font-family: 'Special Elite', cursive;
 	font-size: 50px;
 	font-weight: 400;
 	text-align: center;
 }
+
 .post-content p {
 	font-size: 23px;
 	font-weight: 400;
 	text-align: center;
 	margin-bottom: 60px;
 }
+
 .post-content2 p {
 	font-size: 23px;
 	font-weight: 400;
 	text-align: center;
 	margin-bottom: 50px;
 }
+
 .post-content3 p {
 	font-size: 18px;
 	font-weight: 400;
 	text-align: left;
 	margin-bottom: 30px;
 }
+
 .post-content4 p {
 	font-size: 18px;
 	font-weight: 400;
 	text-align: left;
-	margin-bottom: 50px;
+	margin-bottom: 20px;
+}
+
+.post-content3 h3 {
+	font-family: 'Special Elite', cursive;
+	font-size: 30px;
+	font-weight: 400;
+	text-align: center;
+	line-height: 36px;
+}
+
+.post-content3{
+	margin-top: 40px;
+}
+
+.promote-paragraph {
+	font-size: 26px;
+	line-height: 1.6em;
+	font-weight: 400;
+	color: #000000;
 }
 
 .read-more {
@@ -347,28 +398,32 @@ header ul.nav li a {
 ==================================== */
 
 .gmap-area {
-	background-image: url("../img/map.jpg");
+	background-image: url("../img/1938-grandparents-wedding.jpg");
 	background-position: 0 0;
 	background-repeat: no-repeat;
 	background-size: cover;
-	padding: 70px 0;
 	margin-bottom: 60px;
+	height: 650px;
 }
+
 .gmap-area .gmap iframe {
 	border-radius: 50%;
 	height: 400px;
 	width: 400px;
 }
+
 .gmap {
 	border: 10px solid #f6f5f0;
 	border-radius: 50%;
-	height: 250px;
-	width: 250px;
+	height: 290px;
+	width: 290px;
 	box-shadow: 0px 0px 3px 3px #e7e4dc;
 	overflow: hidden;
 	position: relative;
-	margin: 0 auto;
+	margin-top: 40px;
+	margin-left: -110px;
 }
+
 /* ===================================
 7. profile photo
 ==================================== */
@@ -573,7 +628,7 @@ textarea#message{
 	color: #ffffff;
 	border-radius: 4px;
 	border:none;
-	margin-top: 7px;
+	margin-top: 0;
 	margin-right: 20px;
 }
 
@@ -654,7 +709,7 @@ ul.social-network {
 #sub-footer{
 	color:#ffffff;
 	background:#152f44;
-	height: 90px;
+	height: 110px;
 	padding-top: 30px;
 }
 .clear {
