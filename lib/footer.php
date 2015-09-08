@@ -32,7 +32,7 @@
 					<h5 class="widgetheading"><strong>Portfolios&hellip;</strong></h5>
 					<ul class="link-list">
 						<li><a href="../inbound-marketing/index.php">Inbound Marketing</a></li>
-						<li><a href="../outbound-marketing/index.php">Outbound Marketing</a></li>
+						<li><a href="../../outbound-marketing/index.php">Outbound Marketing</a></li>
 						<li><a href="../cognitive-marketing/index.php">Cognitive Marketing</a></li>
 					</ul>
 				</div>
