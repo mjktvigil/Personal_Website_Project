@@ -1,5 +1,6 @@
 <?php require_once('../lib/head-utils.php'); ?>
 <?php require_once('../lib/header.php'); ?>
+<?php require_once('../php/swiftmailer.php'); ?>
 	<!-- Start Headline-intro Content -->
 	<section class="intro">
 		<div class="container">
