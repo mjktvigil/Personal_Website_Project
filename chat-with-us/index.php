@@ -1,6 +1,5 @@
 <?php require_once('../lib/head-utils.php'); ?>
 <?php require_once('../lib/header.php'); ?>
-<?php require_once('../php/swiftmailer.php'); ?>
 	<!-- Start Headline-intro Content -->
 	<section class="intro">
 		<div class="container">
@@ -68,7 +67,7 @@
 			</div>
 			<div class="row contact-wrap">
 				<div class="status alert alert-success" style="display: none"></div>
-				<form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="sendemail.php">
+				<form id="main-contact-form" class="contact-form" name="contact-form" method="post" action=".../php/swiftmailer.php">
 					<div class="col-sm-5 col-sm-offset-1">
 						<div class="form-group">
 							<label>Name *</label>
