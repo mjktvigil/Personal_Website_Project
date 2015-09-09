@@ -81,9 +81,15 @@
 									<img src="../img/works/3.jpg" alt="???" title="???" />
 								</div>
 								<div class="box-gray">
-									<h4 class="aligncenter">?Title?</h4>
+									<h4 class="aligncenter">What is a Cognitive Marketing approach to Design?</h4>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+										Simply put, it means to design with intent&mdash;to solve problems by thinking about the situation from many view points.
+										A designer views the situation from a cognitive lens that draws on how users make interactive decisions.
+										The designer approaches problem solving as a science, rather than an art, providing a practical set of collaborative tools
+										and methods for planning and defining a successful designed product.
+										It goes back to the thought that often in life a square peg is placed in a round hole or a one-size-fits-all thought process.
+										Where there is one answer for many solutions. With Cognitive Design or Design Thinking many possible answers are reviewed
+										for one solution to one root-cause situation. Design in its most utilized form is a process, an action, a verb—a tool for solving problems and discovering new opportunities.
 									</p>
 								</div>
 							</div>
