@@ -13,8 +13,9 @@
 	<section class="intro">
 		<div class="container">
 			<article class="post-content">
-				<h2>Title</h2>
-				<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
+				<h2>Design is.</h2>
+				<p class="paragraph">Design in its most utilized form is a process, an action, a verb&mdash;<br/>
+					a tool for solving problems and discovering new opportunities.</p>
 			</article>
 			<!-- .post-content -->
 		</div>
@@ -39,7 +40,7 @@
 								<div class="box-gray">
 									<h4 class="aligncenter">?Title?</h4>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+										copy here
 									</p>
 								</div>
 							</div>
@@ -61,7 +62,7 @@
 								<div class="box-gray">
 									<h4 class="aligncenter">?Title?</h4>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
+										copy here
 									</p>
 								</div>
 							</div>
@@ -78,7 +79,7 @@
 									<a href="../cognitive-marketing/index.php" title="click to Read More">Cognitive Marketing</a>
 								</div>
 								<div class="">
-									<img src="../img/works/3.jpg" alt="???" title="???" />
+									<img src="../img/dirty-boots.jpg" alt="dirty-boots" />
 								</div>
 								<div class="box-gray">
 									<h4 class="aligncenter">What is a Cognitive Marketing approach to Design?</h4>
@@ -89,8 +90,13 @@
 										and methods for planning and defining a successful designed product.
 										It goes back to the thought that often in life a square peg is placed in a round hole or a one-size-fits-all thought process.
 										Where there is one answer for many solutions. With Cognitive Design or Design Thinking many possible answers are reviewed
-										for one solution to one root-cause situation. Design in its most utilized form is a process, an action, a verb—a tool for solving problems and discovering new opportunities.
+										for one solution to one root-cause situation. Design in its most utilized form is a process, an action, a verb—a tool for solving problems and discovering new opportunities.<br/>
+										<br/>Question: How do you keep people from bringing mud into the house?<br/>
+										Answer: Why is it muddy outside?
 									</p>
+									<div class="aligncenter">
+									<a class="btn-theme" alt="Learn more" href="../cognitive-marketing/index.php" title="click to Learn More">Learn More</a>
+									</div>
 								</div>
 							</div>
 							<!-- .box -->

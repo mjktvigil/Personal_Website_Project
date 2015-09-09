@@ -334,6 +334,7 @@ header ul.nav li a {
 
 .box-gray p {
 	color: black;
+	margin-bottom: 20px;
 }
 
 .box-gray  h4 {
@@ -635,6 +636,7 @@ textarea#message{
 /* ===============================
 11. Buttons
 ================================ */
+
 
 .btn-theme {
 	color: #ffffff;
