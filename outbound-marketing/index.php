@@ -45,8 +45,11 @@
 		<div class="col-md-7">
 			<article class="post-content3">
 				<h2>Portfolio</h2>
-				<p class="paragraph">The following Outbound Marketing portfolio includes examples of magazine print ads, flyers, catalog covers, signage,
-				direct-mailing pieces, product inserts, and internal corporate collateral.</p>
+				<p class="paragraph">
+				I'm excited to share with you some Outbound Marketing, a.k.a &ldquo;printed&rdquo; material, examples.
+				Several of these projects were team-oriented projects consisting of a Copy Writer, Multi-media Designer, Photographer, and Prepress Production Artist. Campaign projects also included a Web Designer and Videographer.
+				The teams were guided by a Creative Director, Communications Director, and a Project Coordinator.
+				</p>
 				<div class="alignleft">
 					<a class="btn-theme" alt="See slide share presentation" href="" title="click to see Slide Share Presentation">See Additional Examples</a>
 				</div>
@@ -114,12 +117,12 @@
 								<!-- Start Project FIVE -->
 								<li class="item-thumbs col-lg-3 photography">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/5.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/best-weld-ad.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">&ldquo;Best Weld&rdquo;<br> print ad</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/5.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/best-weld-ad.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project FIVE -->
 								<!-- Start Project SIX -->

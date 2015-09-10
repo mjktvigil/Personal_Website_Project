@@ -630,7 +630,7 @@ textarea#message{
 .item-thumbs .hover-wrap .overlay-img-thumb {
 	position: absolute;
 	top: 50%;
-	left: 11%;
+	left: 10%;
 	margin: -16px 0 0 -16px;
 	color: #152f44;
 	font-size: 23px;
