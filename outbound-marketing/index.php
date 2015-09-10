@@ -229,10 +229,10 @@
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/tri-fold-double-side-brochure.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Tri-fold<br/>double-side<br/>brochure</span>
+										<span class="overlay-img-thumb">Tri-fold<br/>double<br/>sided<br/>brochure</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/tri-fold-double-side-brochure.jpg" alt="Tri-fold/double-side<br/>brochure for trade show.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
+									<img src="../img/works/tri-fold-double-side-brochure.jpg" alt="Tri-fold/double-sided<br/>brochure for trade show.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project FIFTEEN -->
 								<!-- Start Project SIXTEEN -->
@@ -243,7 +243,7 @@
 										<span class="overlay-img-thumb">Assorted Postcards</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/assorted-postcards.jpg" alt="Assorted Postcards.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
+									<img src="../img/works/assorted-postcards.jpg" alt="Assorted<br/>Postcards.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project SIXTEEN -->
 							</ul>
