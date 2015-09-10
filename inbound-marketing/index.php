@@ -21,8 +21,8 @@
 					<div class="squish-container">
 						<nav class="example-menu">
 							<ul>
-								<li class="example-menu1"><a href="index.php"><strong>InBound Marketing</strong></a> </li>
-								<li class="example-menu2"><a href="../../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
+								<li class="example-menu1"><a href="../index.html"><strong>InBound Marketing</strong></a> </li>
+								<li class="example-menu2"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
 								<li class="example-menu3"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
 							</ul>
 						</nav>

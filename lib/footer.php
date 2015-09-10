@@ -14,6 +14,9 @@
 					<p class="widgetheading-note">This is an online portfolio<br/>
 						for Marie jt Vigil.<br/>
 					</p>
+					<p>
+						<a href="http://jtdesignsolutions.com/index.html">WELCOME PAGE</a>
+					</p>
 				</div>
 			</div>
 			<div class="col-lg-3">

@@ -27,7 +27,7 @@
 						<nav class="example-menu">
 							<ul>
 								<li class="example-menu1"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
-								<li class="example-menu2"><a href="index.php"><strong>OutBound Marketing</strong></a></li>
+								<li class="example-menu2"><a href="../index.html"><strong>OutBound Marketing</strong></a></li>
 								<li class="example-menu3"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
 							</ul>
 						</nav>

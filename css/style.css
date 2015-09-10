@@ -19,7 +19,8 @@ Portolio details
 12. Footer
 bottom line
 13. Scroll to Top
-14. Media queries
+14. Welcome page
+15. Media queries
 ====================================
 */
 
@@ -155,6 +156,8 @@ header ul.nav li a {
 	background-color: #152f44;
 	margin-top: 0;
 }
+
+
 /* ===================================
 3. Side Navigation
 ==================================== */
@@ -689,13 +692,16 @@ textarea#message{
 	background-color: #46bd00;
 	margin-top: 0;
 }
+
 .widget {
 	margin: 0;
 	padding: 0;
 }
+
 .widget p {
 	font-size: 16px;
 }
+
 .widgetheading {
 	font-size: 18px;
 	font-weight: 700;
@@ -712,25 +718,31 @@ footer{
 	color:#ffffff;
 	background:#152f44;
 }
+
 ul .link-list li a {
 	font-size: 16px;
 	color: #ffffff;
 	text-align: left;
 }
+
 ul.link-list {
 	margin:0;
 	padding:0;
 	list-style:none;
 }
+
 footer a:hover {
 	color:#46bd00;
 }
+
 footer h5 {
 	color:#ffffff;
 }
+
 footer a:hover {
 	text-decoration:none;
 }
+
 .social-network > li {
 	display:inline;
 	list-style:none;
@@ -739,24 +751,30 @@ footer a:hover {
 	margin: 0;
 	padding-right: 12px;
 }
+
 ul.social-network {
 	list-style: none;
 	margin:0;
 	padding: 0;
 }
+
 #sub-footer{
 	color:#ffffff;
 	background:#152f44;
 	height: 110px;
 	padding-top: 30px;
 }
+
 .clear {
 	background:#152f44;
 }
+
 .copyright {
 	text-align:left;
 	font-size:19px;
 }
+
+
 /* ===============================
 13. Scroll to Top
 ================================ */
@@ -784,8 +802,51 @@ a.scrollup i {
 a.scrollup i:hover {
 	text-decoration:none;
 }
+
 /* =============================
-14. Media queries
+14. Welcome page
+============================= */
+
+.home-top-line {
+	width: auto;
+	height: 10px;
+	background-color: #46bd00;
+	margin-top: 0;
+}
+
+.welcome-logo {
+	width: 100em;
+	height: 100em;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-left: -100px;
+}
+
+.welcome-title h1 {
+	font-family: 'Questrial', sans-serif;
+	font-weight:700;
+	line-height:1.1em;
+	color: #ffffff;
+	margin-bottom: 60px;
+}
+
+.welcome-image {
+	background-image: url("../img/welcome-image.jpg");
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 900px;
+}
+
+.home-bottom-line {
+	width: auto;
+	height: 10px;
+	background-color: #46bd00;
+}
+
+
+/* =============================
+15. Media queries
 ============================= */
 
 @media (min-width: 768px) and (max-width: 979px) {
