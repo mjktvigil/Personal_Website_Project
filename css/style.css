@@ -561,6 +561,7 @@ textarea#message{
 	padding: 0;
 	list-style: none;
 }
+
 .work-nav #filters li {
 	margin: 0 10px 30px 0;
 	padding: 0;
@@ -571,27 +572,34 @@ textarea#message{
 	font-size: 14px;
 	display: block;
 }
+
 .work-nav #filters li a:hover {
 }
+
 .work-nav #filters li a.selected {
 	color: #46bd00;
 }
+
 #thumbs {
 	margin: 0;
 	padding: 0;
 }
+
 #thumbs li {
 	list-style-type: none;
 }
+
 .item-thumbs {
 	position: relative;
 	overflow: hidden;
 	margin-bottom: 30px;
 	cursor: pointer;
 }
+
 .item-thumbs a + img {
 	width: 100%;
 }
+
 .item-thumbs .hover-wrap {
 	position: absolute;
 	display: block;
@@ -609,6 +617,7 @@ textarea#message{
 	-o-transform: rotateY(180deg) scale(0.5,0.5);
 	transform: rotateY(180deg) scale(0.5,0.5);
 }
+
 .item-thumbs:hover .hover-wrap,
 .item-thumbs.active .hover-wrap {
 	opacity: 1;
@@ -619,6 +628,7 @@ textarea#message{
 	-o-transform: rotateY(0deg) scale(1,1);
 	transform: rotateY(0deg) scale(1,1);
 }
+
 .item-thumbs .hover-wrap .overlay-img {
 	position: absolute;
 	width: 50%;
@@ -627,9 +637,11 @@ textarea#message{
 	filter: alpha(opacity=100);
 	background: #ffffff;
 }
+
 .item-thumbs .hover-wrap .overlay-img-thumb {
 	background: none;
 }
+
 .item-thumbs .hover-wrap .overlay-img-thumb {
 	position: absolute;
 	top: 50%;
@@ -646,6 +658,7 @@ textarea#message{
 .top-wrapper {
 	margin-bottom:20px;
 }
+
 /* ===============================
 11. Buttons
 ================================ */
@@ -657,6 +670,7 @@ textarea#message{
 	background: #31407e;
 	padding: 10px;
 }
+
 .btn-theme:hover {
 	color: #ffffff;
 	background: #46bd00;
@@ -815,18 +829,19 @@ a.scrollup i:hover {
 }
 
 .welcome-logo {
-	width: 100em;
-	height: 100em;
-	margin-top: 80px;
+	width: 125%;
+	height: 125%;
+	margin-top:150px;
 	margin-bottom: 80px;
-	margin-left: -100px;
+	margin-left: -50px;
 }
 
 .welcome-title h1 {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Special Elite', cursive;
+	font-size: 30px;
 	font-weight:700;
-	line-height:1.1em;
-	color: #ffffff;
+	line-height:1.6em;
+	color: #46bd00;
 	margin-bottom: 60px;
 }
 
@@ -842,6 +857,21 @@ a.scrollup i:hover {
 	width: auto;
 	height: 10px;
 	background-color: #46bd00;
+}
+
+.btn-home-theme {
+	width: 50%;
+	height: 50%;
+	color: #ffffff;
+	letter-spacing: 1.5px;
+	background: #31407e;
+	padding: 10px;
+}
+
+.btn-home-theme:hover {
+	color: #ffffff;
+	background: #46bd00;
+	text-decoration: none
 }
 
 
