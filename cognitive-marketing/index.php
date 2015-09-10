@@ -5,7 +5,7 @@
 		<div class="container">
 			<article class="post-content2">
 				<h2>Cognitive Marketing</h2>
-				<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
+				<p class="paragraph">Content coming soon &hellip;</p>
 			</article>
 			<!-- .post-content -->
 		</div>
@@ -41,7 +41,7 @@
 		<div class="col-md-7">
 			<article class="post-content3">
 				<h2>Portfolio</h2>
-				<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
+				<p class="paragraph">Content coming soon &hellip;</p>
 				<div class="white-space"></div>
 			</article>
 			<!-- End Portfolio Intoduction Article -->
