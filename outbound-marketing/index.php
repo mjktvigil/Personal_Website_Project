@@ -83,32 +83,32 @@
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/SBCA_Design-Is__2015-ad.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">SBDA<br/>&ldquo;Design is.&rdquo;<br/>2015 campaign</span>
+										<span class="overlay-img-thumb">SBDA<br/>&ldquo;Design is.&rdquo;<br/>campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/SBCA_Design-Is__2015-ad.jpg" alt="Saul Bell Design Awards &ldquo;Design is.&rdquo;<br/>2015 campaign. Team Project.<br/>Marie Vigil&ndash;Designer" />
+									<img src="../img/works/SBCA_Design-Is__2015-ad.jpg" alt="Saul Bell Design Awards &ldquo;Design is.&rdquo;<br/>2015 campaign. Team Project.<br/>Marie Vigil&ndash;Lead Designer" />
 								</li>
 								<!-- End Project TWO -->
 								<!-- Start Project THREE -->
 								<li class="item-thumbs col-lg-3 photography">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/3.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/CraftOptics.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">5 Star<br/> Review<br/> campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/3.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/CraftOptics.jpg" alt="&ldquo;5 Star Review&rdquo; campaign. Team Project.<br/>Marie Vigil&ndash;Lead Designer" />
 								</li>
 								<!-- End Project THREE -->
 								<!-- Start Project FOUR -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/4.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/social-media-ad.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Social<br/> Media<br/> print ad</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/4.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/social-media-ad.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project FOUR -->
 								<!-- Start Project FIVE -->
@@ -158,18 +158,18 @@
 								<!-- Start Project NINE -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/8.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/9.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Portfolio<br> name</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/8.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/9.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project NINE -->
 								<!-- Start Project TEN -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/8.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/10.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Portfolio<br> name</span>
 									</a>
@@ -180,23 +180,23 @@
 								<!-- Start Project ELEVEN -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/8.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/11.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Portfolio<br> name</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/8.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/11.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project ELEVEN -->
 								<!-- Start Project TWELVE -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/8.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/12.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Portfolio<br> name</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/8.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/12.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project TWELVE -->
 							</ul>

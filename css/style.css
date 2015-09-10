@@ -118,7 +118,7 @@ header .navbar-nav > li  {
 }
 
 header ul.nav li a {
-	font-size: 23px;
+	font-size: 26px;
 	font-weight: 700;
 	letter-spacing: 2px;
 }
@@ -630,13 +630,13 @@ textarea#message{
 .item-thumbs .hover-wrap .overlay-img-thumb {
 	position: absolute;
 	top: 50%;
-	left: 15%;
+	left: 11%;
 	margin: -16px 0 0 -16px;
 	color: #152f44;
 	font-size: 23px;
 	text-align: center;
 	line-height: 1em;
-	opacity: 1;
+	opacity: 4;
 	filter: alpha(opacity=100);
 }
 
