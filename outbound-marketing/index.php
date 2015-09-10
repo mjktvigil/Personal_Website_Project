@@ -78,7 +78,7 @@
 										<span class="overlay-img-thumb">&ldquo;For the<br/> Love of<br/> Jewelers&rdquo;<br/> campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/knew-Concepts_2015-ad.jpg" alt="2015 Gold Addy Award for Integrated Campaign. B-to-B Regional/National. American Advertising Federation, New Mexico. Team Project. Marie Vigil&ndash;Designer" />
+									<img src="../img/works/knew-Concepts_2015-ad.jpg" alt="2015 Gold Addy Award for Integrated Campaign. B-to-B Regional/National. American Advertising Federation, New Mexico. Team Project.<br/>Marie Vigil&ndash;Designer" />
 								</li>
 								<!-- End Project ONE -->
 								<!-- Start Project TWO -->
@@ -89,7 +89,7 @@
 										<span class="overlay-img-thumb">SBDA<br/>&ldquo;Design is.&rdquo;<br/>campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/SBCA_Design-Is__2015-ad.jpg" alt="Saul Bell Design Awards &ldquo;Design is.&rdquo;<br/>2015 campaign. Team Project.<br/>Marie Vigil&ndash;Lead Designer" />
+									<img src="../img/works/SBCA_Design-Is__2015-ad.jpg" alt="Saul Bell Design Awards &ldquo;Design is.&rdquo;<br/>2015 campaign.<br/>Team Project.<br/>Marie Vigil&ndash;Lead Designer" />
 								</li>
 								<!-- End Project TWO -->
 								<!-- Start Project THREE -->
@@ -152,7 +152,7 @@
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/retail-catalog-back-cover.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Retail<br/> Catalog<br/> back cover</span>
 									</a>
 									<!-- Thumb Image and Description -->
 									<img src="../img/works/retail-catalog-back-cover.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
@@ -163,10 +163,10 @@
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-1.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/> poster</span>
+										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-1.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/internal-corporate-campaign-poster-1.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project NINE -->
 								<!-- Start Project TEN -->
@@ -174,10 +174,10 @@
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-2.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/> poster</span>
+										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-2.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/internal-corporate-campaign-poster-2.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project TEN -->
 								<!-- Start Project ELEVEN -->
@@ -185,10 +185,10 @@
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-3.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/> poster</span>
+										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-3.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/internal-corporate-campaign-poster-3.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project ELEVEN -->
 								<!-- Start Project TWELVE -->
@@ -196,12 +196,56 @@
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-4.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/> poster</span>
+										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-4.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/internal-corporate-campaign-poster-4.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project TWELVE -->
+								<!-- Start Project THIRTEEN -->
+								<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/13.jpg">
+										<span class="overlay-img"></span>
+										<span class="overlay-img-thumb">Portfolio<br> name</span>
+									</a>
+									<!-- Thumb Image and Description -->
+									<img src="../img/works/13.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+								</li>
+								<!-- End Project THIRTEEN -->
+								<!-- Start Project FOURTEEN -->
+								<li class="item-thumbs col-lg-3 design" data-id="id-1" data-type="icon">
+									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/14.jpg">
+										<span class="overlay-img"></span>
+										<span class="overlay-img-thumb">Portfolio<br> name</span>
+									</a>
+									<!-- Thumb Image and Description -->
+									<img src="../img/works/14.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+								</li>
+								<!-- End Project FOURTEEN -->
+								<!-- Start Project FIFTEEN -->
+								<li class="item-thumbs col-lg-3 photography" data-id="id-2" data-type="graphic">
+									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/15.jpg">
+										<span class="overlay-img"></span>
+										<span class="overlay-img-thumb">Portfolio<br> name</span>
+									</a>
+									<!-- Thumb Image and Description -->
+									<img src="../img/works/15.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+								</li>
+								<!-- End Project FIFTEEN -->
+								<!-- Start Project SIXTEEN -->
+								<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/16.jpg">
+										<span class="overlay-img"></span>
+										<span class="overlay-img-thumb">Portfolio<br> name</span>
+									</a>
+									<!-- Thumb Image and Description -->
+									<img src="../img/works/16.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+								</li>
+								<!-- End Project SIXTEEN -->
 							</ul>
 							<!--  #thumbs .portfolio -->
 						</section>
