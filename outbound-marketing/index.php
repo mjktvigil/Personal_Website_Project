@@ -47,8 +47,8 @@
 				<h2>Portfolio</h2>
 				<p class="paragraph">
 				I'm excited to share with you some Outbound Marketing, a.k.a &ldquo;printed&rdquo; material, examples.
-				Several of these projects were team-oriented projects consisting of a Copy Writer, Multi-media Designer, Photographer, and Prepress Production Artist. Campaign projects also included a Web Designer and Videographer.
-				The teams were guided by a Creative Director, Communications Director, and a Project Coordinator.
+				Several of these projects were team-oriented projects consisting of several members such as a Copy Writer, Multi-media Designer, Photographer, and Prepress Production Artist. Campaign projects also included a Web Designer and Videographer.
+				The teams were guided by a Creative Director, Communications Director, and a Project Coordinator or Project Manager.
 				</p>
 				<div class="alignleft">
 					<a class="btn-theme" alt="See slide share presentation" href="" title="click to see Slide Share Presentation">See Additional Examples</a>
@@ -78,7 +78,7 @@
 										<span class="overlay-img-thumb">&ldquo;For the<br/> Love of<br/> Jewelers&rdquo;<br/> campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/knew-Concepts_2015-ad.jpg" alt="2015 Gold Addy Award for Integrated Campaign. B-to-B Regional/National. American Advertising Federation, New Mexico. Team Project.<br/>Marie Vigil&ndash;Designer" />
+									<img src="../img/works/knew-Concepts_2015-ad.jpg" alt="2015 Gold Addy Award for Integrated Campaign. B-to-B Regional/National. American Advertising Federation, New Mexico. Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
 								</li>
 								<!-- End Project ONE -->
 								<!-- Start Project TWO -->
@@ -89,7 +89,7 @@
 										<span class="overlay-img-thumb">SBDA<br/>&ldquo;Design is.&rdquo;<br/>campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/SBCA_Design-Is__2015-ad.jpg" alt="Saul Bell Design Awards &ldquo;Design is.&rdquo;<br/>2015 campaign.<br/>Team Project.<br/>Marie Vigil&ndash;Lead Designer" />
+									<img src="../img/works/SBCA_Design-Is__2015-ad.jpg" alt="Saul Bell Design Awards &ldquo;Design is.&rdquo;<br/>2015 campaign.<br/>Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
 								</li>
 								<!-- End Project TWO -->
 								<!-- Start Project THREE -->
@@ -100,7 +100,7 @@
 										<span class="overlay-img-thumb">5 Star<br/> Review<br/> campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/CraftOptics.jpg" alt="&ldquo;5 Star Review&rdquo; campaign. Team Project.<br/>Marie Vigil&ndash;Lead Designer" />
+									<img src="../img/works/CraftOptics.jpg" alt="&ldquo;5 Star Review&rdquo;<br/> campaign.<br/> Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
 								</li>
 								<!-- End Project THREE -->
 								<!-- Start Project FOUR -->
@@ -111,7 +111,7 @@
 										<span class="overlay-img-thumb">Social<br/> Media<br/> print ad</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/social-media-ad.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/social-media-ad.jpg" alt="Social Media<br/> one-off print ad.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project FOUR -->
 								<!-- Start Project FIVE -->
@@ -119,10 +119,10 @@
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/best-weld-ad.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">&ldquo;Best Weld&rdquo;<br> print ad</span>
+										<span class="overlay-img-thumb">&ldquo;Best Weld&rdquo;<br/> print ad</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/best-weld-ad.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/best-weld-ad.jpg" alt="&ldquo;Best Weld&rdquo; print ad<br/>that turned into campaign.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project FIVE -->
 								<!-- Start Project SIX -->
@@ -133,7 +133,7 @@
 										<span class="overlay-img-thumb">Catalog<br/>front cover</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/tools-catalog-front-cover.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/tools-catalog-front-cover.jpg" alt="Catalog front cover.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project SIX -->
 								<!-- Start Project SEVEN -->
@@ -144,7 +144,7 @@
 										<span class="overlay-img-thumb">Retail<br/> Catalog<br/> back cover</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/counter-top-catalog-back-cover.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/counter-top-catalog-back-cover.jpg" alt="Retail counter-top<br/> back cover.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project SEVEN -->
 								<!-- Start Project EIGHT -->
@@ -155,7 +155,7 @@
 										<span class="overlay-img-thumb">Retail<br/> Catalog<br/> back cover</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/retail-catalog-back-cover.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/retail-catalog-back-cover.jpg" alt="Retail counter-top<br/> back cover.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project EIGHT -->
 								<!-- Start Project NINE -->
@@ -166,7 +166,7 @@
 										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-1.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Designer/<br/>Co-Production Coordinator." />
+									<img src="../img/works/internal-corporate-campaign-poster-1.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash; Lead Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project NINE -->
 								<!-- Start Project TEN -->
@@ -177,7 +177,7 @@
 										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-2.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Designer/<br/>Co-Production Coordinator." />
+									<img src="../img/works/internal-corporate-campaign-poster-2.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Lead Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project TEN -->
 								<!-- Start Project ELEVEN -->
@@ -188,7 +188,7 @@
 										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-3.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Designer/<br/>Co-Production Coordinator." />
+									<img src="../img/works/internal-corporate-campaign-poster-3.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Lead Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project ELEVEN -->
 								<!-- Start Project TWELVE -->
@@ -199,51 +199,51 @@
 										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-4.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Designer/<br/>Co-Production Coordinator." />
+									<img src="../img/works/internal-corporate-campaign-poster-4.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Lead Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project TWELVE -->
 								<!-- Start Project THIRTEEN -->
 								<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/13.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-invitations.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Internal<br/>corporate<br/>campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/13.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/internal-corporate-campaign-poster-invitations.jpg" alt="Internal Corporate<br/>campaign poster<br/> and invitations.<br/> Team Project.<br/>Marie Vigil&ndash;Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project THIRTEEN -->
 								<!-- Start Project FOURTEEN -->
 								<li class="item-thumbs col-lg-3 design" data-id="id-1" data-type="icon">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/14.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/product-package-insert.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Product<br/> Package<br/> Insert</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/14.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/product-package-insert.jpg" alt="Product Package Insert.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project FOURTEEN -->
 								<!-- Start Project FIFTEEN -->
 								<li class="item-thumbs col-lg-3 photography" data-id="id-2" data-type="graphic">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/15.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/tri-fold-double-side-brochure.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Tri-fold<br/>double-side<br/>brochure</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/15.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/tri-fold-double-side-brochure.jpg" alt="Tri-fold/double-side<br/>brochure for trade show.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project FIFTEEN -->
 								<!-- Start Project SIXTEEN -->
 								<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/16.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/assorted-postcards.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Assorted Postcards</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/16.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/assorted-postcards.jpg" alt="Assorted Postcards.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project SIXTEEN -->
 							</ul>

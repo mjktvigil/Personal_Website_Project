@@ -620,8 +620,8 @@ textarea#message{
 	position: absolute;
 	width: 50%;
 	height: 100%;
-	opacity: 0.80;
-	filter: alpha(opacity=80);
+	opacity: 3;
+	filter: alpha(opacity=100);
 	background: #ffffff;
 }
 .item-thumbs .hover-wrap .overlay-img-thumb {
@@ -636,7 +636,6 @@ textarea#message{
 	font-size: 23px;
 	text-align: center;
 	line-height: 1em;
-	opacity: 4;
 	filter: alpha(opacity=100);
 }
 
