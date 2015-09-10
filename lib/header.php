@@ -19,8 +19,8 @@
 								<ul class="nav navbar-nav navbar-right">
 									<li class="active"><a href="../home/index.php">Home</a></li>
 									</li>
-									<li><a href="../our-story/index.php">Our story</a></li>
-									<li><a href="../chat-with-us/index.php">Chat with us</a></li>
+									<li><a href="../our-story/index.php">My story</a></li>
+									<li><a href="../chat-with-us/index.php">Chat with me</a></li>
 								</ul>
 							</div>
 						</div>

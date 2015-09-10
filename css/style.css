@@ -113,7 +113,7 @@ header .navbar-nav > li  {
 }
 
 header ul.nav li a {
-	font-size: 21px;
+	font-size: 23px;
 	font-weight: 700;
 	letter-spacing: 2px;
 }
@@ -216,16 +216,16 @@ header ul.nav li a {
 }
 
 
-
 /* ===================================
 4. .post-content
 ==================================== */
 
 .post-content h2 {
 	font-family: 'Special Elite', cursive;
-	font-size: 60px;
+	font-size: 100px;
 	font-weight: 400;
 	text-align: center;
+	margin-top: 50px;
 }
 
 .post-content2 h2 {
@@ -251,22 +251,25 @@ header ul.nav li a {
 }
 
 .post-content p {
-	font-size: 23px;
+	font-size: 30px;
 	font-weight: 400;
 	text-align: center;
 	margin-bottom: 60px;
+	line-height: 1.8em;
 }
 
 .post-content2 p {
 	font-size: 23px;
 	font-weight: 400;
+	line-height: 1.5em;
 	text-align: center;
 	margin-bottom: 50px;
 }
 
 .post-content3 p {
-	font-size: 18px;
+	font-size: 23px;
 	font-weight: 400;
+	line-height: 1.5em;
 	text-align: left;
 	margin-bottom: 30px;
 }
@@ -299,6 +302,10 @@ header ul.nav li a {
 
 .read-more {
 	margin-bottom: 60px;
+}
+
+.box-gray h4 {
+	line-height: 1.6em;
 }
 
 /* ===================================
@@ -640,6 +647,7 @@ textarea#message{
 
 .btn-theme {
 	color: #ffffff;
+	letter-spacing: 1.5px;
 	background: #31407e;
 	padding: 10px;
 }

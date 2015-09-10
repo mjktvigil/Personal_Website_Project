@@ -51,8 +51,22 @@
 		<div class="container read-more">
 			<div class="col-md-8">
 				<article class="post-content4">
-					<h2>Our Story<h2>
-					<p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
+					<h2>My Story<h2>
+					<p class="paragraph">It’s hard to tell one’s story without talking about their family’s story.
+						I come from a Spanish family of builders, creators, and engineers.
+						My grandmother, pictured above on her wedding day, was a builder of beautiful hand-sewn
+						Northern New Mexico Santera Dolls and functional designed everyday cloth items such as aprons, clothes-pin bags,
+						and clothing. My uncle, who still lives in Truchas, New Mexico where my family settled as Spainish colonists, is a wood carver and carpenter. My father is a builder of roads and bridges as a civil engineer.
+						My two older brothers are engineers as well&mdash;one of computer programming and the other a mechanical engineer.</p>
+					<p class="paragraph">
+						I inherited the gift of being a builder, creator, and engineer from my family genes.
+						I’m passionate about creating objects that interact with their users.
+						I am an artist with my hands when using pastels and watercolors.
+						I’m a visual artist with my words when writing short stories and poems.
+						I design cognitive solutions with my computer and both sides of my brain.
+						I am&hellip;a geek. An average 'Joe'sphine with a zeal for technology, design,
+						and execution of interactive solutions.
+					</p>
 					<div class="white-space"></div>
 				</article>
 				<a class="btn-theme" alt="Truchas, New Mexico" href="https://en.wikipedia.org/wiki/Truchas,_New_Mexico" title="click to Read More" target="_blank">More about Truchas, NM</a>
@@ -84,8 +98,8 @@
 			<!-- Start Family History -->
 			<div class="col-md-8">
 				<artilce class="post-content3">
-					<h2>Principles:</h2>
-						<h3>for promoting myself with confidence</h3>
+					<h2>Principles&mdash;</h2>
+						<h3>for promoting myself with confidence.</h3>
 						<p class="promote-paragraph">
 							<ul>
 								<li><strong>Promote my value</strong>&mdash;reframe my experience and expertise in terms of the value I have to contribute.</li>

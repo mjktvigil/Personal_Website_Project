@@ -10,10 +10,9 @@
 		<div class="row">
 			<div class="col-lg-3">
 				<div class="widget">
-					<h5 class="widgetheading"><strong>Let us know&hellip;</strong></h5>
-					<p class="widgetheading-note">Problems with this site?<br>
-						Please use the contact form<br>
-						to send us a message.</a>
+					<h5 class="widgetheading"><strong>Just to let you know&hellip;</strong></h5>
+					<p class="widgetheading-note">This is an online portfolio<br/>
+						for Marie jt Vigil.<br/>
 					</p>
 				</div>
 			</div>
@@ -22,8 +21,8 @@
 					<h5 class="widgetheading"><strong>Pages&hellip;</strong></h5>
 					<ul class="link-list">
 						<li><a href="../home/index.php">Home</a></li>
-						<li><a href="../our-story/index.php">Our Story</a></li>
-						<li><a href="../chat-with-us/index.php">Chat with us</a></li>
+						<li><a href="../our-story/index.php">My Story</a></li>
+						<li><a href="../chat-with-us/index.php">Chat with me</a></li>
 					</ul>
 				</div>
 			</div>
@@ -56,7 +55,7 @@
 				<div class="col-lg-8">
 					<div class="copyright">
 						<p>
-							&copy; 2015 jt design solutions&mdash;all right reserved by marie jt vigil
+							&copy; 2015 jt design solutions&mdash;all right reserved by marie jt vigil.
 						</p>
 					</div>
 				</div>
