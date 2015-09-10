@@ -128,78 +128,78 @@
 								<!-- Start Project SIX -->
 								<li class="item-thumbs col-lg-3 photography">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/6.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/tools-catalog-front-cover.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Catalog<br/>front cover</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/6.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/tools-catalog-front-cover.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project SIX -->
 								<!-- Start Project SEVEN -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/7.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/counter-top-catalog-back-cover.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Retail<br/> Catalog<br/> back cover</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/7.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/counter-top-catalog-back-cover.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project SEVEN -->
 								<!-- Start Project EIGHT -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/8.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/retail-catalog-back-cover.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Portfolio<br> name</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/8.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/retail-catalog-back-cover.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project EIGHT -->
 								<!-- Start Project NINE -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/9.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-1.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/> poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/9.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/internal-corporate-campaign-poster-1.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project NINE -->
 								<!-- Start Project TEN -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/10.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-2.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/> poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/8.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/internal-corporate-campaign-poster-2.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project TEN -->
 								<!-- Start Project ELEVEN -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/11.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-3.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/> poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/11.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/internal-corporate-campaign-poster-3.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project ELEVEN -->
 								<!-- Start Project TWELVE -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/12.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-4.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Portfolio<br> name</span>
+										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/> poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/12.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
+									<img src="../img/works/internal-corporate-campaign-poster-4.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis." />
 								</li>
 								<!-- End Project TWELVE -->
 							</ul>
