@@ -78,7 +78,7 @@
 										<span class="overlay-img-thumb">&ldquo;For the<br/> Love of<br/> Jewelers&rdquo;<br/> campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/knew-Concepts_2015-ad.jpg" alt="2015 Gold Addy Award for Integrated Campaign. B-to-B Regional/National. American Advertising Federation, New Mexico. Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
+									<img src="../img/works/knew-Concepts_2015-ad.jpg" alt="2015 Gold Addy Award for Integrated Campaign. B-to-B Regional/National. American Advertising Federation, New Mexico.<br/>Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
 								</li>
 								<!-- End Project ONE -->
 								<!-- Start Project TWO -->
@@ -240,10 +240,10 @@
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
 									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/assorted-postcards.jpg">
 										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Assorted Postcards</span>
+										<span class="overlay-img-thumb">Assorted<br/> Postcards</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/assorted-postcards.jpg" alt="Assorted<br/>Postcards.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
+									<img src="../img/works/assorted-postcards.jpg" alt="Assorted Postcards.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project SIXTEEN -->
 							</ul>
