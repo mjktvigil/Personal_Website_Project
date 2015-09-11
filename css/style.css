@@ -821,6 +821,13 @@ a.scrollup i:hover {
 14. Welcome page
 ============================= */
 
+.welcome-top-line {
+	width: auto;
+	height: 31px;
+	background-color: #152f44;
+	margin-top: 0;
+}
+
 .home-top-line {
 	width: auto;
 	height: 10px;
@@ -837,10 +844,11 @@ a.scrollup i:hover {
 
 .welcome-title h1 {
 	font-family: 'Special Elite', cursive;
-	font-size: 30px;
+	font-size: 26px;
 	font-weight:700;
 	line-height:1.6em;
-	color: #46bd00;
+	letter-spacing: 5px;
+	color: white;
 	margin-bottom: 60px;
 }
 
@@ -849,7 +857,7 @@ a.scrollup i:hover {
 	background-position: 0 0;
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 900px;
+	height: 800px;
 }
 
 .home-bottom-line {
