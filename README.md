@@ -40,3 +40,22 @@ Awesome job on the wireframes. This layout should work really well using Bootstr
 ##Suggestions
 - Take a look at the [Swipebox](http://brutaldesign.github.io/swipebox) plugin for your gallery
 - Familiarize yourself with [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), and learn the [Boostrap grid system](http://getbootstrap.com/css/#grid-example-basic) well.
+
+###PWP Milestone 5/Final Feedback
+Great job tidying things up. Things are looking a LOT better now, and a great foundation has been established on which you can move forward developing this project.
+
+Your head-utils.php file looks great, and I'm no longer seeing any more errors in the devtools console.
+
+Overall, beautiful work! Your PWP passes at Tier IV.
+
+###Suggestions
+Take a look at your require_once(); statements across the site: Don't use the "../" inside of a require_once(); but use dirname(\__DIR\__) instead. Remember that dirname(\__DIR\__) is akin to a "../". For example: require_once('../lib/head-utils.php'); should be re-written as require_once(dirname(\__DIR\__) . 'lib/head-utils.php');
+
+Avoid using empty divs in your HTML for styling purposes. Although there are no outright errors here, best practices dictate that HTML be used only to markup actual page content, and that CSS be utilized for styling purposes. Using HTML to create styles such as border effects is considered hacky at best and should be avoided whenever possible. An alternate way to achieve the colored bars underneath your header and above your footer would be to place a border-bottom on your &lt;header&gt; and &lt;footer&gt; tags using CSS.
+
+Great job getting Composer and Swiftmailer installed and running. Consider customizing your Swiftmailer code for your project. (See lines 26, 36-39, 64-66 in swiftmailer.php)
+
+###In Conclusion
+You've done a great job here, and you have an excellent start as a front-end developer. Continue practicing coding HTML and CSS as mastery comes from plenty of practice. Your next steps might be to deepen your knowledge of jQuery and JavaScript, and working with AJAX and HTML GET and POST requests for passing form data to and from the server-side. Perhaps try out the jQuery Validate library for form validation (it's pretty cool), and using qunit/funcunit for front-end testing. Also, if you like CSS, take a look at [SMACSS](https://smacss.com/) - it's a great way to begin learning industry practices regarding CSS organization and architecture.
+
+Further on down the line, you may want to explore further use of Package/Dependency Managers such as Composer for php, Bower, and perhaps NPM (for node.js - if you'd like to explore JavaScript Development). Diving into LESS and/or SASS/Compass is a great next step for front-end as well, along with learning a front-end framework such as Angular.js or React.js. Best of luck!
