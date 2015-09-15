@@ -4,7 +4,7 @@
  * while this is convenient, this may load too much if your composer configuration grows to many classes
  * if this is a concern, load "/vendor/swiftmailer/autoload.php" instead to load just SwiftMailer
  **/
-require_once(dirname(dirname(__DIR__)) . "/vendor/autoload.php");
+require_once(dirname(__DIR__) . "/chat-with-us");
 
 try {
 	// create Swift message
@@ -23,7 +23,7 @@ try {
 	$swiftMessage->setTo($recipients);
 
 	// attach the subject line to the message
-	$swiftMessage->setSubject("Email from PHP");
+	$swiftMessage->setSubject("Email from jtdesignsolutions");
 
 	/**
 	 * attach the actual message to the message
@@ -32,10 +32,10 @@ try {
 	 * notice one tactic used is to display the entire $confirmLink to plain text; this lets users
 	 * who aren't viewing HTML content in Emails still access your links
 	 **/
-	$confirmLink = "https://" . $_SERVER["SERVER_NAME"] . "/important-link/confirm.php?confirmationCode=abc123";
+	$confirmLink = "http://jtdesignsolutions.com/" . $_SERVER["SERVER_NAME"] . "/important-link/confirm.php?confirmationCode=abc123";
 	$message = <<< EOF
-<h1>This is an Important Message</h1>
-<p>This is a very important message. Please read it carefully.</p>
+<h1>Message from jtdesignsolutions.com</h1>
+<p>This message came from jtdesignsolutions user contact form.</p>
 <p>To certify you have read it carefully and understand its contents, please visit: <a href="$confirmLink">$confirmLink</a></p>
 EOF;
 	$swiftMessage->setBody($message, "text/html");
@@ -61,7 +61,7 @@ EOF;
 	}
 
 	// report a successful send
-	echo "<div class=\"alert alert-success\" role=\"alert\">Email successfully sent.</div>";
+	echo "<div class=\"status alert alert-success\" role=\"alert\">Email successfully sent.</div>";
 } catch(Exception $exception) {
 	echo "<div class=\"alert alert-danger\" role=\"alert\"><strong>Oh snap!</strong> Unable to send email: " . $exception->getMessage() . "</div>";
 }
