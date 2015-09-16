@@ -73,179 +73,135 @@
 								<!-- Start Project ONE -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/knew-Concepts_2015-ad.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="For the Love of Jewelers campaign" href="../img/works/knew-Concepts_2015-ad.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">&ldquo;For the<br/> Love of<br/> Jewelers&rdquo;<br/> campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/knew-Concepts_2015-ad.jpg" alt="2015 Gold Addy Award for Integrated Campaign. B-to-B Regional/National. American Advertising Federation, New Mexico.<br/>Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
+									<img src="../img/works/knew-Concepts_2015-ad.jpg" alt="2015 Gold Addy Award for Integrated Campaign.<br/> B-to-B Regional/National. American Advertising<br/>Federation, New Mexico.<br/>Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
 								</li>
 								<!-- End Project ONE -->
 								<!-- Start Project TWO -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/SBCA_Design-Is__2015-ad.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="SBDA &ldquo;Design is.&rdquo;" href="../img/works/SBCA_Design-Is__2015-ad.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">SBDA<br/>&ldquo;Design is.&rdquo;<br/>campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/SBCA_Design-Is__2015-ad.jpg" alt="Saul Bell Design Awards &ldquo;Design is.&rdquo;<br/>2015 campaign.<br/>Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
+									<img src="../img/works/SBCA_Design-Is__2015-ad.jpg" alt="Saul Bell Design Awards<br/>2015 campaign.<br/>Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
 								</li>
 								<!-- End Project TWO -->
 								<!-- Start Project THREE -->
 								<li class="item-thumbs col-lg-3 photography">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/CraftOptics.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="&ldquo;5 Star Review&rdquo; ad campaign" href="../img/works/CraftOptics.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">5 Star<br/> Review<br/> campaign</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/CraftOptics.jpg" alt="&ldquo;5 Star Review&rdquo;<br/> campaign.<br/> Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
+									<img src="../img/works/CraftOptics.jpg" alt="2012-2014 campaign.<br/> Team Project.<br/>Marie Vigil&ndash;Lead Designer." />
 								</li>
 								<!-- End Project THREE -->
 								<!-- Start Project FOUR -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/social-media-ad.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Social Media print ad" href="../img/works/social-media-ad.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Social<br/> Media<br/> print ad</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/social-media-ad.jpg" alt="Social Media<br/> one-off print ad.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
+									<img src="../img/works/social-media-ad.jpg" alt="One-off print ad.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project FOUR -->
 								<!-- Start Project FIVE -->
 								<li class="item-thumbs col-lg-3 photography">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/best-weld-ad.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="&ldquo;Best Weld&rdquo; print ad" href="../img/works/best-weld-ad.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">&ldquo;Best Weld&rdquo;<br/> print ad</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/best-weld-ad.jpg" alt="&ldquo;Best Weld&rdquo; print ad<br/>that turned into campaign.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
+									<img src="../img/works/best-weld-ad.jpg" alt="Print ad that<br/>turned into campaign.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project FIVE -->
 								<!-- Start Project SIX -->
 								<li class="item-thumbs col-lg-3 photography">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/tools-catalog-front-cover.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Catalog front cover" href="../img/works/tools-catalog-front-cover.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Catalog<br/>front cover</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/tools-catalog-front-cover.jpg" alt="Catalog front cover.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
+									<img src="../img/works/tools-catalog-front-cover.jpg" alt="Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project SIX -->
 								<!-- Start Project SEVEN -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/counter-top-catalog-back-cover.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Retail counter-top back cover" href="../img/works/counter-top-catalog-back-cover.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Retail<br/> Catalog<br/> back cover</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/counter-top-catalog-back-cover.jpg" alt="Retail counter-top<br/> back cover.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
+									<img src="../img/works/counter-top-catalog-back-cover.jpg" alt="Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project SEVEN -->
 								<!-- Start Project EIGHT -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/retail-catalog-back-cover.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Retail counter-top back cover" href="../img/works/retail-catalog-back-cover.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Retail<br/> Catalog<br/> back cover</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/retail-catalog-back-cover.jpg" alt="Retail counter-top<br/> back cover.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
+									<img src="../img/works/retail-catalog-back-cover.jpg" alt="Team Project.<br/>Marie Vigil&ndash;Designer." />
 								</li>
 								<!-- End Project EIGHT -->
 								<!-- Start Project NINE -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-1.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Internal Corporate campaign poster" href="../img/works/internal-corporate-campaign-poster-1.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-1.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash; Lead Designer/<br/>Co-Production Coordinator." />
+									<img src="../img/works/internal-corporate-campaign-poster-1.jpg" alt="Team Project.<br/>Marie Vigil&ndash; Lead Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project NINE -->
 								<!-- Start Project TEN -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-2.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Internal Corporate campaign poster" href="../img/works/internal-corporate-campaign-poster-2.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-2.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Lead Designer/<br/>Co-Production Coordinator." />
+									<img src="../img/works/internal-corporate-campaign-poster-2.jpg" alt="Team Project.<br/>Marie Vigil&ndash;Lead Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project TEN -->
 								<!-- Start Project ELEVEN -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-3.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Internal Corporate campaign poster" href="../img/works/internal-corporate-campaign-poster-3.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-3.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Lead Designer/<br/>Co-Production Coordinator." />
+									<img src="../img/works/internal-corporate-campaign-poster-3.jpg" alt="Team Project.<br/>Marie Vigil&ndash;Lead Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project ELEVEN -->
 								<!-- Start Project TWELVE -->
 								<li class="item-thumbs col-lg-3 design">
 									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-4.jpg">
+									<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Internal Corporate campaign poster" href="../img/works/internal-corporate-campaign-poster-4.jpg">
 										<span class="overlay-img"></span>
 										<span class="overlay-img-thumb">Internal<br/>Corporate<br/>campaign<br/>poster</span>
 									</a>
 									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-4.jpg" alt="Internal Corporate<br/>campaign poster.<br/> Team Project.<br/>Marie Vigil&ndash;Lead Designer/<br/>Co-Production Coordinator." />
+									<img src="../img/works/internal-corporate-campaign-poster-4.jpg" alt="Team Project.<br/>Marie Vigil&ndash;Lead Designer/<br/>Co-Production Coordinator." />
 								</li>
 								<!-- End Project TWELVE -->
-								<!-- Start Project THIRTEEN -->
-								<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
-									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/internal-corporate-campaign-poster-invitations.jpg">
-										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Internal<br/>corporate<br/>campaign</span>
-									</a>
-									<!-- Thumb Image and Description -->
-									<img src="../img/works/internal-corporate-campaign-poster-invitations.jpg" alt="Internal Corporate<br/>campaign poster<br/> and invitations.<br/> Team Project.<br/>Marie Vigil&ndash;Designer/<br/>Co-Production Coordinator." />
-								</li>
-								<!-- End Project THIRTEEN -->
-								<!-- Start Project FOURTEEN -->
-								<li class="item-thumbs col-lg-3 design" data-id="id-1" data-type="icon">
-									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/product-package-insert.jpg">
-										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Product<br/> Package<br/> Insert</span>
-									</a>
-									<!-- Thumb Image and Description -->
-									<img src="../img/works/product-package-insert.jpg" alt="Product Package Insert.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
-								</li>
-								<!-- End Project FOURTEEN -->
-								<!-- Start Project FIFTEEN -->
-								<li class="item-thumbs col-lg-3 photography" data-id="id-2" data-type="graphic">
-									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/tri-fold-double-side-brochure.jpg">
-										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Tri-fold<br/>double<br/>sided<br/>brochure</span>
-									</a>
-									<!-- Thumb Image and Description -->
-									<img src="../img/works/tri-fold-double-side-brochure.jpg" alt="Tri-fold/double-sided<br/>brochure for trade show.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
-								</li>
-								<!-- End Project FIFTEEN -->
-								<!-- Start Project SIXTEEN -->
-								<li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
-									<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-									<a class="hover-wrap fancybox" data-fancybox-group="gallery" href="../img/works/assorted-postcards.jpg">
-										<span class="overlay-img"></span>
-										<span class="overlay-img-thumb">Assorted<br/> Postcards</span>
-									</a>
-									<!-- Thumb Image and Description -->
-									<img src="../img/works/assorted-postcards.jpg" alt="Assorted Postcards.<br/> Team Project.<br/>Marie Vigil&ndash;Designer." />
-								</li>
-								<!-- End Project SIXTEEN -->
 							</ul>
 							<!--  #thumbs .portfolio -->
 						</section>
