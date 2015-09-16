@@ -64,8 +64,9 @@
 		<div class="container">
 			<div class="center">
 				<h2>Would love to hear from you!</h2>
+				<a href="mailto:marie@jtdesignsolutions.com"><button class="btn btn-primary btn-lg">Email Me.</button></a>
 			</div>
-			<div class="row contact-wrap">
+			<!--<div class="row contact-wrap">
 				<div class="status alert alert-success" style="display: none"></div>
 				<form id="main-contact-form" class="contact-form" name="contact-form" method="post" action=".../php/swiftmailer.php">
 					<div class="col-sm-5 col-sm-offset-1">
@@ -96,8 +97,7 @@
 						</div>
 					</div>
 				</form>
-			</div>
-			<!--/.row-->
+			</div>-->
 		</div>
 		<!--/.container-->
 	</section>
