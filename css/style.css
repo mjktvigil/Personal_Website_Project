@@ -30,24 +30,24 @@ bottom line
 ==================================== */
 
 body {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size:18px;
-	font-weight:300;
+	font-weight:400;
 	line-height:1.6em;
 	letter-spacing: 1px;
 	color: #000000;
 }
 
 h1,h2, h3, h4, h5, h6 {
-	font-family: 'Questrial', sans-serif;
-	font-weight:700;
+	font-family: 'Raleway', sans-serif;
+	font-weight:600;
 	line-height:1.1em;
 	color: #000000;
 	margin-bottom: 15px;
 }
 
 .paragraph {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 22px;
 	line-height: 32px;
 	font-weight: 400;
@@ -229,7 +229,7 @@ header ul.nav li a {
 ==================================== */
 
 .post-content h2 {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 65px;
 	font-weight: 400;
 	text-align: center;
@@ -237,7 +237,7 @@ header ul.nav li a {
 }
 
 .post-content2 h2 {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 50px;
 	font-weight: 400;
 	text-align: center;
@@ -245,14 +245,14 @@ header ul.nav li a {
 }
 
 .post-content3 h2 {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 40px;
 	font-weight: 400;
 	text-align: center;
 }
 
 .post-content4 h2 {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 50px;
 	font-weight: 400;
 	text-align: center;
@@ -290,7 +290,7 @@ header ul.nav li a {
 }
 
 .post-content3 h3 {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 30px;
 	font-weight: 400;
 	text-align: center;
@@ -443,7 +443,7 @@ header ul.nav li a {
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-bottom: 60px;
-	height: 450px;
+	height: 350px;
 }
 
 .gmap-area .gmap iframe {
@@ -499,14 +499,16 @@ ul.profile-network {
 ==================================== */
 
 .poem h2 {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 45px;
+	font-weight: 400;
 	margin-top: 0;
 	margin-bottom: 0;
 }
 .poem-inner {
-	font-family: 'Questrial', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 18px;
+	font-weight: 400;
 	line-height: 30px;
 	margin-top: -15px;
 	margin-bottom: 60px;
@@ -543,7 +545,9 @@ textarea#message{
 	margin-top: 5px;
 }
 .center h2 {
+	font-family: 'Raleway', sans-serif;
 	font-size: 36px;
+	font-weight: 400;
 	margin-top: 0;
 	margin-bottom: 20px;
 }
@@ -665,6 +669,7 @@ textarea#message{
 
 
 .btn-theme {
+	font-family: 'Questrial', sans-serif;
 	color: #ffffff;
 	letter-spacing: 1.5px;
 	background: #31407e;
@@ -678,6 +683,7 @@ textarea#message{
 }
 
 .btn-primary {
+	font-family: 'Questrial', sans-serif;
 	padding: 8px 20px;
 	background-color: #31407e;
 	color: #ffffff;
@@ -843,7 +849,7 @@ a.scrollup i:hover {
 }
 
 .welcome-title h1 {
-	font-family: 'Special Elite', cursive;
+	font-family: 'Raleway', sans-serif;
 	font-size: 26px;
 	font-weight:700;
 	line-height:1.6em;

@@ -64,7 +64,7 @@
 		<div class="container">
 			<div class="center">
 				<h2>Would love to hear from you!</h2>
-				<a href="mailto:marie@jtdesignsolutions.com"><button class="btn btn-primary btn-lg">Email Me.</button></a>
+				<a href="mailto:marie@jtdesignsolutions.com"><button class="btn btn-primary btn-lg">Email Me</button></a>
 			</div>
 			<!--<div class="row contact-wrap">
 				<div class="status alert alert-success" style="display: none"></div>

@@ -11,6 +11,7 @@
 		<!-- start Custom CSS Files -->
 		<link href='https://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
 		<link href='https://fonts.googleapis.com/css?family=Questrial' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
 		<link href="../css/fancybox/jquery.fancybox.css" rel="stylesheet">
 		<link href="../css/custom-fonts.css" rel="stylesheet" />
 		<link href="../css/style.css" rel="stylesheet" />
