@@ -51,7 +51,7 @@
 				The teams were guided by a Creative Director, Communications Director, and a Project Coordinator or Project Manager.
 				</p>
 				<div class="alignleft">
-					<a class="btn-theme" alt="See slide share presentation" href="" title="click to see Slide Share Presentation">See Additional Examples</a>
+					<a class="btn-theme" alt="See slide share presentation" href="" title="click to see SlideShare Presentation">See Additional Examples</a>
 				</div>
 				<div class="white-space"></div>
 			</article>
