@@ -51,7 +51,8 @@
 				The teams were guided by a Creative Director, Communications Director, and a Project Coordinator or Project Manager.
 				</p>
 				<div class="alignleft">
-					<a class="btn-theme" alt="See slideshare presentation" href="https://www.slideshare.net/secret/4slF7VrkS5v1h4" target="_blank" title="click to see SlideShare Presentation">See Additional Examples</a>
+					<span><a class="btn-theme" alt="See slideshare presentation" href="https://www.slideshare.net/secret/kkxVXOLRwCOOJ5" target="_blank" title="click to see SlideShare Presentation">Online Portfolio</a></span>
+					<a class="btn-theme" alt="See slideshare presentation" href="https://www.slideshare.net/secret/dV9NyFicgNWP38" target="_blank" title="click to see SlideShare Presentation">Prototype Portfolio</a>
 				</div>
 				<div class="white-space"></div>
 			</article>
