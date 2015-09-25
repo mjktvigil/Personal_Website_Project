@@ -129,7 +129,7 @@
 									The popular answer &ldquo;cause we have always done it that way&ldquo; is not the perfect fit for many situations.
 									</p>
 									<p>
-									With Cognitive Design or Design Thinking many possible answers are created and evaluated
+									With Cognitive Design, Design Thinking, and User Experience Design many possible answers are evaluated
 									for one solution to one root-cause situation.
 									</p>
 									<p>
