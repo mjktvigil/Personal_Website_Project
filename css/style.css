@@ -198,6 +198,14 @@ header ul.nav li a {
 	margin-bottom: 30px;
 }
 
+.example-menu4 a {
+	display: block;
+	padding: .4em 0;
+	color: #0088cc;
+	margin-top: 60px;
+	/** transition: all 0.2s ease;**/
+}
+
 .example-menu1 a:hover {
 	padding: .4em 1em;
 	background-color: #0088cc;
@@ -215,6 +223,13 @@ header ul.nav li a {
 .example-menu3 a:hover {
 	padding: .4em 1em;
 	background-color: #f28814;
+	text-decoration: none;
+	color: white;
+}
+
+.example-menu4 a:hover {
+	padding: .4em 1em;
+	background-color: #0088cc;
 	text-decoration: none;
 	color: white;
 }
@@ -258,6 +273,14 @@ header ul.nav li a {
 	text-align: center;
 }
 
+.post-content5 h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	font-weight: 400;
+	text-align: center;
+	margin-top: 80px;
+}
+
 .post-content p {
 	font-size: 30px;
 	font-weight: 400;
@@ -283,6 +306,13 @@ header ul.nav li a {
 }
 
 .post-content4 p {
+	font-size: 18px;
+	font-weight: 400;
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+.post-content5 p {
 	font-size: 18px;
 	font-weight: 400;
 	text-align: left;

@@ -23,8 +23,6 @@
 	<!-- End Gmap with iframe -->
 	<!-- Start Headline-intro Content -->
 	<!-- Start Side Navigation -->
-	<!-- Start Outbound Menu Item -->
-	<!-- Start Side Navigation -->
 	<div class="container">
 		<div class="column">
 			<div class="col-md-4 image-service-box">
@@ -95,7 +93,7 @@
 				<!-- profile -->
 			</div>
 			<!-- col-md-4 -->
-			<!-- Start Family History -->
+			<!-- Start Principles -->
 			<div class="col-md-8">
 				<artilce class="post-content3">
 					<h2>Principles&mdash;</h2>
@@ -112,7 +110,7 @@
 				</artilce>
 			</div>
 			<!--.col-md-8 -->
-			<!-- End Family History -->
+			<!-- End Principles -->
 		</div>
 		<!--.row -->
 	</section>
