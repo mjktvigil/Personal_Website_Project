@@ -359,11 +359,19 @@ header ul.nav li a {
 	line-height: 40px;
 }
 
+.suggested-reading > h4 {
+	font-size: 26px;
+	font-weight: 700;
+	color: #31407e;
+	letter-spacing: 1px;
+}
+
 .reading-menu a {
-	font-size: 18px;
+	font-size: 14px;
 	display: block;
 	padding: .4em 0;
 	color: #000000;
+	line-height: 30px;
 }
 
 .reading-menu a:hover {
