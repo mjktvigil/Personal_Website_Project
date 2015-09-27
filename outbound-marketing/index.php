@@ -8,7 +8,7 @@
 				<p class="paragraph">
 				Outbound Marketing, or traditional marketing, includes magazine print ads, newsletters, flyers, catalogs, signage,
 				direct-mailing pieces, product inserts, and internal business collateral. Using traditional marketing as a supplement to
-				innovative marketing methods, such as online advertising, <br/>is an effective way to interact with your customers.
+				innovative marketing methods, such as online advertising, is an effective way to interact with your customers.
 				Traditional marketing can create brand recongition and increase your online presence by advertising your blog or social media networks.
 				</p>
 			</article>
@@ -47,7 +47,8 @@
 				<h2>Portfolio</h2>
 				<p class="paragraph">
 				I'm excited to share with you some Outbound Marketing, a.k.a &ldquo;printed&rdquo; material, examples.
-				Several of these projects were team-oriented projects consisting of several members such as a Copy Writer, Multi-media Designer, Photographer, and Prepress Production Artist. Campaign projects also included a Web Designer and Videographer.
+				Several of these projects were team-oriented projects consisting of several members such as a Copy Writer,
+				Multi-media Designer, Photographer, and Prepress Production Artist. Campaign projects also included a Web Designer and Videographer.
 				The teams were guided by a Creative Director, Communications Director, and a Project Coordinator or Project Manager.
 				</p>
 				<div class="alignleft">

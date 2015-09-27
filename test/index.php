@@ -36,7 +36,7 @@
 						<p class="paragraph">
 							As designers within a business,  it’s our job to solve a business problem first, than create a thing of beauty second.
 							We need to frame design problems as business problems as well as identify concerns though a scientific microscope.
-							Why and how does a design of an interface or view benefit the users AND create a Return On Investment (ROI) for the company.
+							Why and how does a design of an interface or view benefit the user AND create a Return On Investment (ROI) for the company.
 						</p>
 						<p class="paragraph">
 							Product development and design is a cyclical process. Creativity during the innovation phase is often based on user experience and artistry.
@@ -52,7 +52,6 @@
 						</p>
 					<div class="white-space"></div>
 				</article>
-				<a class="btn-theme" alt="Truchas, New Mexico" href="https://en.wikipedia.org/wiki/Truchas,_New_Mexico" title="click to Read More" target="_blank">More about Truchas, NM</a>
 			</div>
 		</div>
 		<!-- .post-content4 -->
@@ -66,12 +65,12 @@
 		<div class="row">
 			<div class="col-md-4">
 				<div class="profile">
-					<a href="https://www.linkedin.com/in/mariejtvigil" alt="marie jt vigil" title="link to LinkedIn profile" target="_blank"><img class="media-object" src="../img/mariejtvigil.jpg" alt=""></a>
-					<div class="profile-name">
-						<h3>marie jt vigil</h3>
-						<ul class="profile-network">
-							<span><li><a href="https://twitter.com/mariejtvigil" data-placement="top" alt="Twitter" title="link to Twitter profile" target="_blank"><i class="fa fa-twitter"></i></a></li></span>
-							<span><li><a href="https://www.linkedin.com/in/mariejtvigil" data-placement="top" alt="Linkedin" title="link to LinkedIn profile" target="_blank"><i class="fa fa-linkedin"></i></a></li></span>
+					<div class="example-menu">
+						<h3>Suggested Reading</h3>
+						<ul>
+							<li class="example-menu4"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+							<li class="example-menu2"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
+							<li class="example-menu3"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
 						</ul>
 					</div>
 				</div>
@@ -82,7 +81,7 @@
 			<div class="col-md-8">
 				<artilce class="post-content3">
 					<h2>Staying Focused</h2>
-					<p class="paragraph">
+					<p class="focus-paragraph">
 						Often we lose focus within the design and development stages. We get distracted, off-track, or scope creep sets in.
 						Scope creep occurs when the scope of a project is not properly defined, documented, or controlled.
 						Scope creep is harmful to the project and often causes damage to a team environment.
