@@ -50,16 +50,10 @@
 									<h4 class="aligncenter">InBound Marketing<br/> What's that?</h4>
 									<p>
 									Inbound Marketing can be defined as marketing activities that bring visitors IN, rather than marketers going OUT to get protential client's attention.
+									</p>
+									<p>
 									Inbound Marketing uses the world-wide-web to advertise your business. Clients are attracted to your online presents by knowledgeable, informative, or valued content, easily found search engine links or key words,
 									shared content on social media networks, and personalized emails.
-									</p>
-									<p>
-									Inbound Marketing is effective for both small and large businesses as
-									an affordable method of reaching a larger audience locally, nationally, and internationally.
-									</p>
-									<p>
-									In short, Inbound Marketing creates on-demand experiences for your
-									clients that match how and when they want to interact with your services.
 									</p>
 									<p>
 									Successful Inbound Marketing attracts, converts, and engages end-users. The utimate goal is to keep individuals coming back for more. Fresh content and active call-to-action messages are important to achieve this goal.
@@ -87,14 +81,10 @@
 								<div class="box-gray">
 									<h4 class="aligncenter">OutBound Marketing<br/>How traditional.</h4>
 									<p>
-									Outbound Marketing, or traditional marketing, can include printed advertisements, such as newsletters, billboards, flyers and magazine
+									Outbound Marketing can include printed advertisements, such as newsletters, billboards, flyers and magazine
 									print ads. Other forms of traditional marketing include television commercials, as well as radio spots that
 									advertise your business, product, or service. With traditional marketing, anyone with a newspaper, mail service, television, or radio can learn about your business.
 									As a business using traditional marketing, you bring your message to potential customers.
-									</p>
-									<p>
-									Using traditional marketing as a supplement to innovative marketing methods, such as online advertising, is an effective way to interact with your customers. Traditional marketing can
-									create brand recongition and increase your online presence by advertising your blog or social media networks.
 									</p>
 									<p>
 									It's hard to visualize that traditional marketing retains a place in spreading the word, however, traditional marketing remains a prefered choice of communication for many customers.
@@ -126,23 +116,16 @@
 									Simply put, Cognitive Design means to design with intent&mdash;to solve problems by thinking about the situation from many view points.
 									In Cognitive Design, a designer approaches problem solving as an engineer, rather than an artist.
 									The traditional thought that a square peg will fit into a round hole or a one-size-fits-all design process will not develop into innovatative solutions.
-									The popular answer &ldquo;cause we have always done it that way&ldquo; is not the perfect fit for many situations.
 									</p>
 									<p>
-									With Cognitive Design, Design Thinking, and User Experience Design many possible answers are evaluated
-									for one solution to one root-cause situation.
+									Asking the right key questions at the right time is how user and business needs are both meet.
 									</p>
 									<p>
-									Asking key questions focused on the root of a situation is how simple, resourceful, and intuitive solutions are built.
-									</p>
-									<p>
-									Question: How do you keep people from bringing mud into the house?
-									</p>
-									<p>
+									Question: How do you keep people from bringing mud into the house?</br>
 									Answer: Why is it muddy outside?
 									</p>
 									<div class="aligncenter">
-									<a class="btn-theme" alt="Learn more" href="../cognitive-marketing/index.php" title="click to Learn More">Cognitive Design Tools</a>
+									<a class="btn-theme" alt="Learn more" href="../cognitive-marketing/index.php" title="click to Learn More">Suggested Reading List</a>
 									</div>
 								</div>
 							</div>
