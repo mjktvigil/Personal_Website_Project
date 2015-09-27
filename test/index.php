@@ -29,6 +29,11 @@
 									<li class="reading-menu"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
 									<li class="reading-menu"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
 									<li class="reading-menu"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
+									<li class="reading-menu"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+									<li class="reading-menu"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
+									<li class="reading-menu"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
+									<li class="reading-menu"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+									<li class="reading-menu"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
 								</ul>
 						</nav><!-- .example-menu -->
 						</div>
@@ -83,8 +88,31 @@
 	<section class="container read-more">
 		<div class="row">
 			<div class="col-md-4">
-			</div>
-			<!-- col-md-4 -->
+				<div class="suggested-reading">
+					<h3>Suggested Reading</h3>
+					<nav class="example-menu">
+						<ul>
+							<li class="reading-menu"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+							<li class="reading-menu"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
+							<li class="reading-menu"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
+							<li class="reading-menu"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+							<li class="reading-menu"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
+							<li class="reading-menu"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
+							<li class="reading-menu"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+							<li class="reading-menu"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
+							<li class="reading-menu"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
+							<li class="reading-menu"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+							<li class="reading-menu"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
+							<li class="reading-menu"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
+							<li class="reading-menu"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+							<li class="reading-menu"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
+							<li class="reading-menu"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
+							<li class="reading-menu"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+							<li class="reading-menu"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
+						</ul>
+					</nav><!-- .example-menu -->
+				</div>
+			</div><!-- col-md-4 -->
 			<!-- Start Focus-paragraph -->
 			<div class="col-md-8">
 				<artilce class="post-content3">
