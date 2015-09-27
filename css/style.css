@@ -213,6 +213,7 @@ header ul.nav li a {
 	/** transition: all 0.2s ease;**/
 }
 
+
 .example-menu1 a:hover {
 	padding: .4em 1em;
 	background-color: #0088cc;
@@ -240,6 +241,7 @@ header ul.nav li a {
 	text-decoration: none;
 	color: white;
 }
+
 
 .side-navigation {
 	margin-bottom: 60px;
@@ -347,6 +349,26 @@ header ul.nav li a {
 
 .read-more {
 	margin-bottom: 60px;
+}
+
+.suggested-reading > h3 {
+	font-size: 30px;
+	font-weight: 700;
+	color: #31407e;
+	letter-spacing: 1px;
+	line-height: 40px;
+}
+
+.reading-menu a {
+	font-size: 18px;
+	display: block;
+	padding: .4em 0;
+	color: #000000;
+}
+
+.reading-menu a:hover {
+	text-decoration: none;
+	color: #0088cc;
 }
 
 
@@ -512,6 +534,7 @@ header ul.nav li a {
 	letter-spacing: 1px;
 	margin-left: 42px;
 }
+
 .profile-network li a {
 	text-decoration: none;
 	font-size: 36px;
