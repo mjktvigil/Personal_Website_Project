@@ -76,7 +76,7 @@
 							Seeking understanding of the complexities of everyday human experience and merging them with business goals leads to a cognitive marketing approach to design.
 						</p>
 						<p class="paragraph">
-							Remember to keep it simple, make it useful, practice empathy, apply constraints, have fun, and don't take yourself to serious.
+							Remember to keep it simple, make it useful, practice empathy, apply constraints, have fun, and don't take yourself too serious.
 						</p>
 					<div class="white-space"></div>
 				</article>

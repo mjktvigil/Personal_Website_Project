@@ -10,16 +10,11 @@
 							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25810.179623731816!2d-105.80963210000002!3d36.03805605000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x871832e8eb7744c3%3A0x2ec71cdde2af7d33!2sTruchas%2C+NM!5e0!3m2!1sen!2sus!4v1441075310812"></iframe>
 						</div>
 						<!--.gmap -->
-					</div>
-					<!--.col-sm-5 -->
-				</div>
-				<!--.row -->
-			</div>
-			<!--.container -->
-		</div>
-		<!-- .gmap-area -->
-	</section>
-	<!-- #contact-info -->
+					</div><!--.col-sm-5 -->
+				</div><!--.row -->
+			</div><!--.container -->
+		</div><!-- .gmap-area -->
+	</section><!-- #contact-info -->
 	<!-- End Gmap with iframe -->
 	<!-- Start Headline-intro Content -->
 	<!-- Start Side Navigation -->
@@ -34,16 +29,11 @@
 								<li class="example-menu2"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
 								<li class="example-menu3"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
 							</ul>
-						</nav>
-						<!-- .example-menu -->
-					</div>
-					<!-- .squish-container -->
-				</div>
-				<!-- .sidebar -->
-			</div>
-			<!-- .col-md-4 image-service-box -->
-		</div>
-		<!-- column-fluid -->
+						</nav><!-- .example-menu -->
+					</div><!-- .squish-container -->
+				</div><!-- .sidebar -->
+			</div><!-- .col-md-4 image-service-box -->
+		</div><!-- column -->
 		<!-- End Side Navigation -->
 		<!-- Start Portfolio Intoduction Article -->
 		<div class="container read-more">
@@ -69,11 +59,9 @@
 				</article>
 				<a class="btn-theme" alt="Truchas, New Mexico" href="https://en.wikipedia.org/wiki/Truchas,_New_Mexico" title="click to Read More" target="_blank">More about Truchas, NM</a>
 			</div>
-		</div>
-		<!-- .post-content4 -->
+		</div><!-- .post-content4 -->
 		<!-- End Portfolio Intoduction Article -->
-	</div>
-	<!-- .container -->
+	</div><!-- .container -->
 	<!-- End article -->
 	<!-- End Side Navigation -->
 	<!-- Start Photo and Article Section -->
@@ -89,10 +77,8 @@
 							<span><li><a href="https://www.linkedin.com/in/mariejtvigil" data-placement="top" alt="Linkedin" title="link to LinkedIn profile" target="_blank"><i class="fa fa-linkedin"></i></a></li></span>
 						</ul>
 					</div>
-				</div>
-				<!-- profile -->
-			</div>
-			<!-- col-md-4 -->
+				</div><!-- profile -->
+			</div><!-- col-md-4 -->
 			<!-- Start Principles -->
 			<div class="col-md-8">
 				<artilce class="post-content3">
@@ -108,19 +94,14 @@
 							</ul>
 						</p>
 				</artilce>
-			</div>
-			<!--.col-md-8 -->
+			</div><!--.col-md-8 -->
 			<!-- End Principles -->
-		</div>
-		<!--.row -->
-	</section>
-	<!--.container -->
+		</div><!--.row -->
+	</section><!--.container -->
 	<!-- End Photo and Article Section -->
 	<!-- Start bottom-line -->
 	<div class="bottom-line container-fluid">
 		<div class="row">
-		</div>
-		<!--.row -->
-	</div>
-	<!-- .bottom-line .container-fluid -->
+		</div><!--.row -->
+	</div><!-- .bottom-line .container-fluid -->
 <?php require_once('../lib/footer.php'); ?>
