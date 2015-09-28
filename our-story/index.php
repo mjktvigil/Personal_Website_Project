@@ -35,7 +35,7 @@
 			</div><!-- .col-md-4 image-service-box -->
 		</div><!-- column -->
 		<!-- End Side Navigation -->
-		<!-- Start Portfolio Intoduction Article -->
+		<!-- Start My Story Intoduction Article -->
 		<div class="container read-more">
 			<div class="col-md-8">
 				<article class="post-content4">
@@ -60,7 +60,7 @@
 				<a class="btn-theme" alt="Truchas, New Mexico" href="https://en.wikipedia.org/wiki/Truchas,_New_Mexico" title="click to Read More" target="_blank">More about Truchas, NM</a>
 			</div>
 		</div><!-- .post-content4 -->
-		<!-- End Portfolio Intoduction Article -->
+		<!-- End  My Story Intoduction Article -->
 	</div><!-- .container -->
 	<!-- End article -->
 	<!-- End Side Navigation -->
