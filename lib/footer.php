@@ -24,7 +24,7 @@
 					<h5 class="widgetheading"><strong>Pages&hellip;</strong></h5>
 					<ul class="link-list">
 						<li><a href="../home/index.php">Home</a></li>
-						<li><a href="../our-story/index.php">My Story</a></li>
+						<li><a href="../my-story/index.php">My Story</a></li>
 						<li><a href="../chat-with-us/index.php">Chat with me</a></li>
 					</ul>
 				</div>

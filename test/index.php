@@ -13,14 +13,15 @@
 								<li class="example-menu3"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
 							</ul>
 						</nav><!-- .example-menu -->
-
+						<div class="">
+							<img src="../img/eyeglasses.jpg" alt="eyeglasses" />
+						</div>
 					</div><!-- .squish-container -->
 				</div><!-- .sidebar -->
 			</div><!-- .col-md-4 image-service-box -->
 		</div><!-- column -->
 		<!-- End Side Navigation -->
-
-
+		<!-- Eyeglass Image -->
 
 		<!-- Start Portfolio Intoduction Article -->
 		<div class="container read-more">
