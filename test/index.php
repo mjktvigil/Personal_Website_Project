@@ -1,26 +1,40 @@
 <?php require_once('../lib/head-utils.php'); ?>
 <?php require_once('../lib/header.php'); ?>
-	<!-- Start Side Navigation -->
-	<div class="container">
-		<div class="column">
-			<div class="col-md-4 image-service-box">
-				<div class="sidebar">
-					<div class="squish-container">
-						<nav class="example-menu">
-							<ul>
-								<li class="example-menu4"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
-								<li class="example-menu2"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
-								<li class="example-menu3"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
-							</ul>
-						</nav><!-- .example-menu -->
-						<div class="">
-							<img src="../img/eyeglasses.jpg" alt="eyeglasses" />
-						</div>
-					</div><!-- .squish-container -->
-				</div><!-- .sidebar -->
-			</div><!-- .col-md-4 image-service-box -->
-		</div><!-- column -->
-		<!-- End Side Navigation -->
+<!-- Start Gmap with iframe -->
+<section id="contact-info">
+	<div class="gmap-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-5">
+					<div class="gmap">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25810.179623731816!2d-105.80963210000002!3d36.03805605000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x871832e8eb7744c3%3A0x2ec71cdde2af7d33!2sTruchas%2C+NM!5e0!3m2!1sen!2sus!4v1441075310812"></iframe>
+					</div>
+					<!--.gmap -->
+				</div><!--.col-sm-5 -->
+			</div><!--.row -->
+		</div><!--.container -->
+	</div><!-- .gmap-area -->
+</section><!-- #contact-info -->
+<!-- End Gmap with iframe -->
+<!-- Start Headline-intro Content -->
+<!-- Start Side Navigation -->
+<div class="container">
+	<div class="column">
+		<div class="col-md-4 image-service-box">
+			<div class="sidebar">
+				<div class="squish-container">
+					<nav class="example-menu">
+						<ul>
+							<li class="example-menu1"><a href="../inbound-marketing/index.php"><strong>InBound Marketing</strong></a> </li>
+							<li class="example-menu2"><a href="../outbound-marketing/index.php"><strong>OutBound Marketing</strong></a></li>
+							<li class="example-menu3"><a href="../cognitive-marketing/index.php"><strong>Cognitive Marketing </strong></a></li>
+						</ul>
+					</nav><!-- .example-menu -->
+				</div><!-- .squish-container -->
+			</div><!-- .sidebar -->
+		</div><!-- .col-md-4 image-service-box -->
+	</div><!-- column -->
+	<!-- End Side Navigation -->
 		<!-- Eyeglass Image -->
 
 		<!-- Start Portfolio Intoduction Article -->
