@@ -20,7 +20,8 @@ Portolio details
 bottom line
 13. Scroll to Top
 14. Welcome page
-15. Media queries
+15. Cognitive Marketing image
+16. Media queries
 ====================================
 */
 
@@ -282,14 +283,6 @@ header ul.nav li a {
 	text-align: center;
 }
 
-.post-content5 h2 {
-	font-family: 'Raleway', sans-serif;
-	font-size: 50px;
-	font-weight: 400;
-	text-align: center;
-	margin-top: 80px;
-}
-
 .post-content p {
 	font-size: 30px;
 	font-weight: 400;
@@ -314,13 +307,6 @@ header ul.nav li a {
 }
 
 .post-content4 p {
-	font-size: 20px;
-	font-weight: 400;
-	text-align: left;
-	margin-bottom: 20px;
-}
-
-.post-content5 p {
 	font-size: 20px;
 	font-weight: 400;
 	text-align: left;
@@ -968,7 +954,22 @@ a.scrollup i:hover {
 
 
 /* =============================
-15. Media queries
+15. Cognitive Marketing image
+============================= */
+
+
+.cognitive-image {
+	background-image: url("../img/eyeglasses.jpg");
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 60px;
+	height: 387px;
+}
+
+
+/* =============================
+16. Media queries
 ============================= */
 
 @media (min-width: 768px) and (max-width: 979px) {
