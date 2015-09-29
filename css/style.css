@@ -585,7 +585,7 @@ ul.profile-network {
 }
 /* ============================
 9. Forms
-============================= */
+=============================
 
 .status .alert .alert-success {
 	display: none;
@@ -622,6 +622,8 @@ textarea#message{
 	text-align: center;
 	padding-bottom: 55px;
 }
+
+*/
 
 /* ===============================
 10. Portfolio
