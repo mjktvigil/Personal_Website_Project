@@ -46,7 +46,7 @@
 						<li><a href="https://twitter.com/mariejtvigil" data-placement="top" title="Twitter" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
 						<li><a href="https://www.linkedin.com/in/mariejtvigil" data-placement="top" title="Linkedin" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
 						<li><a href="https://plus.google.com/u/0/111062279938596830993/posts" data-placement="top" title="Google plus" target="_blank"><i class="fa fa-google-plus-square"></i></a></li>
-						<li><a href="https://github.com/mjktvigil" data-placement="top" title="GitHub" target="_blank"><i class="fa fa-github-square"></i></a></li>
+						<li><a href="https://github.com/mariejtvigil" data-placement="top" title="GitHub" target="_blank"><i class="fa fa-github-square"></i></a></li>
 					</ul>
 				</div>
 			</div>
