@@ -690,6 +690,16 @@ ul.profile-network {
 	filter: alpha(opacity=80);
 }
 
+.mariejtvigil {
+	color: blue;
+	text-decoration: underline;
+}
+
+.mariejtvigil a:hover {
+	color: #f28814;
+	text-decoration: none;
+}
+
 /* --- portfolio detail --- */
 .top-wrapper {
 	margin-bottom:20px;
