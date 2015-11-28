@@ -126,7 +126,7 @@
 							<div class="box">
 								<div class="box-top-read box-two-top">
 									<h2>Suggested Reading</h2>
-									<h3>UX Books in Disguise</h3>
+									<h3>Behavioral Economics:</h3>
 								</div>
 								<div class="box-gray">
 									<ul>
